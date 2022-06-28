@@ -1,11 +1,12 @@
 import { MetaData } from 'components/Head'
 import LESSONS from './lessons'
+import { WHITELABEL } from './whitelabel'
 
-export const PROJECT_NAME = 'humanDAO Academy'
+export const PROJECT_NAME = WHITELABEL?.project_name || 'Bankless Academy'
 
-export const IS_WHITE_LABEL = true
+export const IS_WHITE_LABEL = !!WHITELABEL?.project_name
 
-export const DOMAIN_PROD = 'humandao.banklessacademy.com'
+export const DOMAIN_PROD = WHITELABEL?.domain_prod || 'app.banklessacademy.com'
 
 export const DOMAIN_URL =
   process.env.VERCEL_URL && process.env.VERCEL_ENV !== 'production'
@@ -14,18 +15,25 @@ export const DOMAIN_URL =
 
 export const DEFAULT_METADATA: MetaData = {
   title: PROJECT_NAME,
-  description: 'Improve lives through crypto',
-  image: `${DOMAIN_URL}/humanDAO/humanDAO.png`,
+  description:
+    WHITELABEL?.default_metadata_description ||
+    'Level up your knowledge of Web3 and DeFi',
+  image: `${DOMAIN_URL}${
+    WHITELABEL?.default_metadata_image || '/images/bankless_academy_v3.jpg'
+  }`,
 }
 
-export const FAVICON = '/humanDAO/favicon.png'
+export const FAVICON = WHITELABEL?.favicon || '/favicon.png'
 
-export const LOGO = '/humanDAO/HDAO-white.svg'
-export const LOGO_SMALL = '/humanDAO/HDAO-white.svg'
+export const LOGO = WHITELABEL?.logo || '/images/BanklessAcademy.svg'
+export const LOGO_SMALL =
+  WHITELABEL?.logo_small || '/images/BanklessAcademy_Logo.svg'
 
-export const HOMEPAGE_BACKGROUND = '/humanDAO/homepage_background.jpg'
+export const HOMEPAGE_BACKGROUND =
+  WHITELABEL?.homepage_background || '/images/homepage_background_v3.jpg'
 
-export const UMAMI_PROD = 'a50ccb31-0534-407f-aebe-312bd64b2689'
+export const UMAMI_PROD =
+  WHITELABEL?.umami_prod || '62d1cf48-425d-4658-9b86-3eea78ac9714'
 
 export const TOKEN_ADDRESS = {
   1: '0x2d94aa3e47d9d5024503ca8491fce9a2fb4da198',
