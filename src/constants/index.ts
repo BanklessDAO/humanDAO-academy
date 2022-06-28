@@ -5,15 +5,17 @@ export const PROJECT_NAME = 'humanDAO Academy'
 
 export const IS_WHITE_LABEL = true
 
-export const DOMAIN =
+export const DOMAIN_PROD = 'humandao.banklessacademy.com'
+
+export const DOMAIN_URL =
   process.env.VERCEL_URL && process.env.VERCEL_ENV !== 'production'
     ? `https://${process.env.VERCEL_URL}`
-    : 'https://humandao.banklessacademy.com/'
+    : `https://${DOMAIN_PROD}`
 
 export const DEFAULT_METADATA: MetaData = {
   title: PROJECT_NAME,
   description: 'Improve lives through crypto',
-  image: `${DOMAIN}/humanDAO/humanDAO.png`,
+  image: `${DOMAIN_URL}/humanDAO/humanDAO.png`,
 }
 
 export const FAVICON = '/humanDAO/favicon.png'
@@ -22,6 +24,8 @@ export const LOGO = '/humanDAO/HDAO-white.svg'
 export const LOGO_SMALL = '/humanDAO/HDAO-white.svg'
 
 export const HOMEPAGE_BACKGROUND = '/humanDAO/homepage_background.jpg'
+
+export const UMAMI_PROD = 'a50ccb31-0534-407f-aebe-312bd64b2689'
 
 export const TOKEN_ADDRESS = {
   1: '0x2d94aa3e47d9d5024503ca8491fce9a2fb4da198',
