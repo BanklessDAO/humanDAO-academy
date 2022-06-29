@@ -14,9 +14,9 @@ const DEFAULT_NOTION_ID = '1dd77eb6ed4147f6bdfd6f23a30baa46'
 const POTION_API = 'https://potion.banklessacademy.com'
 
 const KEY_MATCHING = {
-  'POAP image link': 'poapImageLink',
-  'Lesson image link': 'lessonImageLink',
-  'Social image link': 'socialImageLink',
+  'POAP image': 'poapImageLink',
+  'Lesson image': 'lessonImageLink',
+  'Social image': 'socialImageLink',
   'What will you be able to do after this lesson?': 'learningActions',
   'Landing page copy': 'marketingDescription',
   // 'Knowledge Requirements': 'knowledgeRequirements',
@@ -35,7 +35,7 @@ const KEY_MATCHING = {
 }
 
 const args = process.argv
-const NOTION_ID = args[2] && args[2].length === 32 ? args[2] : DEFAULT_NOTION_ID
+const NOTION_ID = args[2] && args[2].length === 32 ? args[2] : process.env.DEFAULT_CONTENT_DB_ID || DEFAULT_NOTION_ID
 console.log('NOTION_ID', NOTION_ID)
 
 const slugify = (text) => text.toLowerCase()
@@ -43,6 +43,28 @@ const slugify = (text) => text.toLowerCase()
   .replace(/[^a-z0-9 -]/g, '') // remove invalid chars
   .replace(/\s+/g, '-') // collapse whitespace and replace by -
   .replace(/-+/g, '-') // collapse dashes
+
+const get_img = (imageLink, lesson_slug, image_name) => {
+  const [file_name] = imageLink.split('?')
+  const file_extension = file_name.match(/\.(png|svg|jpg|jpeg)/)[1]
+  // console.log(file_extension)
+  // create "unique" hash based on Notion imageLink (different when re-uploaded)
+  const hash = crc32(file_name)
+  const image_dir = `/${PROJECT_DIR}lesson/${lesson_slug}`
+  const local_image_dir = `public${image_dir}`
+  // create image directory dynamically in case it doesn't exist yet
+  if (!fs.existsSync(local_image_dir)) {
+    fs.mkdirSync(local_image_dir);
+  }
+  const image_path = `${image_dir}/${slugify(image_name)}-${hash}.${file_extension}`
+  // console.log('image_path', image_path)
+  const local_image_path = `public${image_path}`
+  if (!fs.existsSync(local_image_path)) {
+    download_image(imageLink, local_image_path)
+    console.log('downloading image: ', local_image_path)
+  }
+  return image_path
+}
 
 const download_image = (url, image_path) =>
   axios({
@@ -57,6 +79,9 @@ axios
   .then((notionRows) => {
     const lessons = []
     const promiseArray = notionRows.data.map((notion, index) => {
+      // DEV_MODE: only test first lesson
+      // if (index > 0) return
+
       console.log('Notion lesson link: ', `${POTION_API}/html?id=${notion.id}`)
       const lesson = Object.keys(KEY_MATCHING).reduce(
         (obj, k) =>
@@ -88,6 +113,17 @@ axios
           // replace keys
           lesson.notionId = notion.id.replace(/-/g, '')
           lesson.slug = slugify(lesson.name)
+
+          if (lesson.poapImageLink) {
+            lesson.poapImageLink = get_img(lesson.poapImageLink, lesson.slug, 'poap')
+          }
+          if (lesson.lessonImageLink) {
+            lesson.lessonImageLink = get_img(lesson.lessonImageLink, lesson.slug, 'lesson')
+          }
+          if (lesson.socialImageLink) {
+            lesson.socialImageLink = get_img(lesson.socialImageLink, lesson.slug, 'social')
+          }
+
           lesson.imageLinks = []
           // data cleaning
           htmlPage.data = htmlPage.data
@@ -227,6 +263,7 @@ axios
             .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
             .join(' ')
             .replace(/\s+/g, '')
+            .replace(/[^A-Za-z0-9]/g, '') // remove invalid chars
           if (lesson.quest === true) {
             lesson.quest = componentName
             slides.push({
