@@ -13,7 +13,7 @@ const LESSONS: LessonType[] = [
     difficulty: 'Easy',
     description: 'Understand the potential of Blockchain technology',
     name: 'What is a Blockchain?',
-    quest: 'WhatIsABlockchain',
+    quest: 'humanDAOWhatIsABlockchain',
     publicationStatus: 'publish',
     isFeaturedOnHomepage: true,
     isCommentsEnabled: false,
@@ -112,7 +112,7 @@ const LESSONS: LessonType[] = [
       {
         type: 'QUEST',
         title: 'What is a Blockchain? Quest',
-        component: 'WhatIsABlockchain'
+        component: 'humanDAOWhatIsABlockchain'
       },
       {
         type: 'END',
@@ -132,7 +132,7 @@ const LESSONS: LessonType[] = [
     difficulty: 'Easy',
     description: 'Understand what a Decentralized Autonomous Organization is',
     name: 'What is a DAO?',
-    quest: 'WhatIsADAO',
+    quest: 'humanDAOWhatIsADAO',
     publicationStatus: 'publish',
     isFeaturedOnHomepage: true,
     isCommentsEnabled: false,
@@ -202,7 +202,7 @@ const LESSONS: LessonType[] = [
       {
         type: 'QUEST',
         title: 'What is a DAO? Quest',
-        component: 'WhatIsADAO'
+        component: 'humanDAOWhatIsADAO'
       },
       {
         type: 'END',
