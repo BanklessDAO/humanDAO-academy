@@ -49,7 +49,7 @@ const slugify = (text) => text.toLowerCase()
 
 const get_img = (imageLink, lesson_slug, image_name) => {
   const [file_name] = imageLink.split('?')
-  const file_extension = file_name.match(/\.(png|svg|jpg|jpeg)/)[1]
+  const file_extension = file_name.match(/\.(png|svg|jpg|jpeg)/)[1].replace('jpeg', 'jpg')
   // console.log(file_extension)
   // create "unique" hash based on Notion imageLink (different when re-uploaded)
   const hash = crc32(file_name)
@@ -85,7 +85,6 @@ axios
       // DEV_MODE: only test first lesson
       // if (index > 0) return
 
-      console.log('Notion lesson link: ', `${POTION_API}/html?id=${notion.id}`)
       const lesson = Object.keys(KEY_MATCHING).reduce(
         (obj, k) =>
           Object.assign(obj, {
@@ -97,6 +96,7 @@ axios
         {}
       )
       if (lesson.publicationStatus === undefined) return
+      console.log('Notion lesson link: ', `${POTION_API}/html?id=${notion.id}`)
 
       if (lesson.description === undefined) lesson.description = ''
       if (lesson.socialImageLink === undefined) lesson.socialImageLink = null
