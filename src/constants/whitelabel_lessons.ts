@@ -110,11 +110,6 @@ const LESSONS: LessonType[] = [
         content: '<div class="bloc-ab"><div class="bloc-a"><img src=\'/humanDAO/lesson/what-is-a-blockchain/popular-applications-of-blockchains-are-b3851b89.jpg\'></div><div class="bloc-b"><p>Cryptocurrencies like Bitcoin and Ethereum</p></div></div><div class="bloc-ab"><div class="bloc-a"><img src=\'/humanDAO/lesson/what-is-a-blockchain/popular-applications-of-blockchains-are-bb38d24f.jpg\'></div><div class="bloc-b"><p>NFTs</p></div></div>'
       },
       {
-        type: 'QUEST',
-        title: 'What is a Blockchain? Quest',
-        component: 'humanDAOWhatIsABlockchain'
-      },
-      {
         type: 'END',
         title: 'End of lesson'
       }
@@ -198,11 +193,6 @@ const LESSONS: LessonType[] = [
         notionId: '5007c7e11f3a488889a8ff6bbf92f54e',
         title: 'Here’s a quick navigation guide to the DAO Landscape',
         content: '<img src=\'/humanDAO/lesson/what-is-a-dao/heres-a-quick-navigation-guide-to-the-dao-landscape-9f204c44.jpg\'>'
-      },
-      {
-        type: 'QUEST',
-        title: 'What is a DAO? Quest',
-        component: 'humanDAOWhatIsADAO'
       },
       {
         type: 'END',
