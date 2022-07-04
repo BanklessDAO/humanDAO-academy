@@ -212,6 +212,7 @@ const LESSONS: LessonType[] = [
     difficulty: 'Easy',
     description: 'This module covers the basic concepts of Financial Literacy',
     name: 'Financial Literacy 101',
+    quest: 'humanDAOFinancialLiteracy101',
     publicationStatus: 'publish',
     isFeaturedOnHomepage: true,
     isCommentsEnabled: true,
