@@ -199,6 +199,121 @@ const LESSONS: LessonType[] = [
         title: 'End of lesson'
       }
     ]
+  },
+  {
+    poapImageLink: '/humanDAO/lesson/financial-literacy-101/poap-63e65847.jpg',
+    lessonImageLink: '/humanDAO/lesson/financial-literacy-101/lesson-7bcb46a8.jpg',
+    socialImageLink: '/humanDAO/lesson/financial-literacy-101/social-c39ade19.jpg',
+    learningActions: '',
+    marketingDescription: 'This module covers the basic concepts of Financial Literacy',
+    poapEventId: null,
+    duration: 15,
+    learnings: '',
+    difficulty: 'Easy',
+    description: 'This module covers the basic concepts of Financial Literacy',
+    name: 'Financial Literacy 101',
+    publicationStatus: 'publish',
+    isFeaturedOnHomepage: true,
+    isCommentsEnabled: true,
+    endOfLessonRedirect: null,
+    endOfLessonText: 'How did you like the module? What more would you like to learn? Put your suggestions in the comments!',
+    notionId: '4ea9b2c3e52246269a0573bd051e3b4d',
+    slug: 'financial-literacy-101',
+    imageLinks: [
+      '/humanDAO/lesson/financial-literacy-101/why-is-it-important-to-learn-financial-literacy-2d9dbeff.jpg',
+      '/humanDAO/lesson/financial-literacy-101/why-is-it-important-to-learn-financial-literacy-d453524d.jpg',
+      '/humanDAO/lesson/financial-literacy-101/what-happens-due-to-lack-of-financial-literacy-4af6cee8.jpg',
+      '/humanDAO/lesson/financial-literacy-101/major-pillars-of-financial-literacy-8ea023e6.jpg',
+      '/humanDAO/lesson/financial-literacy-101/pillar-1-earn-57f279c9.jpg',
+      '/humanDAO/lesson/financial-literacy-101/pillar-2-spend-9bb90495.jpg',
+      '/humanDAO/lesson/financial-literacy-101/pillar-3-save-and-invest-1be53149.jpg',
+      '/humanDAO/lesson/financial-literacy-101/pillar-4-borrow-3f7af051.jpg',
+      '/humanDAO/lesson/financial-literacy-101/pillar-5-protect-35d8709a.jpg',
+      '/humanDAO/lesson/financial-literacy-101/financial-literacy-at-humandao-77c83cc1.jpg',
+      '/humanDAO/lesson/financial-literacy-101/self-assessment-ad02cd83.jpg'
+    ],
+    slides: [
+      {
+        type: 'LEARN',
+        notionId: '8b03a8edaccb44228ff03906bc5a4335',
+        title: '<strong>Why is it important to Learn Financial Literacy?</strong>',
+        content: '<div class="bloc-ab"><div class="bloc-a"><img src=\'/humanDAO/lesson/financial-literacy-101/why-is-it-important-to-learn-financial-literacy-2d9dbeff.jpg\'></div><div class="bloc-b"><p><strong>Why is it important to Learn Financial Literacy: Reason 1</strong></p></div></div><div class="bloc-ab"><div class="bloc-a"><img src=\'/humanDAO/lesson/financial-literacy-101/why-is-it-important-to-learn-financial-literacy-d453524d.jpg\'></div><div class="bloc-b"><p><strong>Why is it important to Learn Financial Literacy: Reason 2</strong></p></div></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '0b38521286c640f28f7b352beb58bc59',
+        title: 'What happens due to lack of Financial Literacy?',
+        content: '<img src=\'/humanDAO/lesson/financial-literacy-101/what-happens-due-to-lack-of-financial-literacy-4af6cee8.jpg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '45fa000e9a584fa19bc3cb96c4cdb74b',
+        title: 'Major <strong>Pillars of Financial Literacy</strong>',
+        content: '<img src=\'/humanDAO/lesson/financial-literacy-101/major-pillars-of-financial-literacy-8ea023e6.jpg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '5ef22610912c4ef18076b8cd44d4828a',
+        title: '<strong>Pillar 1: Earn</strong>',
+        content: '<img src=\'/humanDAO/lesson/financial-literacy-101/pillar-1-earn-57f279c9.jpg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '8a57706cd2774a88bfc842ff5c7a09ad',
+        title: '<strong>Pillar 2: Spend</strong>',
+        content: '<img src=\'/humanDAO/lesson/financial-literacy-101/pillar-2-spend-9bb90495.jpg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'f01449b632e7447794ba12f26b98520c',
+        title: '<strong>Pillar 3: Save and Invest</strong>',
+        content: '<img src=\'/humanDAO/lesson/financial-literacy-101/pillar-3-save-and-invest-1be53149.jpg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '2010412afd8e4c32a9fda29558baabe1',
+        title: '<strong>Pillar 4: Borrow</strong>',
+        content: '<img src=\'/humanDAO/lesson/financial-literacy-101/pillar-4-borrow-3f7af051.jpg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '6e5700b8e4a24029abd79e1f41d6601b',
+        title: '<strong>Pillar 5: Protect</strong>',
+        content: '<img src=\'/humanDAO/lesson/financial-literacy-101/pillar-5-protect-35d8709a.jpg\'>'
+      },
+      {
+        type: 'QUIZ',
+        notionId: '5de3e9a2376f4f0d8007ac376bac4c9d',
+        title: 'Fact Check',
+        quiz: {
+          question: 'Chose the right equation:',
+          rightAnswerNumber: 2,
+          answers: [
+            'Income - Expense = Savings',
+            'Income - Savings = Expenses',
+            'Both are wrong',
+            'Both are right'
+          ],
+          id: 'financial-literacy-101-1'
+        }
+      },
+      {
+        type: 'LEARN',
+        notionId: '4705a9d0dd98482fb59a775b77cf2e36',
+        title: 'Financial Literacy at HumanDAO',
+        content: '<img src=\'/humanDAO/lesson/financial-literacy-101/financial-literacy-at-humandao-77c83cc1.jpg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '8ca34f91481342d797759561ef3501ab',
+        title: '<strong>Self-Assessment</strong>',
+        content: '<img src=\'/humanDAO/lesson/financial-literacy-101/self-assessment-ad02cd83.jpg\'>'
+      },
+      {
+        type: 'END',
+        title: 'End of lesson'
+      }
+    ]
   }
 ]
 
