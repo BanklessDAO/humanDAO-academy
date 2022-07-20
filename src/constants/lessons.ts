@@ -452,51 +452,6 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/lesson/academy-community/poap-4fce19ff.png',
-    lessonImageLink: '/lesson/academy-community/lesson-755fe7a3.png',
-    socialImageLink: '/lesson/academy-community/social-1f64464b.jpg',
-    learningActions: '',
-    marketingDescription: 'Join the Academy Explorer Community on gm.xyz',
-    poapEventId: null,
-    duration: 10,
-    learnings: '',
-    difficulty: 'Easy',
-    description: 'Join the Academy Explorer Community on gm.xyz',
-    name: 'Academy Community',
-    quest: 'AcademyCommunity',
-    publicationStatus: 'hidden',
-    isFeaturedOnHomepage: false,
-    isCommentsEnabled: false,
-    endOfLessonRedirect: null,
-    endOfLessonText: undefined,
-    notionId: '44b8a4937fcd43fa8e12400cb75885a1',
-    slug: 'academy-community',
-    imageLinks: [],
-    slides: [
-      {
-        type: 'LEARN',
-        notionId: 'e398fcd0d14b45f1be30f709019faa50',
-        title: 'You’re one step away, Explorer.',
-        content: '<div class="bloc1"><p>Now that you have your digital wallet, let’s use it to join the Academy Community.</p><p>Wallets don’t only serve the purpose of keeping your digital assets, but also as a means of decentralized verification. </p><p>Thanks to its web3 native nature - wallet login, token-holder roles, and more! - we’ve chosen <a href=\'https://gm.xyz/?utm_source=BanklessAcademy&utm_medium=website&utm_campaign=GM-lesson\'>gm.xyz</a> as our community home. To participate in the conversation, you must sign in with your wallet. We can walk you through it in our video at the end of the lesson.</p><p>Ready to start your community journey? Let’s go Explorer!</p></div>'
-      },
-      {
-        type: 'LEARN',
-        notionId: 'd88acd5ee49c4fa88e9dc1c4fc136e80',
-        title: 'Why join Bankless Academy?',
-        content: '<div class="bloc1"><p>👋 New to the space? Meet with other fellow <strong>Explorers </strong>and share knowledge.</p><p>📖 Been here for a while? <strong>Become a mentor </strong>and gain recognition by teaching others.</p><p>Let’s <strong>learn together</strong>.</p><p>💬 <strong>General:</strong> Meet with other fellow <strong>Explorers </strong>and share knowledge.</p><p>🎙️ A<strong>sk-me-anything: </strong>Participate in our <strong>AMAs with industry specialists.</strong></p><p>💾 <strong>Library:</strong> Level up your <strong>knowledge </strong>about all-things web3 in the library.</p><p>🌟 <strong>Announcements:</strong> Stay up to date with important community announcements.</p></div>'
-      },
-      {
-        type: 'QUEST',
-        title: 'Academy Community Quest',
-        component: 'AcademyCommunity'
-      },
-      {
-        type: 'END',
-        title: 'End of lesson'
-      }
-    ]
-  },
-  {
     poapImageLink: '/lesson/blockchain-basics/poap-b0048cdb.png',
     lessonImageLink: '/lesson/blockchain-basics/lesson-c84db284.png',
     socialImageLink: '/lesson/blockchain-basics/social-07ea2639.jpg',
@@ -705,46 +660,102 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/lesson/web3-security/poap-369c812e.png',
-    lessonImageLink: '/lesson/web3-security/lesson-c6aaf6fa.png',
-    socialImageLink: '/lesson/web3-security/social-bf0e7fc3.jpg',
+    poapImageLink: '/lesson/academy-community/poap-4fce19ff.png',
+    lessonImageLink: '/lesson/academy-community/lesson-755fe7a3.png',
+    socialImageLink: '/lesson/academy-community/social-1f64464b.jpg',
+    learningActions: '',
+    marketingDescription: 'Join the Academy Explorer Community on gm.xyz',
+    poapEventId: null,
+    duration: 10,
+    learnings: '',
+    difficulty: 'Easy',
+    description: 'Join the Academy Explorer Community on gm.xyz',
+    name: 'Academy Community',
+    quest: 'AcademyCommunity',
+    publicationStatus: 'publish',
+    isFeaturedOnHomepage: true,
+    isCommentsEnabled: false,
+    endOfLessonRedirect: null,
+    endOfLessonText: undefined,
+    notionId: '44b8a4937fcd43fa8e12400cb75885a1',
+    slug: 'academy-community',
+    imageLinks: [],
+    slides: [
+      {
+        type: 'LEARN',
+        notionId: 'e398fcd0d14b45f1be30f709019faa50',
+        title: 'You’re one step away, Explorer.',
+        content: '<div class="bloc1"><p>Now that you have your digital wallet, let’s use it to join the Academy Community.</p><p>Wallets don’t only serve the purpose of keeping your digital assets, but also as a means of decentralized verification. </p><p>Thanks to its web3 native nature - wallet login, token-holder roles, and more! - we’ve chosen <a href=\'https://gm.xyz/?utm_source=BanklessAcademy&utm_medium=website&utm_campaign=GM-lesson\'>gm.xyz</a> as our community home. To participate in the conversation, you must sign in with your wallet. We can walk you through it in our video at the end of the lesson.</p><p>Ready to start your community journey? Let’s go Explorer!</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'd88acd5ee49c4fa88e9dc1c4fc136e80',
+        title: 'Why join Bankless Academy?',
+        content: '<div class="bloc1"><p>👋 New to the space? <strong>Meet with fellow Explorers </strong>and share knowledge.</p><p>📖 Been here for a while? <strong>Become a mentor </strong>and gain recognition by teaching others.</p><p>Let’s learn together.</p><p>💬 <strong>General:</strong> Exchange knowledge, tips, and explorers’ stories.</p><p>🎙️ A<strong>sk-me-anything: </strong>Participate in our <strong>AMAs with industry specialists.</strong></p><p>💾 <strong>Library:</strong> Level up your understanding of web3 with our curated resources.</p><p>🌟 <strong>Announcements:</strong> Stay up to date with important community announcements.</p></div>'
+      },
+      {
+        type: 'QUEST',
+        title: 'Academy Community Quest',
+        component: 'AcademyCommunity'
+      },
+      {
+        type: 'END',
+        title: 'End of lesson'
+      }
+    ]
+  },
+  {
+    poapImageLink: '/lesson/web3-security/poap-d2f0df26.png',
+    lessonImageLink: '/lesson/web3-security/lesson-09017125.png',
+    socialImageLink: '/lesson/web3-security/social-795f9c67.jpg',
     learningActions: 'Avoid the scams in web3 and keep your assets safe.',
-    marketingDescription: '',
+    marketingDescription: 'Learn how to stay safe from the most common scams in web3.',
     poapEventId: null,
     duration: 15,
-    learnings: 'How the most common scams in web3 work and how to stay safe from them. ',
+    learnings: '',
     difficulty: 'Easy',
-    description: '',
+    description: 'Learn how to stay safe from the most common scams in web3.',
     name: 'Web3 Security',
     quest: 'Web3Security',
     publicationStatus: 'hidden',
     isFeaturedOnHomepage: false,
     isCommentsEnabled: true,
-    endOfLessonRedirect: null,
-    endOfLessonText: undefined,
+    endOfLessonRedirect: 'https://tally.so/r/w2ExNb',
+    endOfLessonText: 'To give feedback about this lesson, click Next.',
     notionId: '7a5b9b7afe804e6984bf279301dfa1db',
     slug: 'web3-security',
     imageLinks: [
-      '/lesson/web3-security/social-media-safety-1-b0335438.png',
-      '/lesson/web3-security/social-media-safety-2-88a744a4.png',
-      '/lesson/web3-security/social-media-safety-2-67041f41.png'
+      '/lesson/web3-security/money-in-web2-4d3b82f8.png',
+      '/lesson/web3-security/money-in-web3--61ae660b.png',
+      '/lesson/web3-security/two-factor-authentication-5fa98d89.png',
+      '/lesson/web3-security/social-engineering-scams-c1c5fb7f.png',
+      '/lesson/web3-security/social-media-safety-e595e7f9.png',
+      '/lesson/web3-security/social-media-best-practices-25a2b5f8.png',
+      '/lesson/web3-security/scam-tokens-95d82d0c.png',
+      '/lesson/web3-security/wallet-strategies-4e459de5.png'
     ],
     slides: [
       {
         type: 'LEARN',
         notionId: '50b5d9c9a7a34a2c82f6423f97e3e77d',
         title: '<strong>Introduction</strong>',
-        content: '<div class="bloc1"><p>Web3 … [is] the vision of a new, better internet. At its core, Web3 uses blockchains, cryptocurrencies, and NFTs to give power back to the users in the form of ownership. … ‘<strong>Web1 was read-only, Web2 is read-write, Web3 will be read-write-own.</strong>’<br>- Ethereum.org</p><p>This online ownership of digital financial products is new for many, and that lack of experience gives opportunities for predatory people to scam and steal the assets of others. These scams work so well because most people aren’t aware of how they work. So congratulations, Academy Explorer, on taking the time to arm yourself with the knowledge that will protect you as you venture out into <span class="tooltip" definition="Refers to applications that run on the blockchain and allow anyone to participate without monetizing their personal data.">web3</span>!</p><p>This lesson will cover:</p><ul><li>web2 & web3 security,</li><li>the most common ways people lose their funds and how to protect oneself from them,</li><li>a general strategy for wallet security,</li><li>how one can recover if they are the victim of a scam.</li></ul></div>'
+        content: '<div class="bloc1"><p>Digital ownership is the new feature of web3. Using blockchains, cryptocurrencies, and NFTs, web3 gives ownership and power back to users. This online ownership of digital financial products is new for many, and that lack of experience gives opportunities for predatory people to scam and steal the assets of others. These scams work so well because most people aren’t aware of how they work. </p><p>But, it\'s not just web3 that suffers from scams, web2 services like email and social media are full of scams as well. In addition, many web3 tools are still tied to web2 services like bank accounts or centralized exchanges so protecting those is important too. So congratulations, Academy Explorer, on taking the time to arm yourself with the knowledge that will protect you as you venture out into <span class="tooltip" definition="Refers to applications that run on the blockchain and allow anyone to participate without monetizing their personal data.">web3</span>! </p><p>This lesson will cover:</p><ul><li>Web2 & web3 security.</li><li>The most common ways people lose their funds and how to protect oneself from them.</li><li>A general strategy for wallet security.</li><li>How one can recover if they are the victim of a scam.</li></ul></div>'
       },
       {
         type: 'LEARN',
         notionId: '44450164401340659f6553fadd0230e4',
-        title: 'How does money work online?',
-        content: '<div class="bloc1"><p>In web2, the institutions hold money on behalf of the people. A user must prove their identity to an institution in order to access and use their money. It’s the same as a bank account; one needs a login ID and a password. For a scammer to gain access to your money, they need this ID + password combination. Because the institutions are charged with protecting your money, fraudulent transactions can be reversed - like a credit card transaction dispute.</p><p>In web3, money works differently. It’s more like a locked cash wallet; once money is spent, it’s gone. Only private keys control access to the wallet, so for a scammer to gain access they need the <span class="tooltip" definition="Group of random words generated by a wallet on setup, they act as the master key to ALL accounts controlled by that wallet. NEVER SHARE YOUR SEED PHRASE WITH ANYONE FOR ANY REASON.">seed phrase</span>, that special set of secret words, to access someone’s <span class="tooltip" definition="A private key allows access to your wallet in order for you to send crypto assets to other address.">private keys</span> and steal from their wallet. </p><p>It’s very important to protect your seed phrase; people should <em><strong>never</strong></em> give their seed phrase to anyone for any reason. Also, you should never enter seed phrases somewhere they could become compromised, such as a camera app, a notes application, or even a password manager.</p></div>'
+        title: 'Money in Web2',
+        content: '<div class="bloc1"><p>In web2, the institutions hold money on behalf of people. A user must prove their identity to an institution in order to access and use their money. It’s the same as a bank account; one needs a login ID and a password. For a scammer to gain access to your money, they need this ID + password combination. Because the institutions are charged with protecting your money, fraudulent transactions can be reversed - like a credit card transaction dispute.</p></div><div class="bloc2"><img src=\'/lesson/web3-security/money-in-web2-4d3b82f8.png\'></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'c10187a8772f40faace2a77bd2f86940',
+        title: 'Money in Web3 ',
+        content: '<div class="bloc1"><p>In web3, money works differently. It’s more like a locked cash wallet; once money is spent, it’s gone. Only private keys control access to the wallet, so for a scammer to gain access they need the <span class="tooltip" definition="Group of random words generated by a wallet on setup, they act as the master key to ALL accounts controlled by that wallet. NEVER SHARE YOUR SEED PHRASE WITH ANYONE FOR ANY REASON.">seed phrase</span>, that special set of secret words, to access someone’s <span class="tooltip" definition="A private key allows access to your wallet in order for you to send crypto assets to other address.">private keys</span> and steal from their wallet. </p><p>It’s very important to protect seed phrases; people should <em><strong>never</strong></em> give their seed phrase to anyone for any reason. Also, never enter seed phrases somewhere they could become compromised, such as a camera app, a notes application, or even a password manager.</p></div><div class="bloc2"><img src=\'/lesson/web3-security/money-in-web3--61ae660b.png\'></div>'
       },
       {
         type: 'QUIZ',
-        notionId: 'f76ebdeaad9045198cefcf257902fb65',
+        notionId: '6167969df08b4591b2945feaa47f1769',
         title: '✅ quiz',
         quiz: {
           question: 'Unlike in web2, in web3, scammers only need the seed phrase to steal everything in a wallet, including tokens and NFTs.',
@@ -760,7 +771,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '55c51a6c7e2946a1a098ced62d4f7180',
         title: 'Protect your Passwords',
-        content: '<div class="bloc1"><p>Password usage and management is important in both web2 and web3, because many web2.5 websites still use passwords to grant user access. It’s also important to distinguish how we should treat our seed phrase in comparison to our passwords, because there are indeed differences in best practices.</p><p>Passwords should be different for each and every web2 service people use online. This includes services like email, centralized exchanges, and other service accounts. It’s a problem if someone manages to get the ID + password for one account, but it’s far worse if that combination unlocks all of your accounts! Managing many different passwords takes coordination, but using a tool such as a password manager will help you keep track whilst keeping your secure.</p><p>Applications like 1password, LastPass, and BitWarden encrypt and store passwords securely; they can even generate new high-security passwords and store them automatically. The user just has to remember a single master password - which through this technology is more secure because password managers typically employ Two Factor Authentication.</p><p>Remember, in web2 a password is just one part of security, but in web3 the seed phrase is <strong>everything. </strong>Do <strong>not</strong> store a web3 <span class="tooltip" definition="Group of random words generated by a wallet on setup, they act as the master key to ALL accounts controlled by that wallet. NEVER SHARE YOUR SEED PHRASE WITH ANYONE FOR ANY REASON.">seed phrase</span> in a password manager - if you do, it takes just one password breach to obtain all of your web3 assets.</p></div>'
+        content: '<div class="bloc1"><p>Covering healthy password usage and management is an important piece of everyday internet exploration, but it also allows us to distinguish how we should be handling our seed phrase in comparison to our passwords.</p><p>Passwords should be different for each and every web2 service used online. This includes services like email, centralized exchanges, and other service accounts. It’s problematic if someone manages to get the ID + password for one account, but it’s far worse if that combination unlocks all of your accounts!</p><p>Password manager applications like 1password, LastPass, and BitWarden securely store and encrypt multiple passwords; they can even generate new high-security passwords and store them automatically. The user just has to remember a single master password - but with the password manager, all of your accounts can receive an extra layer of protection by enabling features like Two Factor Authentication.</p><p>In web2 a password is just one part of security, but in web3 the seed phrase is <strong>everything. </strong>Do <strong>not</strong> store a web3 <span class="tooltip" definition="Group of random words generated by a wallet on setup, they act as the master key to ALL accounts controlled by that wallet. NEVER SHARE YOUR SEED PHRASE WITH ANYONE FOR ANY REASON.">seed phrase</span> in a password manager - if you do, it takes just one password breach to obtain all of your web3 assets.</p></div>'
       },
       {
         type: 'QUIZ',
@@ -768,12 +779,11 @@ const LESSONS: LessonType[] = [
         title: '✅ quiz',
         quiz: {
           question: 'Why are password managers helpful?',
-          rightAnswerNumber: 5,
+          rightAnswerNumber: 4,
           answers: [
-            'People only have to remember their master password to use them',
-            'They generate and store strong, unique passwords',
-            'They encrypt passwords to keep them secure',
-            'They use Two Factor Authentication',
+            'People only have to remember their master password to use them.',
+            'They generate and store strong, unique passwords.',
+            'They encrypt passwords to keep them secure.',
             'All of the above'
           ],
           id: 'web3-security-2'
@@ -783,7 +793,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '704696e837db424088ae66bcb842e98b',
         title: 'Two Factor Authentication',
-        content: '<div class="bloc1"><p>Two Factor Authentication, also known as 2FA, is a secondary layer of web2 security you have likely come across in your traditional browsing.</p><p>Many people have had their web2 accounts hacked or scammed out of money or credentials despite having strong passwords. It’s worth mentioning that it is now common for web2 websites to use a second layer of security two-factor authentication as well. 2FA uses single-use codes generated by another device in addition to the normal password for security. The other device could be a phone application, a desktop application, or even a physical security device.</p><p>Phone (SMS) 2FA is better than no 2FA, but phone companies are vulnerable to scammers using <span class="tooltip" definition="Manipulating someone into sharing sensitive or confidential information such as passwords or seed phrases">social engineering</span> as well; an account can be hacked via phone companies through no fault of the user. It’s much better to use authentication applications like Authy or Google Authenticator for 2FA.</p></div>'
+        content: '<div class="bloc1"><p>Two Factor Authentication, also known as 2FA, is a secondary layer of web2 security.</p><p>Many people have had their web2 accounts hacked, or have had their money and credentials stolen despite having strong passwords. Web2 websites (and even password managers) often use a second layer of security 2FA as well. 2FA generates single-use codes sent to another device, in addition to the normal password, to enable website log-in. The other device could be a phone, a desktop computer, or even a small device you can attach to your keychain.</p><p>Phone (SMS) 2FA is better than no 2FA, but phone companies are vulnerable to scammers also. They can use <span class="tooltip" definition="Manipulating someone into sharing sensitive or confidential information such as passwords or seed phrases">social engineering</span> to impersonate the account owner, bypass the company’s security checks, and gain access to the owner’s account - all without the real owner knowing. Authentication applications like Authy or Google Authenticator are more secure 2FA solutions.</p></div><div class="bloc2"><img src=\'/lesson/web3-security/two-factor-authentication-5fa98d89.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -793,9 +803,9 @@ const LESSONS: LessonType[] = [
           question: 'Why is two-factor authentication strongly recommended?',
           rightAnswerNumber: 2,
           answers: [
-            'It’s impossible to hack an account when the user has 2FA enabled',
-            'It adds another layer of security to web2 accounts',
-            'It makes passwords stronger',
+            'It’s impossible to hack an account when the user has 2FA enabled.',
+            'It adds another layer of security to web2 accounts.',
+            'It makes passwords stronger.',
             'All of the above'
           ],
           id: 'web3-security-3'
@@ -805,7 +815,13 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'ae2890ad87d94b49b1e85575da36c4ee',
         title: 'Social Engineering Scams',
-        content: '<div class="bloc1"><p>In both web2 and web3, scammers use <span class="tooltip" definition="A type of social engineering attack where the attacker poses as a trusted person or organization to trick victims into sharing sensitive information or sending them money">phishing</span> tactics to trick people into giving up their passwords and seed phrases. Often they’ll pretend to be support staff for a product offering help, “Hello this is Metamask support”, or pretend to be an admin of a community, “New NFT mint, exclusive for our community”.</p><p>They use <span class="tooltip" definition="Manipulating someone into sharing sensitive or confidential information such as passwords or seed phrases">social engineering</span> to pressure people, “time is running out!”, make things feel exclusive, “Congratulations you won our giveaway!”, and generate <span class="tooltip" definition="Fear Of Missing Out. Anxiety or apprehension about missing out on or not getting things">FOMO</span> in the person being scammed ”early access to our pre-mint!”. <span class="tooltip" definition="Fear Of Missing Out. Anxiety or apprehension about missing out on or not getting things">FOMO</span> stands for the Fear Of Missing Out; it’s the stressful feeling that you’re not going to get a great benefit or opportunity unless you do something <strong>right now</strong>!</p><p>The best defense against FOMO is to simply step away and take a breather… seriously! Humans don’t think as clearly when stressed, that’s why FOMO is effective. Step away from the situation, calm down, and then it’s much easier to spot the scams for what they are.</p></div>'
+        content: '<div class="bloc1"><p>In both web2 and web3, scammers use <span class="tooltip" definition="A type of social engineering attack where the attacker poses as a trusted person or organization to trick victims into sharing sensitive information or sending them money">phishing</span> tactics to trick people into giving up their passwords and seed phrases. Often they’ll pretend to be product support staff offering help, “Hello this is Metamask support”, or pretend to be an admin of a community, “New NFT mint, exclusive for our community”.</p><p>They use <span class="tooltip" definition="Manipulating someone into sharing sensitive or confidential information such as passwords or seed phrases">social engineering</span> to pressure people. Examples include:</p><ul><li>“Time is running out!” - making you feel rushed.</li><li>“Congratulations you won our giveaway!” - making things feel exclusive.</li><li>”Get early access to our pre-mint!” - generating <span class="tooltip" definition="Fear Of Missing Out. Anxiety or apprehension about missing out on or not getting things">FOMO</span> in the person being scammed.</li></ul></div><div class="bloc2"><img src=\'/lesson/web3-security/social-engineering-scams-c1c5fb7f.png\'></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '87eb4de1d31d47299235691aa0dab08d',
+        title: 'Fear Of Missing Out',
+        content: '<div class="bloc1"><p><span class="tooltip" definition="Fear Of Missing Out. Anxiety or apprehension about missing out on or not getting things">FOMO</span> stands for the ‘Fear Of Missing Out’, it’s the stressful feeling that you’re not going to get a great benefit or opportunity unless you do something <strong>right now</strong>.</p><p>The best defense against FOMO is to simply take a step back from your computer and take a break. People don’t think clearly when they’re stressed, that’s why FOMO is such an effective scamming tool. By stepping away from the situation, it becomes much easier to spot the scams for what they are.</p></div>'
       },
       {
         type: 'QUIZ',
@@ -815,9 +831,9 @@ const LESSONS: LessonType[] = [
           question: 'How do scammers use social engineering?',
           rightAnswerNumber: 4,
           answers: [
-            'Pretending to be an authority in a community',
-            'Pressuring people with short amounts of time',
-            'Offering giveaways or free NFTs to generate FOMO',
+            'Pretending to be an authority in a community.',
+            'Pressuring people with short amounts of time.',
+            'Offering giveaways or free NFTs to generate FOMO.',
             'All of the above'
           ],
           id: 'web3-security-4'
@@ -826,32 +842,38 @@ const LESSONS: LessonType[] = [
       {
         type: 'LEARN',
         notionId: 'c189bdd9b32e45b6bf5562cf6958357d',
-        title: 'Social Media Safety 1',
-        content: '<div class="bloc1"><p>Social media like crypto Twitter and community Discord servers of crypto projects are full of scammers. They will always try to move to or start conversations in DMs to avoid being spotted by experienced community members. Real community members know it’s safer and more useful to talk in public areas!</p><p>No matter where you are talking to others, you should <em><strong>never</strong></em> give your <span class="tooltip" definition="Group of random words generated by a wallet on setup, they act as the master key to ALL accounts controlled by that wallet. NEVER SHARE YOUR SEED PHRASE WITH ANYONE FOR ANY REASON.">seed phrase</span> to anyone for any reason. If anyone asks for your seed phrase or private key, they are a scammer!</p></div><div class="bloc2"><img src=\'/lesson/web3-security/social-media-safety-1-b0335438.png\'></div>'
+        title: 'Social Media Safety',
+        content: '<div class="bloc1"><p>Scammers love to engage with users in social media environments like Twitter and the Discord servers of cryptocurrency projects. They will typically try to move to or even start conversations via direct messaging to avoid being spotted by experienced community members. It’s generally safer to talk in public areas, until you’ve gained more experience in crypto-culture.</p><p>However, no matter where you are talking to others, you should <em><strong>never</strong></em> give your <span class="tooltip" definition="Group of random words generated by a wallet on setup, they act as the master key to ALL accounts controlled by that wallet. NEVER SHARE YOUR SEED PHRASE WITH ANYONE FOR ANY REASON.">seed phrase</span> to anyone for <strong>any reason</strong>. If anyone asks for your seed phrase or private key, they are a scammer. It’s that simple.</p></div>'
       },
       {
         type: 'LEARN',
         notionId: '276e9374da2e49428b3b4193dc692c86',
-        title: 'Social Media Safety 2',
-        content: '<div class="bloc-ab"><div class="bloc-a"><img src=\'/lesson/web3-security/social-media-safety-2-88a744a4.png\'></div><div class="bloc-b"><p><strong>Here are some red flags to watch for with social media:</strong></p><p>🚩 Language and grammar errors (typos, they’re/their/there, etc.)</p><p>🚩 FOMO generation (don’t miss out!)</p><p>🚩 Impersonation of authority or celebrity (admin, support, Vitalik, Elon Musk, etc.)</p><p>🚩 “Guaranteed profits/mints/return”</p><p>🚩 Unasked-for links and offers (especially in DMs)</p></div></div><div class="bloc-ab"><div class="bloc-a"><img src=\'/lesson/web3-security/social-media-safety-2-67041f41.png\'></div><div class="bloc-b"><p><strong>Best Practices to keep in mind:</strong></p><ul><li>Teams & admin will <em><strong>never </strong></em>DM NFT mint/sale details</li><li>Typos = scam alert ⚠</li><li>FOMO = scam alert ⚠</li><li>VERIFY EVERYTHING with an outside source, like the official project Twitter account</li><li>Check with other known community members</li></ul></div></div>'
+        title: 'Social Media Safety',
+        content: '<div class="bloc1"><p><strong>Social Media </strong><strong>Red Flag</strong><strong>s</strong><strong>:</strong></p><p>🚩 <strong>Language and grammar errors:</strong> They’re/their/there, etc.</p><p>🚩 <strong>FOMO:</strong> “Don’t miss out!”</p><p>🚩 <strong>Impersonation:</strong> an admin, support desk, Vitalik Buterin, Elon Musk, etc.</p><p>🚩 <strong>Guaranteed returns: </strong>Nothing is guaranteed in crypto.</p><p>🚩 <strong>Un</strong><strong>requested links and offers, </strong>especially via direct message.</p></div><div class="bloc2"><img src=\'/lesson/web3-security/social-media-safety-e595e7f9.png\'></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '66a155651e4b4434a1f1d7c9f7e82e4c',
+        title: 'Social Media Best Practices',
+        content: '<div class="bloc1"><p>Practices for staying safe<strong>:</strong></p><ul><li>Keep in mind: ‘If they have to direct message me to sell their product, I probably don’t want it.’</li><li>Check the project follower and member count - though these do not guarantee project legitimacy, quality, or stability.</li><li>Verify everything with an outside source, like another official project account.</li><li>If you’re ever uncertain, check with reputable members from a community you trust - and ask in public. </li></ul></div><div class="bloc2"><img src=\'/lesson/web3-security/social-media-best-practices-25a2b5f8.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: '61574044744645b6a4f7fe140539a7ab',
-        title: 'Scam-tokens and Scam-drops',
-        content: '<div class="bloc1"><p>Besides social engineering, the second most common attack is getting sent a bunch of scam-tokens. These are tokens that scammers send to many people at once in the hopes that someone will try to move or sell the tokens and trigger the malicious code hiding in the token’s smart contract.</p><p>Malicious contracts often require people to spend far more ETH than is necessary in order to sell these scam-tokens, and others can completely drain wallets; these scam-tokens could even be NFTs! If the problem isn’t with the smart contract itself, scam-tokens will often lure victims back to phishing websites where scammers try to trick victims to enter their <span class="tooltip" definition="Group of random words generated by a wallet on setup, they act as the master key to ALL accounts controlled by that wallet. NEVER SHARE YOUR SEED PHRASE WITH ANYONE FOR ANY REASON.">seed phrase</span> or other credentials.</p><p>The best thing to do when you receive random tokens is to not interact with them at all; leave them alone and never touch them.</p></div>'
+        title: 'Scam-tokens',
+        content: '<div class="bloc1"><p>Besides social engineering, the second most common web3 attack is having scam-tokens sent to your web3 wallet. Scam-tokens are crypto tokens that scammers transfer to many wallets at once, in the hopes that someone will try to move or sell the tokens and trigger the malicious code hiding in the token’s smart contract.</p><p>Malicious contracts often require people to spend far more on a transaction than is necessary in order to sell these scam-tokens, and others can completely drain wallets; these scam-tokens could even be NFTs! If the problem isn’t with the smart contract itself, scam-tokens will often lure victims back to phishing websites where scammers try to trick victims into entering their <span class="tooltip" definition="Group of random words generated by a wallet on setup, they act as the master key to ALL accounts controlled by that wallet. NEVER SHARE YOUR SEED PHRASE WITH ANYONE FOR ANY REASON.">seed phrase</span> or other credentials.</p><p>The best thing to do when you receive random tokens is to not interact with them at all; leave them in your wallet and never transfer/sell them.</p></div><div class="bloc2"><img src=\'/lesson/web3-security/scam-tokens-95d82d0c.png\'></div>'
       },
       {
         type: 'QUIZ',
-        notionId: 'e8969df508c34cd9bd481cdbd54cc3b9',
+        notionId: '2cca9999b43449a89d9f3c991f655086',
         title: '✅ quiz',
         quiz: {
           question: 'Why is interacting with scam-tokens dangerous?',
           rightAnswerNumber: 4,
           answers: [
-            'They could steal other tokens from your wallet',
-            'They could steal all of your ETH',
-            'They could lead to a phishing website where a scammer will try to get your seed phrase',
+            'They could steal other tokens from your wallet.',
+            'They could steal all of your ETH.',
+            'They could lead to a phishing website where a scammer will try to get your seed phrase.',
             'All of the above'
           ],
           id: 'web3-security-5'
@@ -861,7 +883,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '617b58e903f54546bf2e6e6cc598c8ed',
         title: 'Hardware Wallets',
-        content: '<div class="bloc1"><p>If you remember from our <a href=\'https://app.banklessacademy.com/lessons/wallet-basics\'>Wallet Basics</a> lesson, a <span class="tooltip" definition="A type of non-custodial wallet that stores private keys offline in a physical hardware device.">hardware wallet</span> is only connected to the internet when you physically connect it to a computer or device that is connected to the internet. This makes your funds much safer as someone would have to physically steal your device to get your <span class="tooltip" definition="Group of random words generated by a wallet on setup, they act as the master key to ALL accounts controlled by that wallet. NEVER SHARE YOUR SEED PHRASE WITH ANYONE FOR ANY REASON.">seed phrase</span>.</p><p>It is even possible to use your hardware wallet through the MetaMask application. You get the convenience of a single wallet interface with the security of using a hardware wallet! </p><p>Ledger has <a href=\'https://www.ledger.com/academy/security/the-safest-way-to-use-metamask\'>written their own guide</a> on how to setup MetaMask for use with their device.</p></div>'
+        content: '<div class="bloc1"><p>If you remember from our <a href=\'https://app.banklessacademy.com/lessons/wallet-basics\'>Wallet Basics</a> lesson, a <span class="tooltip" definition="A type of non-custodial wallet that stores private keys offline in a physical hardware device.">hardware wallet</span> is only connected to the internet when you physically connect it to a computer or device that is connected to the internet. This makes your funds much safer as someone would have to physically steal your device and hack into it in order to find your <span class="tooltip" definition="Group of random words generated by a wallet on setup, they act as the master key to ALL accounts controlled by that wallet. NEVER SHARE YOUR SEED PHRASE WITH ANYONE FOR ANY REASON.">seed phrase</span>.</p><p>It is even possible to use your hardware wallet through many browser extension wallets, like MetaMask. By using this setup, you receive the convenience of a single wallet interface with the security of using a hardware wallet.</p><p>Ledger has <a href=\'https://www.ledger.com/academy/security/the-safest-way-to-use-metamask\'>written their own guide</a> on how to setup MetaMask for use with their hardware wallet device.</p></div>'
       },
       {
         type: 'QUIZ',
@@ -880,8 +902,8 @@ const LESSONS: LessonType[] = [
       {
         type: 'LEARN',
         notionId: '54e24ec782194af1bf5319f92143ecb8',
-        title: 'Wallet Security Strategies',
-        content: '<div class="bloc1"><p>After getting a hardware wallet, one of the best things to secure funds is to keep them spread between multiple wallets. In general, we recommend using at least 3 wallets to keep funds separate.</p><ol><li>A wallet that serves as your web3 identity for logins — like for the <a href=\'https://gm.xyz/c/BanklessAcademy\'>Bankless Academy community</a>.</li><li>A <span class="tooltip" definition="A type of non-custodial wallet that is perpetually connected to the internet.">hot wallet</span> for trading and other activities involving funds that may need to be moved on short notice.</li><li>A <span class="tooltip" definition="A type of non-custodial wallet that stores private keys offline in a physical hardware device.">hardware wallet</span> for the long-term <span class="tooltip" definition="Hold On for Dear Life. Crypto slang for not selling crypto no matter what the market conditions are">HODL</span> — these are funds intended to hold for a long time. It’s recommended to <em><strong>not </strong></em>use this wallet for interacting with smart contracts.</li></ol><p>PRO 👍: Separation ensures that scams only threaten funds in <em>that particular wallet</em> rather than <em>everything</em>. </p><p>CON 👎: It’s more complicated to keep track of, but keeping a list of what each wallet address’ purpose is can help.</p></div>'
+        title: 'Wallet Strategies',
+        content: '<div class="bloc1"><p>After adding a hardware wallet to your setup, one of the best ways to secure your funds is to keep them spread between multiple wallets. The following is a compartmentalized wallet strategy using three wallets:</p><ol><li><strong>Social Wallet:</strong> A wallet that serves as your web3 identity for logins — like for the Bankless Academy community, or other web3 social media.</li><li><strong>Trading Wallet:</strong> A <span class="tooltip" definition="A type of non-custodial wallet that is perpetually connected to the internet.">hot wallet</span> for trading and other activities involving funds that may need to be moved on short notice.</li><li><strong>HODL Wallet:</strong> A <span class="tooltip" definition="A type of non-custodial wallet that stores private keys offline in a physical hardware device.">hardware wallet</span> for the long-term <span class="tooltip" definition="Hold On for Dear Life. Crypto slang for not selling crypto no matter what the market conditions are">HODL</span> — these are funds intended to hold for a long time. It’s recommended to <em><strong>not </strong></em>use this wallet for interacting with smart contracts.</li></ol><p>👍 <strong>PROs:</strong> Separation ensures that scams only threaten funds in <em>that particular wallet</em> rather than <em>everything</em>.</p><p>👎 <strong>CONs:</strong> It’s more complicated to keep track of, but many wallet applications allow you to name your wallets.</p></div><div class="bloc2"><img src=\'/lesson/web3-security/wallet-strategies-4e459de5.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -902,19 +924,112 @@ const LESSONS: LessonType[] = [
       {
         type: 'LEARN',
         notionId: 'ad51aaa76526457f80f74d4d898d4c01',
-        title: 'Recovering from a scam in Web2',
-        content: '<div class="bloc1"><p>Hopefully you have not already fallen victim to a scammer, but if you have there are some steps you should take to secure your accounts once again. </p><p>For a scam involving a web2 service, like Gmail or Discord, you should:</p><ul><li>Change your password on the affected account</li><li>When it’s available, use the “sign out everywhere else” button to kick the scammers off your account</li><li>Enable 2FA with an authenticator app</li><li>Report the scam to the service involved</li><li>Talk to a trusted friend or loved one about how you were affected</li></ul></div>'
+        title: 'Recovering from Web2 Scams',
+        content: '<div class="bloc1"><p>Hopefully you have not already fallen victim to a scammer. If you have, there are some steps you should take to secure your accounts once more.</p><p>For a scam involving a web2 service, like Gmail or Discord, you should:</p><ul><li>Change your password on the affected account.</li><li>Where it’s available, use the “sign out everywhere else” button to kick the scammers off your account.</li><li>Enable 2FA with an authenticator app.</li><li>Report the scam to the service involved.</li><li>Ensure your email account is also secure.</li><li>Discuss the scam with friends or trusted community members.</li></ul></div>'
       },
       {
         type: 'LEARN',
         notionId: '5ae46db5024b4193a9c2be75f9f6e5b4',
-        title: 'Recovering from a scam in Web3',
-        content: '<div class="bloc1"><p>To spend tokens on Ethereum a contract must be given explicit permission. The token <span class="tooltip" definition="Allows an entity, usually a smart contract, the right to use a specified amount of your tokens in a transaction">allowance</span> is how much of that token you’ve given permission to be spent; keep allowances low to stay secure. </p><p>Scams in web3 don’t have anyone in charge of protocols to report the scammers to, but you can still take action:</p><ul><li>Move any funds still in the compromised wallet to a different wallet address,<strong> making sure the new address has a different seed phrase</strong></li><li>Review and revoke the token allowances you have given on your wallet with tools like <a href=\'https://etherscan.io/tokenapprovalchecker\'>etherscan.io</a> (note: revoking allowances will cost gas)</li><li>Use a <span class="tooltip" definition="A type of non-custodial wallet that stores private keys offline in a physical hardware device.">hardware wallet</span> in the future</li><li>Warn others by reporting the scam to the affected community</li><li>Talk to a trusted friend or loved one about how you were affected</li></ul></div>'
+        title: 'Recovering from Web3 Scams',
+        content: '<div class="bloc1"><p>Contracts must be given explicit permission to spend tokens on Ethereum. The token <span class="tooltip" definition="Allows an entity, usually a smart contract, the right to use a specified amount of your tokens in a transaction">allowance</span> is how much of that token you’ve given permission to be spent by a specific contract. Keeping allowances low reduces the risk to your assets by a potentially malicious application or hacker.</p><p>Web3 doesn’t have anyone in charge of protocols to report scammers to, but you can still take action:</p><ul><li>Immediately move any funds still in the compromised wallet to a different wallet address, <strong>make sure the new address has a different seed phrase.</strong></li><li>Review and revoke the token allowances you have given on your wallet with tools like <a href=\'https://etherscan.io/tokenapprovalchecker\'>etherscan.io</a>. Note that revoking allowances will cost gas. OpenSea has a <a href=\'https://support.opensea.io/hc/en-us/articles/4416083190291-How-can-I-revoke-token-allowance-permissions-\'>support article</a> walkthrough.</li><li>Use a <span class="tooltip" definition="A type of non-custodial wallet that stores private keys offline in a physical hardware device.">hardware wallet</span> in the future.</li><li>Warn others by reporting the scam to the affected community.</li><li>Discuss the scam process with friends or trusted community members to see how you can protect yourself and others in the future.</li></ul></div>'
       },
       {
         type: 'QUEST',
         title: 'Web3 Security Quest',
         component: 'Web3Security'
+      },
+      {
+        type: 'END',
+        title: 'End of lesson'
+      }
+    ]
+  },
+  {
+    poapImageLink: null,
+    lessonImageLink: null,
+    socialImageLink: null,
+    learningActions: '',
+    marketingDescription: '',
+    poapEventId: null,
+    duration: null,
+    learnings: '',
+    difficulty: undefined,
+    description: '',
+    name: 'BanklessDAO Constitution',
+    publicationStatus: 'hidden',
+    isFeaturedOnHomepage: false,
+    isCommentsEnabled: true,
+    endOfLessonRedirect: null,
+    endOfLessonText: undefined,
+    notionId: '4a1a397dd4144022932f889d6a16786c',
+    slug: 'banklessdao-constitution',
+    imageLinks: [
+      '/lesson/banklessdao-constitution/preamble-a183af73.png',
+      '/lesson/banklessdao-constitution/introduction-fb563012.png',
+      '/lesson/banklessdao-constitution/the-bankless-movement-1cf09f15.png',
+      '/lesson/banklessdao-constitution/values-5f6d4d83.png',
+      '/lesson/banklessdao-constitution/values-cca16d71.jpg',
+      '/lesson/banklessdao-constitution/values-8c2779e5.jpg',
+      '/lesson/banklessdao-constitution/values-040efbbb.webp'
+    ],
+    slides: [
+      {
+        type: 'LEARN',
+        notionId: 'd435e0e7ab8046a9ad9ba54c287e5e45',
+        title: '<strong><strong>Preamble</strong></strong>',
+        content: '<div class="bloc1"><p>This document represents BanklessDAO’s values, mission, structure, processes, and governance according to the best of our community’s ability to capture it. It is the codification of our community operating system and is meant to serve, rather than constrain its members.</p><p>Not every item listed herein has a readily available citation, as some of these processes were decided within Discord but it\'s our intention to use this document as the canonical basis or “bible” for discussions regarding governance going forward. Like our community itself, it will always be a work in progress. As the community changes, so should the manifestation of those changes in daily DAO life be captured and reflected in this document. It is our hope that this textually centered approach to governance materially improves our collective ability to precisely communicate, make decisions, and onboard new members.</p></div><div class="bloc2"><img src=\'/lesson/banklessdao-constitution/preamble-a183af73.png\'></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '728070e097204c58a89002ba1c765ba6',
+        title: 'Introduction',
+        content: '<div class="bloc1"><p>BanklessDAO was founded by David Hoffman and Ryan Sean Adams on May 4th, 2021, when they airdropped BANK tokens to each Bankless premium subscriber. Following the true ethos of decentralization, they stepped back and let the DAO take shape. While their media company, Bankless LLC, continues to operate as its own media node, the Bankless brand is propagated through the DAO and its sub-DAOs. Now, the Bankless ecosystem as a whole creates user-friendly onramps for people to discover decentralized financial technologies through education, media, and culture.</p></div><div class="bloc2"><img src=\'/lesson/banklessdao-constitution/introduction-fb563012.png\'></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '9669e4350d404026b190a327308c62bf',
+        title: 'The Bankless Movement',
+        content: '<div class="bloc1"><p>Bankless is a movement for pioneers seeking liberation from the tyranny of the traditional financial system. Going Bankless means adopting decentralized, permissionless, and censorship-resistant technology. Through these means, we will achieve financial self-sovereignty, security, and prosperity.</p><p>We seek new ways to build wealth, solve human coordination problems, create culture, and develop cutting-edge thought-leadership in the crypto space. Going Bankless means taking control of your financial health by adopting decentralized and permissionless money systems.</p><p>Bankless is the movement educating the world on how to do it.</p></div><div class="bloc2"><img src=\'/lesson/banklessdao-constitution/the-bankless-movement-1cf09f15.png\'></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'b2f35cc32826436fb8b39ec6ac801494',
+        title: 'BanklessDAO',
+        content: '<div class="bloc1"><p>The BanklessDAO is a decentralized autonomous organization that acts as a steward of the Bankless Movement, progressing the world towards a future of greater freedom. BanklessDAO is a community of passionate Web3 thought-leaders who aim to educate new users, produce written and audio media, build DAO tooling, provide consulting services, develop Web3 scholarship, and create a social and creative home base for anyone in Web3. We’re so much more than a social DAO—we’re a shipping, building, and innovating DAO. See: <a href=\'https://snapshot.org/#/banklessvault.eth/proposal/QmdoixPMMT76vSt6ewkE87JZJywS1piYsGC3nJJpcrPXKS\'>The Genesis Proposal</a>.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'f984af75507c4dfa8f2812ab4c090cae',
+        title: 'Mission',
+        content: '<div class="bloc1"><p>We will help the world go Bankless by creating user-friendly onramps for people to discover decentralized financial technologies through education, media, and culture. The nodes in our growing ecosystem collaborate to create inroads for people to discover, use, learn and enjoy the benefits of Web3. Everyone falls down the rabbit hole in a different way—we provide those diverse paths.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'f449419880b0443caa059c8ceb7ce955',
+        title: 'Vision',
+        content: '<div class="bloc1"><p>Our Vision is to make financial independence, decentralized work, and creative freedom accessible to all. We work to build a world where anyone with an internet connection has access to the tools needed to achieve financial independence. We want everyone to be able to open a computer, find a DAO, start working, and get paid. We want to enable visionaries to unlock their true creative freedom with the power of Web3.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '3d45ea8b6eb2413eb41a556edc4174dc',
+        title: 'Values',
+        content: '<div class="bloc-ab"><div class="bloc-a"><img src=\'/lesson/banklessdao-constitution/values-5f6d4d83.png\'></div><div class="bloc-b"><h2>Education</h2><p>We learn from each other. We seek to become a trusted guide that empowers people all over the globe to adopt decentralized finance by sharing accurate, truthful, and objective information.</p></div></div><div class="bloc-ab"><div class="bloc-a"><img src=\'/lesson/banklessdao-constitution/values-cca16d71.jpg\'></div><div class="bloc-b"><h2>Integrity</h2><p>We operate transparently and build trust through radically public discourse and financial auditability.</p></div></div><div class="bloc-ab"><div class="bloc-a"><img src=\'/lesson/banklessdao-constitution/values-8c2779e5.jpg\'></div><div class="bloc-b"><h2>Decentralized Governance</h2><p>We put decision-making into the hands of the collective. We create legitimacy through an environment where the best ideas win.</p></div></div><div class="bloc-ab"><div class="bloc-a"><img src=\'/lesson/banklessdao-constitution/values-040efbbb.webp\'></div><div class="bloc-b"><h2>Culture</h2><p>We reward action and embrace risk. We empower our community to continually drive new initiatives by providing a space to self-organize and quickly move from idea to action.</p></div></div>'
+      },
+      {
+        type: 'QUIZ',
+        notionId: 'c9eb3e04d0b94a168f4b071cedc4a117',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'What are the Bankless values?',
+          rightAnswerNumber: 2,
+          answers: [
+            'Centralization',
+            'Education, Integrity, Decentralized Governance, Culture',
+            'Transaction speed',
+            'Degen'
+          ],
+          id: 'banklessdao-constitution-1'
+        }
       },
       {
         type: 'END',
