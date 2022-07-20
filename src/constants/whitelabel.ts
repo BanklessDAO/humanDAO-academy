@@ -6,8 +6,8 @@ export const WHITELABEL: WhitelabelType = {
   default_metadata_description: 'Improve lives through crypto',
   default_metadata_image: '/humanDAO/humanDAO.png',
   favicon: '/humanDAO/favicon.png',
-  logo: '/humanDAO/HDAO-white.svg',
-  logo_small: '/humanDAO/HDAO-white.svg',
-  homepage_background: '/humanDAO/homepage_background.jpg',
+  logo: '/humanDAO/humanDAO_logo.png',
+  logo_small: '/humanDAO/humanDAO_logo.png',
+  homepage_background: '/humanDAO/homepage_background.png',
   umami_prod: 'a50ccb31-0534-407f-aebe-312bd64b2689',
 }
