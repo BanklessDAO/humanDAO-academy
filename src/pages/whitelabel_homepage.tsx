@@ -13,7 +13,8 @@ import styled from '@emotion/styled'
 
 import Footer from 'layout/Footer'
 import LessonBanner from 'components/LessonBanner'
-import { LESSONS, HOMEPAGE_BACKGROUND, IS_WHITELABEL } from 'constants/index'
+import { HOMEPAGE_BACKGROUND, IS_WHITELABEL } from 'constants/index'
+import MODULES from 'constants/whitelabel_modules'
 
 const StyledImage = styled(Image)`
   width: 100%;
@@ -38,71 +39,59 @@ const HomePage = (): JSX.Element => {
         <Container maxW="container.lg">
           <Box mt="16">
             <Heading as="h2" size="xl">
-              Available Lessons
+              Available Modules
             </Heading>
             <Box>
-              {LESSONS.filter((lesson) => lesson.isFeaturedOnHomepage).map(
-                (lesson, key) => {
-                  const isPoapClaimed = localStorage.getItem(
-                    `poap-${lesson.slug}`
-                  )
-                  const isLessonStarted =
-                    (localStorage.getItem(lesson.slug) || 0) > 0
-                  const LessonImage = (
-                    <LessonBanner
-                      iswhitelabel={IS_WHITELABEL}
-                      cursor="pointer"
-                      // overflow="hidden"
-                      style={{
-                        aspectRatio: '1.91/1',
-                      }}
-                      maxW="600px"
-                    >
-                      <NextLink href={`/lessons/${lesson.slug}`}>
-                        <Image src={lesson.lessonImageLink} />
-                      </NextLink>
-                    </LessonBanner>
-                  )
-                  const LessonDescription = (
-                    <Box alignSelf="center" mt="4">
-                      <Heading fontSize="2xl">{lesson.name}</Heading>
-                      <Text fontSize="lg" my="4">
-                        {lesson.marketingDescription}
-                      </Text>
-                      <NextLink href={`/lessons/${lesson.slug}`}>
-                        <Button variant="primary" mt="4">
-                          {isPoapClaimed
-                            ? 'Review Lesson'
-                            : isLessonStarted
-                            ? 'Resume Lesson'
-                            : 'Start Lesson'}
-                        </Button>
-                      </NextLink>
-                    </Box>
-                  )
-                  return (
-                    <LessonGrid
-                      columns={{ sm: 1, md: 2, lg: 2 }}
-                      key={key}
-                      gap={6}
-                      py="10"
-                      mx={isSmallScreen ? '0' : '12'}
-                    >
-                      {key % 2 === 0 || isSmallScreen ? (
-                        <>
-                          {LessonImage}
-                          {LessonDescription}
-                        </>
-                      ) : (
-                        <>
-                          {LessonDescription}
-                          {LessonImage}
-                        </>
-                      )}
-                    </LessonGrid>
-                  )
-                }
-              )}
+              {MODULES.map((module, key) => {
+                const ModuleImage = (
+                  <LessonBanner
+                    iswhitelabel={IS_WHITELABEL}
+                    cursor="pointer"
+                    style={{
+                      aspectRatio: '1.91/1',
+                    }}
+                    maxW="600px"
+                  >
+                    <NextLink href={`/lessons?module=${module.slug}`}>
+                      <Image src={module.moduleImageLink} />
+                    </NextLink>
+                  </LessonBanner>
+                )
+                const ModuleDescription = (
+                  <Box alignSelf="center" mt="4">
+                    <Heading fontSize="2xl">{module.name}</Heading>
+                    <Text fontSize="lg" my="4">
+                      {module.description}
+                    </Text>
+                    <NextLink href={`/lessons?module=${module.slug}`}>
+                      <Button variant="primary" mt="4">
+                        Explore Module
+                      </Button>
+                    </NextLink>
+                  </Box>
+                )
+                return (
+                  <LessonGrid
+                    columns={{ sm: 1, md: 2, lg: 2 }}
+                    key={key}
+                    gap={6}
+                    py="10"
+                    mx={isSmallScreen ? '0' : '12'}
+                  >
+                    {key % 2 === 0 || isSmallScreen ? (
+                      <>
+                        {ModuleImage}
+                        {ModuleDescription}
+                      </>
+                    ) : (
+                      <>
+                        {ModuleDescription}
+                        {ModuleImage}
+                      </>
+                    )}
+                  </LessonGrid>
+                )
+              })}
             </Box>
           </Box>
           <Footer />
