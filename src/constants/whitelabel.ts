@@ -2,7 +2,7 @@ import { WhitelabelType } from 'entities/whitelabel'
 
 export const WHITELABEL: WhitelabelType = {
   project_name: 'humanDAO Academy',
-  domain_prod: 'humandao.banklessacademy.com',
+  domain_prod: 'academy.humandao.org',
   default_metadata_description: 'Improve lives through crypto',
   default_metadata_image: '/humanDAO/humanDAO.png',
   favicon: '/humanDAO/favicon.png',
