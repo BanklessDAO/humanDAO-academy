@@ -1468,6 +1468,616 @@ const LESSONS: LessonType[] = [
         title: 'End of lesson'
       }
     ]
+  },
+  {
+    poapImageLink: '/humanDAO/lesson/humandao-an-introduction/poap-a89ca693.png',
+    lessonImageLink: '/humanDAO/lesson/humandao-an-introduction/lesson-7b33803b.png',
+    socialImageLink: '/humanDAO/lesson/humandao-an-introduction/social-ed4e3ca8.png',
+    learningActions: '',
+    marketingDescription: 'A brief guide to the DAO with a simple mission - Improving Lives Through Crypto',
+    poapEventId: null,
+    duration: 10,
+    learnings: '',
+    difficulty: undefined,
+    description: 'A brief guide to the DAO with a simple mission - Improving Lives Through Crypto',
+    name: 'HumanDAO: An Introduction',
+    module: 'humandao',
+    quest: 'humanDAOHumanDAOAnIntroduction',
+    publicationStatus: 'publish',
+    isFeaturedOnHomepage: true,
+    isCommentsEnabled: true,
+    endOfLessonRedirect: null,
+    endOfLessonText: undefined,
+    notionId: '7bac5a1ae55e46b6a9258da0664a1241',
+    slug: 'humandao-an-introduction',
+    imageLinks: [
+      '/humanDAO/lesson/humandao-an-introduction/humandao-an-introduction-23d1d93b.jpeg',
+      '/humanDAO/lesson/humandao-an-introduction/title-1ac1d964.jpeg',
+      '/humanDAO/lesson/humandao-an-introduction/title-810916ee.jpeg',
+      '/humanDAO/lesson/humandao-an-introduction/title-a7acb717.jpeg',
+      '/humanDAO/lesson/humandao-an-introduction/title-974b752c.jpeg',
+      '/humanDAO/lesson/humandao-an-introduction/title-f1708f75.jpeg',
+      '/humanDAO/lesson/humandao-an-introduction/title-0042f6c5.jpeg',
+      '/humanDAO/lesson/humandao-an-introduction/title-763d915a.jpeg',
+      '/humanDAO/lesson/humandao-an-introduction/title-df702714.jpeg',
+      '/humanDAO/lesson/humandao-an-introduction/title-4fff843e.jpeg',
+      '/humanDAO/lesson/humandao-an-introduction/title-cb24d9d0.jpeg',
+      '/humanDAO/lesson/humandao-an-introduction/title-f96ed33e.jpeg',
+      '/humanDAO/lesson/humandao-an-introduction/title-68f6d494.jpeg'
+    ],
+    slides: [
+      {
+        type: 'LEARN',
+        notionId: 'e9632d47bd7146e0b72bac3cea25e969',
+        title: 'HumanDAO: An Introduction',
+        content: '<img src=\'/humanDAO/lesson/humandao-an-introduction/humandao-an-introduction-23d1d93b.jpeg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'cb96a7295dcd4f3ba81af27f9bb345ca',
+        title: 'title',
+        content: '<img src=\'/humanDAO/lesson/humandao-an-introduction/title-1ac1d964.jpeg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '8b71956536ac4323893bd7bf5bfa5943',
+        title: 'title',
+        content: '<img src=\'/humanDAO/lesson/humandao-an-introduction/title-810916ee.jpeg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '907d0fdf408046c985cb8edc8d7f5e31',
+        title: 'title',
+        content: '<img src=\'/humanDAO/lesson/humandao-an-introduction/title-a7acb717.jpeg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'a0d60cded06b4ceeaafc9c74f0b29b48',
+        title: 'title',
+        content: '<img src=\'/humanDAO/lesson/humandao-an-introduction/title-974b752c.jpeg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '16d8d79aad204f31972ae34685d0138b',
+        title: 'title',
+        content: '<img src=\'/humanDAO/lesson/humandao-an-introduction/title-f1708f75.jpeg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '9d01d9ab0eba4b039512009d425c87ee',
+        title: 'title',
+        content: '<img src=\'/humanDAO/lesson/humandao-an-introduction/title-0042f6c5.jpeg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'f24c8312096c4bbda2295f146d0fbb9e',
+        title: 'title',
+        content: '<img src=\'/humanDAO/lesson/humandao-an-introduction/title-763d915a.jpeg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'f49d8a68b989409d9c24e664d90df65a',
+        title: 'title',
+        content: '<img src=\'/humanDAO/lesson/humandao-an-introduction/title-df702714.jpeg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '3ce6bbbb27244074b5d4195269248d3d',
+        title: 'title',
+        content: '<img src=\'/humanDAO/lesson/humandao-an-introduction/title-4fff843e.jpeg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '91af0cb325cc4990bef0e1aa55de2d52',
+        title: 'title',
+        content: '<img src=\'/humanDAO/lesson/humandao-an-introduction/title-cb24d9d0.jpeg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'b264a648106c444380fff54e6cde92c1',
+        title: 'title',
+        content: '<img src=\'/humanDAO/lesson/humandao-an-introduction/title-f96ed33e.jpeg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'bd58de5422074e0d889eb61d3f7e57c8',
+        title: 'title',
+        content: '<img src=\'/humanDAO/lesson/humandao-an-introduction/title-68f6d494.jpeg\'>'
+      },
+      {
+        type: 'END',
+        title: 'End of lesson'
+      }
+    ]
+  },
+  {
+    poapImageLink: '/humanDAO/lesson/community-support-role-an-introduction/poap-4a232460.png',
+    lessonImageLink: '/humanDAO/lesson/community-support-role-an-introduction/lesson-6d69b48a.png',
+    socialImageLink: '/humanDAO/lesson/community-support-role-an-introduction/social-d8fc7d73.png',
+    learningActions: '',
+    marketingDescription: 'Getting started on the role of Community Support in web3',
+    poapEventId: null,
+    duration: 10,
+    learnings: '',
+    difficulty: undefined,
+    description: 'Getting started on the role of Community Support in web3',
+    name: 'Community Support Role: An Introduction',
+    module: 'humandao',
+    quest: 'humanDAOCommunitySupportRoleAnIntroduction',
+    publicationStatus: 'publish',
+    isFeaturedOnHomepage: false,
+    isCommentsEnabled: true,
+    endOfLessonRedirect: null,
+    endOfLessonText: undefined,
+    notionId: 'ecdabc1c4c464c11b5f57c9fff40abeb',
+    slug: 'community-support-role-an-introduction',
+    imageLinks: [],
+    slides: [
+      {
+        type: 'LEARN',
+        notionId: '386d5e1aa092439ebc3989c7d76d4871',
+        title: '<strong>What’s web3 all about?</strong>',
+        content: '<div class="bloc1"><p>Web3 is “a shift in internet culture”, where data is more governed and controlled by the community rather than corporations and special interests.</p><p>This puts the focus of products and services back to the people as they have real ownership in their data, assets, and content. The technology that is used to enable this change is blockchain, which can be accessed by anyone who has access to the internet.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'f1f7b38dddd546fe87add7af0e353a21',
+        title: '<strong>How is this connected to my role as part of the Community Support team?</strong>',
+        content: '<div class="bloc1"><p>By understanding the nature of the environment in which you work in, you are able to perceive the kind of community that you are going to handle—and that includes people from other countries, with different cultures, and different practices.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'e947549901f945398b1625c1151c1676',
+        title: '<strong>What are the key responsibilities of a Community Support role?</strong>',
+        content: '<div class="bloc1"><ul><li>Maintain a positive and safe environment for all members</li><li>Promptly answer questions and concerns raised in the social media channels</li><li>Provide written reports on feedbacks, updates, and concerns</li><li>Assist co-workers in managing social media channels</li></ul></div>'
+      },
+      {
+        type: 'END',
+        title: 'End of lesson'
+      }
+    ]
+  },
+  {
+    poapImageLink: '/humanDAO/lesson/community-support-role-etiquette/poap-13b9fc8e.png',
+    lessonImageLink: '/humanDAO/lesson/community-support-role-etiquette/lesson-c67433e2.png',
+    socialImageLink: '/humanDAO/lesson/community-support-role-etiquette/social-18406aaa.png',
+    learningActions: '',
+    marketingDescription: 'Navigate professional expectations in the workplace, even in a remote setting',
+    poapEventId: null,
+    duration: 10,
+    learnings: '',
+    difficulty: undefined,
+    description: 'Navigate professional expectations in the workplace, even in a remote setting',
+    name: 'Community Support Role Etiquette',
+    module: 'humandao',
+    quest: 'humanDAOCommunitySupportRoleEtiquette',
+    publicationStatus: 'publish',
+    isFeaturedOnHomepage: false,
+    isCommentsEnabled: true,
+    endOfLessonRedirect: null,
+    endOfLessonText: undefined,
+    notionId: '705432d2cfb24f2aa6a43cad1bb55807',
+    slug: 'community-support-role-etiquette',
+    imageLinks: [],
+    slides: [
+      {
+        type: 'LEARN',
+        notionId: '09662746825e4ad8b51c8d4d32bb5c3d',
+        title: '<strong>How can I best represent the organization I’m working in?</strong>',
+        content: '<div class="bloc1"><ol><li><strong>Reach out</strong> <strong>to community members</strong>. Identify who needs support and redirect them to the right information.</li><li><strong>Be kind and respectful. </strong>Remember that your actions reflect the values of the organization.</li><li><strong>Observe proper grammar and punctuation. </strong>You can make conversations clearer by using complete sentences.</li><li><strong>Adopt cultural sensitivity. </strong>It’s best to be aware how different expressions can affect other nationalities.</li><li><strong>Stick to the rules. </strong>There should be no special treatment for other community members to avoid conflict.</li><li><strong>Escalate concerns</strong>. Don’t solve all the problems by yourself. Consult a team lead for further confirmation.</li></ol></div>'
+      },
+      {
+        type: 'END',
+        title: 'End of lesson'
+      }
+    ]
+  },
+  {
+    poapImageLink: '/humanDAO/lesson/steps-to-resolution/poap-767a780d.png',
+    lessonImageLink: '/humanDAO/lesson/steps-to-resolution/lesson-29ebb5f8.png',
+    socialImageLink: '/humanDAO/lesson/steps-to-resolution/social-a28033f3.png',
+    learningActions: '',
+    marketingDescription: 'Confidently handle concerns whenever it arises.',
+    poapEventId: null,
+    duration: 15,
+    learnings: '',
+    difficulty: undefined,
+    description: 'Confidently handle concerns whenever it arises.',
+    name: 'Steps to Resolution',
+    module: 'humandao',
+    quest: 'humanDAOStepsToResolution',
+    publicationStatus: 'publish',
+    isFeaturedOnHomepage: false,
+    isCommentsEnabled: true,
+    endOfLessonRedirect: null,
+    endOfLessonText: undefined,
+    notionId: 'fc4db377982a4aa084e973c26279f0a6',
+    slug: 'steps-to-resolution',
+    imageLinks: [],
+    slides: [
+      {
+        type: 'LEARN',
+        notionId: '555656058b42460cbfe70b459bfdef17',
+        title: '5 Steps to Resolving Concerns',
+        content: '<div class="bloc1"><p><strong>By following the 5 steps in resolving a community member’s concerns, you are able to confidently handle the situation whenever it arises.</strong></p><p>**If a member asks a concern that is out of the organization’s control, it is necessary to clarify that it is not in your capacity to solve that problem, but still try your best to make them feel understood.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '112a0b7f106f4f139f3c1a4979459986',
+        title: '<strong><strong>Step 1: Identify the Nature of Concern</strong></strong>',
+        content: '<div class="bloc1"><p>You can try to introduce yourself first, and let them know that you’re here to help. This can assure the person, whether they are builders or newbies in a community.</p><p>Then you might ask about the subject of their concern and any information that they find complicated to understand. This is the time to gather information such as the person\'s name, email address, username, screenshots, and issue category.</p><p>Categories will depend on the type of data being handled, some of which are grouped by Issue, Request, or Department.</p><p>These are some examples of categories that you can use when identifying the nature of concern:</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '9370053893a84edea615bc2846970676',
+        title: '<strong><strong>Step 2: Verify Information</strong></strong>',
+        content: '<div class="bloc1"><p>After collecting the data, it is important to make sure that the data being collected is accurate and true. Most communities use a platform or additional tools to check the identity of a person.</p><p>Here are some of the sources which you can verify information:</p><ul><li><strong>Community Database</strong> - for checking member identity</li><li><strong>Member List</strong> - for verifying a person’s role or department</li><li><strong>Search Bar</strong> - for specific words and characters</li><li><strong>Audit Logs</strong> - for tracing the root of errors or action</li></ul></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '5cbe8e9130c849528bce14ca80a49fcf',
+        title: '<strong><strong>Step 3: Attend to the concern</strong></strong>',
+        content: '<div class="bloc1"><p>Once you\'ve discovered the cause, it’s time to use the resources you have in your company or organization to find the correct solution to the problem.</p><p>If the person you are talking to isn’t satisfied, remember these tips in handling the conversation:</p><ol><li>Clarify the context</li><li>Use positive language</li><li>Be transparent with your results</li></ol></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '0f3e25aebda14c64b9ee6738e424f89d',
+        title: '<strong><strong>Step 4: Respectfully Close the Conversation</strong></strong>',
+        content: '<div class="bloc1"><p>It is also critical to verify that the solution you proposed actually helped the person. To do that, you can use the phrase: “<strong>Please let me know if there’s anything else I can help you with</strong>.”.</p><p>If the problem has not been resolved, it may take some time to find a new solution. In this case, you could say something like, <strong>\'I will raise this concern to our team lead, please wait for further instructions, thank you.”</strong></p><p>Make sure when ending the conversation, your closing remarks is polite, friendly, and will leave a positive impression towards them. You may also allow members to rate the transaction to measure the overall view.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '1e196133083d47c19303aa76641d3d32',
+        title: '<strong><strong>Step 5: Furnish a Transcript or Report</strong></strong>',
+        content: '<div class="bloc1"><p>You might notice that there are times you get the same concern from the same community member. Saving the conversation is enough for this type of scenario. One way of doing this is by using a ticketing bot (when in Discord) or help desk systems.</p><p>However, if the same concerns are coming from different community members, it is necessary to prepare a report and list down specific problem points. There are also tools that can help you generate reports on the number of cases solved per day, average response time, and satisfaction rate.</p></div>'
+      },
+      {
+        type: 'END',
+        title: 'End of lesson'
+      }
+    ]
+  },
+  {
+    poapImageLink: '/humanDAO/lesson/community-moderation/poap-d01f8a1e.png',
+    lessonImageLink: '/humanDAO/lesson/community-moderation/lesson-498e6120.png',
+    socialImageLink: '/humanDAO/lesson/community-moderation/social-b7d47219.png',
+    learningActions: '',
+    marketingDescription: 'Manage a community using different platform integrations and settings',
+    poapEventId: null,
+    duration: 15,
+    learnings: '',
+    difficulty: undefined,
+    description: 'Manage a community using different platform integrations and settings',
+    name: 'Community Moderation',
+    module: 'humandao',
+    quest: 'humanDAOCommunityModeration',
+    publicationStatus: 'publish',
+    isFeaturedOnHomepage: false,
+    isCommentsEnabled: true,
+    endOfLessonRedirect: null,
+    endOfLessonText: undefined,
+    notionId: 'a9b50baaa3384d6092fc89ed69604f15',
+    slug: 'community-moderation',
+    imageLinks: [],
+    slides: [
+      {
+        type: 'LEARN',
+        notionId: 'eb851a12c42a4a759ad4ff622070fb0f',
+        title: '<strong>Which platforms are used to perform the tasks of a Community Support role?</strong>',
+        content: '<div class="bloc1"><p>Many web3 communities have a designated virtual place to communicate, share ideas, and work on projects. One of those popular platforms is Discord.</p><p>Other social media platforms including Twitter, Facebook, Instagram, and Reddit mostly are used for announcements, contests, and giveaways.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'dcebb6ddb71344f8ac0b51199e0ea3f3',
+        title: 'How do I make the most out of Discord?',
+        content: '<div class="bloc1"><p>Discord offers a variety of communication modes, including text channels, voice channels, and stage channels, all of which are featured on a server. To organize each community\'s systems, admins, moderators, and accompanying bots control this.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '9714cfa55e4542a4a07dd7107a287047',
+        title: '<strong>Discord: Application commands</strong>',
+        content: '<div class="bloc1"><p>Text channels allow users to use application commands from bots using the slash symbol <strong>( / )</strong> along with the name of the command.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '27b86d15469e42c6b6e857cdf314285c',
+        title: 'Discord: Pin messages',
+        content: '<div class="bloc1"><p>Even if there’s an announcement channel, it is a good practice to pin messages using the dropdown menu in other channels. This will help you redirect members to important messages rather than repeating them.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '0fd7fd999963437390909633b7fb3804',
+        title: 'Discord: Markdown text',
+        content: '<div class="bloc1"><p>There are times when you want to highlight some text in a message. Making use of the markdown formatting system will assist you in creating announcements that stand out.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '0d369bf7b8644dab95dcc7480ec1f145',
+        title: 'Discord: Server settings',
+        content: '<div class="bloc1"><p>As part of the support team, you have access to certain settings in the Discord server.</p><p>The sections below will give you an idea what data can be changed and how to customize permissions:</p><ul><li><strong>Overview</strong> - server name, banner, and invite background. Also includes system messages channel</li><li><strong>Roles</strong> - creation of role names, default permissions, and hierarchy of roles. The role with the highest permission is on top of the list, and it can be dragged upward or downward to change the hierarchy.</li><li><strong>Emoji and stickers </strong>-<strong> </strong>custom emojis, animated emojis, and stickers that can be exclusively used in the server. Members with nitro subscription can use animated emojis and emojis from other servers.</li><li><strong>Moderation</strong> - includes verification levels for members who will join a server</li></ul></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'f4474c82f39342c9b9f81f9c07c0a15b',
+        title: 'Discord: Server settings',
+        content: '<div class="bloc1"><ul><li><strong>Audit Log</strong> - shows the actions made in the server, with the most recent action on top. It can be filtered by member and type of action.</li><li><strong>Integration</strong> - shows the list of webhooks used, channels followed, and bots invited in the server.</li><li><strong>Widget </strong>- server widgets are used to integrated the server profile in a website using HTML.</li><li><strong>Server Template </strong>-<strong> </strong>it is useful for replicating the same server setup. When a template is generated, it creates an exact copy of the server containing the same channels and permissions.</li><li><strong>Members</strong> - shows the total number of members, which can be filtered by role. A search bar is also available for easier tracking of names.</li><li><strong>Invites </strong>- invite links that are created by members can be viewed here. Discord only has limited number of invite links that can be generated, so it’s best practice to delete unused invite links.</li><li><strong>Bans</strong> - Members included in this list are banned by their account and IP address.</li></ul></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '4b1bd36de5a342cd947687a980839712',
+        title: 'Discord: Server integrations',
+        content: '<div class="bloc1"><p><strong>What are Discord bots?</strong></p><p>Bots on Discord are integrations on the server which help automate tasks including (but not limited to):</p><ul><li>Moderation</li><li>Statistics</li><li>Entertainment</li></ul></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '9693e70a8e8a42488eee691ddcc6f337',
+        title: '<strong>How do I learn about Discord bot commands?</strong>',
+        content: '<div class="bloc1"><p>One of the best ways to work with Discord bots is to read the website’s documentation. It is often linked in pages with different naming conventions including <strong>Tutorials</strong>, <strong>Docs</strong>, and <strong>Commands</strong>.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'b6814552db6c406e9ddb0a780262ccb2',
+        title: 'What are some of the most reputable bots?',
+        content: ''
+      },
+      {
+        type: 'END',
+        title: 'End of lesson'
+      }
+    ]
+  },
+  {
+    poapImageLink: '/humanDAO/lesson/collaboration-tools/poap-d6a8ab0a.png',
+    lessonImageLink: '/humanDAO/lesson/collaboration-tools/lesson-530e6282.png',
+    socialImageLink: '/humanDAO/lesson/collaboration-tools/social-132b3827.png',
+    learningActions: '',
+    marketingDescription: 'Find the best tools that let you work with colleagues seamlessly',
+    poapEventId: null,
+    duration: 10,
+    learnings: '',
+    difficulty: undefined,
+    description: 'Find the best tools that let you work with colleagues seamlessly',
+    name: 'Collaboration Tools',
+    module: 'humandao',
+    quest: 'humanDAOCollaborationTools',
+    publicationStatus: 'publish',
+    isFeaturedOnHomepage: false,
+    isCommentsEnabled: true,
+    endOfLessonRedirect: null,
+    endOfLessonText: undefined,
+    notionId: 'e791a99318d14d4d8ca40122f1df891d',
+    slug: 'collaboration-tools',
+    imageLinks: [],
+    slides: [
+      {
+        type: 'LEARN',
+        notionId: '451bf971cafb498391f6afa4e775cc00',
+        title: '<strong>What tools are best to use when working on projects?</strong>',
+        content: '<div class="bloc1"><p>In a decentralized workplace, online tools are commonly being used to accomplish projects even in a remote setting.</p><p>Some of these examples include <strong>Notion</strong>, <strong>Google Workspace</strong> (formerly GSuite), <strong>Figma</strong>, and <strong>Coordinape</strong>, among other popular tools. Let’s tackle the examples below.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'd00425019d254e4387446d2c0c8c486d',
+        title: 'Notion',
+        content: '<div class="bloc1"><p>Notion is an online workspace where you can take notes, build a database, create kanban boards for your to-do lists, and collaborate with peers for project management tasks.</p><p>This can be used to see what other departments are working on and to update the progress made from your end.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'f5873afff8d94d2d91defcbafe97ce29',
+        title: 'Google Workspace',
+        content: '<div class="bloc1"><p>Google Workspace offers multiple productivity tools—including email, calendar, video call, documents, spreadsheets, and a cloud storage where all the data from the productivity apps can be synced.</p><p>File-sharing is one of the major features that is used to consolidate ideas and changes in a document.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '177ce8c8d5b74425850edee4cf964861',
+        title: 'Figma',
+        content: '<div class="bloc1"><p>Figma is a graphics-editing and prototyping tool used to create digital designs and artworks. It is possible to collaborate with peers here by sharing access to the file.</p><p>For community support roles, having the knowledge to navigate this tool will help in assisting minor changes in social media posts.</p><p>A Gift Circle is where people in the Community Support role can allocate tokens to their team members depending on their contribution.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '9a3bbb16e987416d81cc2c0d85ab05b0',
+        title: 'Trello',
+        content: ''
+      },
+      {
+        type: 'LEARN',
+        notionId: '6f684892c03b48aca0ddb1a22caf63c6',
+        title: 'Miro',
+        content: ''
+      },
+      {
+        type: 'LEARN',
+        notionId: 'b6c211a020ff4810a607f62a21ea0f7f',
+        title: 'Coordinape',
+        content: '<div class="bloc1"><p>When it comes to rewards distribution, Coordinape is the tool that is commonly used by DAOs. It allow members to acknowledge the efforts of their teammates via the Gift Circle.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'ad70125c30444f308fd786d68106de07',
+        title: 'Coinvise',
+        content: ''
+      },
+      {
+        type: 'LEARN',
+        notionId: 'f33f9c25c163494cbfaaacb794db6b05',
+        title: 'Snapshot',
+        content: ''
+      },
+      {
+        type: 'LEARN',
+        notionId: '38ae1608451c4505a3ffaef532a45476',
+        title: 'Discourse',
+        content: ''
+      },
+      {
+        type: 'LEARN',
+        notionId: 'd3b32d2d119942a4aa538deabef3d06c',
+        title: 'Parcel',
+        content: ''
+      },
+      {
+        type: 'END',
+        title: 'End of lesson'
+      }
+    ]
+  },
+  {
+    poapImageLink: '/humanDAO/lesson/best-practices/poap-4ef7ed22.png',
+    lessonImageLink: '/humanDAO/lesson/best-practices/lesson-caee5017.png',
+    socialImageLink: '/humanDAO/lesson/best-practices/social-71b0c6e2.png',
+    learningActions: '',
+    marketingDescription: 'Keep your community informed and secured with best practices',
+    poapEventId: null,
+    duration: 10,
+    learnings: '',
+    difficulty: undefined,
+    description: 'Keep your community informed and secured with best practices',
+    name: 'Best Practices',
+    module: 'humandao',
+    quest: 'humanDAOBestPractices',
+    publicationStatus: 'publish',
+    isFeaturedOnHomepage: false,
+    isCommentsEnabled: true,
+    endOfLessonRedirect: null,
+    endOfLessonText: undefined,
+    notionId: '6edd2bdfdac34f1692892d51bb9c6b37',
+    slug: 'best-practices',
+    imageLinks: [],
+    slides: [
+      {
+        type: 'LEARN',
+        notionId: 'dca36868cf2542bdbce5581dcd75040e',
+        title: 'TODO',
+        content: '<div class="bloc1"><p>…</p></div>'
+      },
+      {
+        type: 'END',
+        title: 'End of lesson'
+      }
+    ]
+  },
+  {
+    poapImageLink: '/humanDAO/lesson/financial-literacy-101/poap-ec65bbcc.png',
+    lessonImageLink: '/humanDAO/lesson/financial-literacy-101/lesson-7bcb46a8.jpg',
+    socialImageLink: '/humanDAO/lesson/financial-literacy-101/social-c39ade19.jpg',
+    learningActions: '',
+    marketingDescription: 'This module covers the basic concepts of Financial Literacy',
+    poapEventId: null,
+    duration: 15,
+    learnings: '',
+    difficulty: 'Easy',
+    description: 'This module covers the basic concepts of Financial Literacy',
+    name: 'Financial Literacy 101',
+    module: 'financial-literacy',
+    quest: 'humanDAOFinancialLiteracy101',
+    publicationStatus: 'publish',
+    isFeaturedOnHomepage: true,
+    isCommentsEnabled: true,
+    endOfLessonRedirect: null,
+    endOfLessonText: 'How did you like the module? What more would you like to learn? Put your suggestions in the comments!',
+    notionId: '4ea9b2c3e52246269a0573bd051e3b4d',
+    slug: 'financial-literacy-101',
+    imageLinks: [
+      '/humanDAO/lesson/financial-literacy-101/why-is-it-important-to-learn-financial-literacy-2d9dbeff.jpg',
+      '/humanDAO/lesson/financial-literacy-101/why-is-it-important-to-learn-financial-literacy-d453524d.jpg',
+      '/humanDAO/lesson/financial-literacy-101/what-happens-due-to-lack-of-financial-literacy-4af6cee8.jpg',
+      '/humanDAO/lesson/financial-literacy-101/major-pillars-of-financial-literacy-8ea023e6.jpg',
+      '/humanDAO/lesson/financial-literacy-101/pillar-1-earn-57f279c9.jpg',
+      '/humanDAO/lesson/financial-literacy-101/pillar-2-spend-9bb90495.jpg',
+      '/humanDAO/lesson/financial-literacy-101/pillar-3-save-and-invest-1be53149.jpg',
+      '/humanDAO/lesson/financial-literacy-101/pillar-4-borrow-3f7af051.jpg',
+      '/humanDAO/lesson/financial-literacy-101/pillar-5-protect-35d8709a.jpg',
+      '/humanDAO/lesson/financial-literacy-101/financial-literacy-at-humandao-77c83cc1.jpg',
+      '/humanDAO/lesson/financial-literacy-101/self-assessment-ad02cd83.jpg'
+    ],
+    slides: [
+      {
+        type: 'LEARN',
+        notionId: '8b03a8edaccb44228ff03906bc5a4335',
+        title: '<strong>Why is it important to Learn Financial Literacy?</strong>',
+        content: '<img src=\'/humanDAO/lesson/financial-literacy-101/why-is-it-important-to-learn-financial-literacy-2d9dbeff.jpg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'cb174387ae9044178438a193137e4b90',
+        title: '<strong>Why is it important to Learn Financial Literacy:</strong>',
+        content: '<img src=\'/humanDAO/lesson/financial-literacy-101/why-is-it-important-to-learn-financial-literacy-d453524d.jpg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '0b38521286c640f28f7b352beb58bc59',
+        title: 'What happens due to lack of Financial Literacy?',
+        content: '<img src=\'/humanDAO/lesson/financial-literacy-101/what-happens-due-to-lack-of-financial-literacy-4af6cee8.jpg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '45fa000e9a584fa19bc3cb96c4cdb74b',
+        title: 'Major <strong>Pillars of Financial Literacy</strong>',
+        content: '<img src=\'/humanDAO/lesson/financial-literacy-101/major-pillars-of-financial-literacy-8ea023e6.jpg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '5ef22610912c4ef18076b8cd44d4828a',
+        title: '<strong>Pillar 1: Earn</strong>',
+        content: '<img src=\'/humanDAO/lesson/financial-literacy-101/pillar-1-earn-57f279c9.jpg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '8a57706cd2774a88bfc842ff5c7a09ad',
+        title: '<strong>Pillar 2: Spend</strong>',
+        content: '<img src=\'/humanDAO/lesson/financial-literacy-101/pillar-2-spend-9bb90495.jpg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'f01449b632e7447794ba12f26b98520c',
+        title: '<strong>Pillar 3: Save and Invest</strong>',
+        content: '<img src=\'/humanDAO/lesson/financial-literacy-101/pillar-3-save-and-invest-1be53149.jpg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '2010412afd8e4c32a9fda29558baabe1',
+        title: '<strong>Pillar 4: Borrow</strong>',
+        content: '<img src=\'/humanDAO/lesson/financial-literacy-101/pillar-4-borrow-3f7af051.jpg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '6e5700b8e4a24029abd79e1f41d6601b',
+        title: '<strong>Pillar 5: Protect</strong>',
+        content: '<img src=\'/humanDAO/lesson/financial-literacy-101/pillar-5-protect-35d8709a.jpg\'>'
+      },
+      {
+        type: 'QUIZ',
+        notionId: '5de3e9a2376f4f0d8007ac376bac4c9d',
+        title: 'Fact Check',
+        quiz: {
+          question: 'Chose the right equation:',
+          rightAnswerNumber: 2,
+          answers: [
+            'Income - Expense = Savings',
+            'Income - Savings = Expenses',
+            'Both are wrong',
+            'Both are right'
+          ],
+          id: 'financial-literacy-101-1'
+        }
+      },
+      {
+        type: 'LEARN',
+        notionId: '4705a9d0dd98482fb59a775b77cf2e36',
+        title: 'Financial Literacy at HumanDAO',
+        content: '<img src=\'/humanDAO/lesson/financial-literacy-101/financial-literacy-at-humandao-77c83cc1.jpg\'>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '8ca34f91481342d797759561ef3501ab',
+        title: '<strong>Self-Assessment</strong>',
+        content: '<img src=\'/humanDAO/lesson/financial-literacy-101/self-assessment-ad02cd83.jpg\'>'
+      },
+      {
+        type: 'END',
+        title: 'End of lesson'
+      }
+    ]
   }
 ]
 
