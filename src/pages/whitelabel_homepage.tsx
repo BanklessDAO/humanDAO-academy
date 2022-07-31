@@ -18,7 +18,8 @@ const HomePage = (): JSX.Element => {
       <StyledImage src={HOMEPAGE_BACKGROUND} />
       <Box bgColor="#1F2023" p="4" overflow="hidden">
         <Container maxW="container.lg">
-          <Modules modules={MODULES} />
+          {/* Top modules */}
+          <Modules modules={MODULES.filter((m) => !m.parentModule)} />
         </Container>
         <Footer />
       </Box>
