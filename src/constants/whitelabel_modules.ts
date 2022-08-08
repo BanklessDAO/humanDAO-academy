@@ -34,10 +34,10 @@ const MODULES: ModuleType[] = [
     subModules: [],
   },
   {
-    name: 'What is a Crypto Wallet?',
-    moduleImageLink: '/humanDAO/module/what-is-a-crypto-wallet-f068aa4a.png',
+    name: 'Crypto Wallet?',
+    moduleImageLink: '/humanDAO/module/crypto-wallet-f068aa4a.png',
     description: 'This module explains how to setup and use a Crypto Wallet.',
-    slug: 'what-is-a-crypto-wallet',
+    slug: 'crypto-wallet',
     moduleId: 'f686aa87be9644788ab424f7e472ed38',
     parentModule: '81de713b4f9f4008bbdcb6333400daae',
     subModules: [],
@@ -60,6 +60,26 @@ const MODULES: ModuleType[] = [
     slug: 'financial-literacy',
     moduleId: 'eec24eea0e8048c29623a8a2cccd0d33',
     parentModule: null,
+    subModules: [],
+  },
+  {
+    name: 'Web3 Opportunities',
+    moduleImageLink: '/humanDAO/module/web3-opportunities-25358f4f.png',
+    description:
+      'This module gives learners a peek at the range of opportunities available in Web3',
+    slug: 'web3-opportunities',
+    moduleId: '320e7482ddee464f97041ef6686c2db7',
+    parentModule: null,
+    subModules: ['ce77c1a30483468b965e01eb8e0921f1'],
+  },
+  {
+    name: 'Community Support',
+    moduleImageLink: '/humanDAO/module/community-support-33f39a9f.png',
+    description:
+      'This module takes a deep dive on the various skills required for successful community management in a DAO',
+    slug: 'community-support',
+    moduleId: 'ce77c1a30483468b965e01eb8e0921f1',
+    parentModule: '320e7482ddee464f97041ef6686c2db7',
     subModules: [],
   },
 ]
