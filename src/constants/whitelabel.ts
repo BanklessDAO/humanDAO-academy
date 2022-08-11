@@ -4,7 +4,7 @@ export const WHITELABEL: WhitelabelType = {
   project_name: 'humanDAO Academy',
   domain_prod: 'academy.humandao.org',
   default_metadata_description: 'Improve lives through crypto',
-  default_metadata_image: '/humanDAO/image-4a5cc08b.png',
+  default_metadata_image: '/humanDAO/image-c604db44.png',
   favicon: '/humanDAO/favicon-be4b0de6.png',
   logo: '/humanDAO/logo-9db9996d.png',
   homepage_background: '/humanDAO/homepage_background-2515387e.png',
