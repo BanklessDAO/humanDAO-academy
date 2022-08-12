@@ -158,13 +158,12 @@ const LESSONS: LessonType[] = [
         notionId: '72463025b6bf4880a0ca19723e551571',
         title: 'Knowledge Check',
         quiz: {
-          question: '<strong>Bitcoin production consumes minor levels of energy. I</strong>',
-          rightAnswerNumber: 4,
+          question: '<strong>Bitcoin production consumes high levels of energy. </strong>',
+          rightAnswerNumber: 1,
           answers: [
             'True',
             'False',
-            'Sometimes',
-            'None of the above'
+            'Sometimes'
           ],
           id: 'what-is-bitcoin-2'
         }
@@ -173,7 +172,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '081f128835df47599310efa4689b82c6',
         title: 'Why is Bitcoin compared to Gold?',
-        content: '<div class="bloc1"><p>There are only ever going to be 21 million Bitcoins that can ever be mined. Since it is scarce, it is valuable. Like Gold.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-bitcoin/why-is-bitcoin-compared-to-gold-9eeb0bbf.png\'><p>Although there are many questions as to the sustainability of using BTC transactions as a means of an everyday currency, mainly for its heavy environmental cost. We are beginning to see countries with weaker economies, such as El Salvador begin to invest and take BTC as legal tender</p></div>'
+        content: '<div class="bloc1"><p>There are only ever going to be 21 million Bitcoins that can ever be mined. Since it is scarce, it is valuable. Like Gold.</p><p>Although there are many questions as to the sustainability of using BTC transactions as a means of an everyday currency, mainly for its heavy environmental cost. We are beginning to see countries with weaker economies, such as El Salvador begin to invest and take BTC as legal tender</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-bitcoin/why-is-bitcoin-compared-to-gold-9eeb0bbf.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -510,7 +509,7 @@ const LESSONS: LessonType[] = [
             'It is decentralized ',
             'It is owned by the users',
             'It provides anonymity',
-            'All of the above.'
+            'All of the above'
           ],
           id: 'what-is-web3-3'
         }
@@ -546,8 +545,7 @@ const LESSONS: LessonType[] = [
       '/humanDAO/lesson/what-is-defi/what-is-defi-d2f74ef5.png',
       '/humanDAO/lesson/what-is-defi/how-does-defi-improve-the-current-financial-system-2a12b905.png',
       '/humanDAO/lesson/what-is-defi/applications-of-defi-9ae16b45.png',
-      '/humanDAO/lesson/what-is-defi/a-look-at-the-defi-ecosystem-ethereum-f6cfe8e9.png',
-      '/humanDAO/lesson/what-is-defi/a-look-at-the-defi-ecosystem-solana-e5ffac29.png'
+      '/humanDAO/lesson/what-is-defi/a-look-at-the-defi-ecosystem-ethereum-067d7495.png'
     ],
     slides: [
       {
@@ -604,26 +602,20 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '7a8e67caedc44f118db49cf999f0f34d',
         title: 'A look at the DeFi Ecosystem: Ethereum',
-        content: '<div class="bloc1"><p>The DeFi Ecosystem is growing at a break-neck pace. The below illustration catalogues the emerging players in the DeFi space in the Ethereum ecosystem.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-defi/a-look-at-the-defi-ecosystem-ethereum-f6cfe8e9.png\'></div>'
-      },
-      {
-        type: 'LEARN',
-        notionId: '270757c64c0c4a5e97fdf6ff46b84c58',
-        title: 'A look at the DeFi Ecosystem: Solana',
-        content: '<div class="bloc1"><p>The DeFi Ecosystem is growing at a break-neck pace. The below illustration catalogues the emerging players in the DeFi space in the Solana ecosystem.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-defi/a-look-at-the-defi-ecosystem-solana-e5ffac29.png\'></div>'
+        content: '<div class="bloc1"><p>The DeFi Ecosystem is growing at a break-neck pace. The illustration catalogues the emerging players in the DeFi space in the Ethereum ecosystem. The core DeFI platforms revolve around Curve Finance. With other blue chip platforms such as Yearn, AAVE, Uniswap Compound & Maker.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-defi/a-look-at-the-defi-ecosystem-ethereum-067d7495.png\'></div>'
       },
       {
         type: 'QUIZ',
         notionId: '34957b75e44c4e58b693c49bb2cd6fc3',
         title: 'Knowledge Check',
         quiz: {
-          question: 'Which of these is NOT a part of the Defi Ecosystem',
-          rightAnswerNumber: 3,
+          question: 'Which of these is a core DeFi platform',
+          rightAnswerNumber: 4,
           answers: [
-            'Uniswap',
-            'Aave',
-            'Wells Fargo ',
-            'Curve Finance'
+            'Metamask',
+            'Rarible',
+            'Curve Finance',
+            'Uniswap'
           ],
           id: 'what-is-defi-3'
         }
@@ -656,7 +648,6 @@ const LESSONS: LessonType[] = [
     notionId: 'cedfb1cc1ceb4f2091b3a1d7196d9b54',
     slug: 'what-are-nfts',
     imageLinks: [
-      '/humanDAO/lesson/what-are-nfts/what-are-nfts-a24652b8.png',
       '/humanDAO/lesson/what-are-nfts/what-is-minting-d19fab2f.png',
       '/humanDAO/lesson/what-are-nfts/what-are-royalties-db93a4aa.png'
     ],
@@ -665,7 +656,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'a19ae37e21194bc5a6ae386579571bd4',
         title: 'What are NFTs?',
-        content: '<div class="bloc1"><p>NFTs are a unique digital proof that you own an object - whether it is physical or digital.</p><p>Most NFTs today are built around ownership of digital assets, like digital art, music video, photos, and digital lands.</p><p>However, one can also get NFTs that represent ownership of Physical objects like land records or an artwork</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-are-nfts/what-are-nfts-a24652b8.png\'></div>'
+        content: '<div class="bloc1"><p>NFTs are a unique digital proof that you own an object - whether it is physical or digital.</p><p>Most NFTs today are built around ownership of digital assets, like digital art, music video, photos, and digital lands.</p><p>However, one can also get NFTs that represent ownership of Physical objects like land records or an artwork</p></div>'
       },
       {
         type: 'QUIZ',
@@ -694,7 +685,7 @@ const LESSONS: LessonType[] = [
         notionId: '4b9f7a3a7fd74f9eb61f38962a98d25d',
         title: 'Knowledge Check',
         quiz: {
-          question: 'To ‘mint’ an NFT, a blockchain requires:',
+          question: 'What is coded to allow the “mint” of an NFT',
           rightAnswerNumber: 2,
           answers: [
             'Gas fees',
@@ -737,12 +728,12 @@ const LESSONS: LessonType[] = [
     lessonImageLink: '/humanDAO/lesson/what-is-a-dao/lesson-7d140a78.png',
     socialImageLink: '/humanDAO/lesson/what-is-a-dao/social-a2075b09.png',
     learningActions: '',
-    marketingDescription: 'Understand the fundamentals of web3 organisations',
+    marketingDescription: 'The fundamentals of web3 orgs',
     poapEventId: null,
     duration: 10,
     learnings: '',
     difficulty: undefined,
-    description: 'Understand the fundamentals of web3 organisations',
+    description: 'The fundamentals of web3 orgs',
     name: 'What is a DAO?',
     moduleId: '40959b191fcc4b058e3e8049410013f9',
     quest: 'humanDAOWhatIsADAO',
@@ -900,10 +891,10 @@ const LESSONS: LessonType[] = [
     slug: 'what-is-the-metaverse',
     imageLinks: [
       '/humanDAO/lesson/what-is-the-metaverse/what-is-the-metaverse-941bf4e1.png',
-      '/humanDAO/lesson/what-is-the-metaverse/what-happens-inside-the-metaverse-a2b86b16.jpg',
+      '/humanDAO/lesson/what-is-the-metaverse/what-happens-inside-the-metaverse-f43cbb7e.png',
       '/humanDAO/lesson/what-is-the-metaverse/when-did-the-metaverse-actually-begin-aeeb4978.png',
       '/humanDAO/lesson/what-is-the-metaverse/what-does-the-metaverse-look-like-now-e3be627c.png',
-      '/humanDAO/lesson/what-is-the-metaverse/what-will-be-the-likely-future-of-metaverse-12cc718b.jpg'
+      '/humanDAO/lesson/what-is-the-metaverse/what-will-be-the-likely-future-of-metaverse-5e3e9427.png'
     ],
     slides: [
       {
@@ -917,7 +908,7 @@ const LESSONS: LessonType[] = [
         notionId: '32c9dbd4174249ff85f14953f2f423b9',
         title: 'Knowledge Check',
         quiz: {
-          question: 'Metaverse platform can be used for',
+          question: 'Metaverse platforms can be used for',
           rightAnswerNumber: 4,
           answers: [
             'Gaming and Training',
@@ -932,7 +923,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'b7c559f8672d41818e68f98fde64e3af',
         title: 'What happens inside the Metaverse?',
-        content: '<div class="bloc1"><p>Anyone can enter the metaverse as an ‘avatar’ - a digital version that represents them.</p><p>Once inside the metaverse, users can communicate with each other and virtually build out the community. </p><p>Just like in real world, one can roam around the Metaverse, only here distance is never a limiting factor as one can ‘jump’ from one part of the Metaverse to another in an instant.</p><p>It’s also possible to buy various digital assets (or NFTs) inside a Metaverse. This is typically done using a digital crypto currency.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-the-metaverse/what-happens-inside-the-metaverse-a2b86b16.jpg\'></div>'
+        content: '<div class="bloc1"><p>Anyone can enter the metaverse as an ‘avatar’ - a digital version that represents them.</p><p>Once inside the metaverse, users can communicate with each other and virtually build out the community. </p><p>Just like in real world, one can roam around the Metaverse, only here distance is never a limiting factor as one can ‘jump’ from one part of the Metaverse to another in an instant.</p><p>It’s also possible to buy various digital assets (or NFTs) inside a Metaverse. This is typically done using a digital crypto currency.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-the-metaverse/what-happens-inside-the-metaverse-f43cbb7e.png\'></div>'
       },
       {
         type: 'LEARN',
@@ -964,7 +955,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '2abfb139346d453a9a354a26d94dc4ba',
         title: 'What will be the likely future of Metaverse?',
-        content: '<div class="bloc1"><p>By now, it is quite clear that the Metaverse is here to stay. In near future, Metaverse is likely to be a hug for both Entertainment (Gaming, Social Media) and Business (Web Conferences, Team Collaborations). </p><p>Apart from this, Metaverse is also poised to play a big role in the evolution of electronic commerce. Some of the biggest brands like Nike, Adidas and Coke are already lining up to make their presence felt in the Metaverse. </p><p>This fast emerging tech will also be a hotbed of opportunities - both for technical and non-technical roles.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-the-metaverse/what-will-be-the-likely-future-of-metaverse-12cc718b.jpg\'></div>'
+        content: '<div class="bloc1"><p>By now, it is quite clear that the Metaverse is here to stay. In near future, Metaverse is likely to be a hug for both Entertainment (Gaming, Social Media) and Business (Web Conferences, Team Collaborations). </p><p>Apart from this, Metaverse is also poised to play a big role in the evolution of electronic commerce. Some of the biggest brands like Nike, Adidas and Coke are already lining up to make their presence felt in the Metaverse. </p><p>This fast emerging tech will also be a hotbed of opportunities - both for technical and non-technical roles.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-the-metaverse/what-will-be-the-likely-future-of-metaverse-5e3e9427.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -1009,6 +1000,7 @@ const LESSONS: LessonType[] = [
     notionId: '8e45589f9cb54504bcf0a8327b796cc3',
     slug: 'what-is-a-crypto-wallet',
     imageLinks: [
+      '/humanDAO/lesson/what-is-a-crypto-wallet/wallet-intro-79293004.png',
       '/humanDAO/lesson/what-is-a-crypto-wallet/wallet-definition-1abf2095.png',
       '/humanDAO/lesson/what-is-a-crypto-wallet/recovery-phrase-6e90e4a1.png',
       '/humanDAO/lesson/what-is-a-crypto-wallet/public-key-b80f9290.png',
@@ -1026,7 +1018,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'e32e616adfd847a8900d398a9a474d4e',
         title: 'Wallet Intro',
-        content: '<div class="bloc1"><p><strong>Greetings!</strong></p><p>Welcome to humanDAO Academy. We’re excited to guide you on your journey into Web3. To get started, you will need some essential equipment: a digital wallet.</p><p>A digital wallet is your passport to exploring the various worlds of Web3. This tool grants you access to incredible new possibilities while safeguarding your assets and identity.</p><p>In this lesson, we’ll introduce you to digital wallets, how they work, and how to set yours up to safely embark on your Web3 journey.</p><p>Let’s get started!</p></div>'
+        content: '<div class="bloc1"><p><strong>Greetings!</strong></p><p>Welcome to humanDAO Academy. We’re excited to guide you on your journey into Web3. To get started, you will need some essential equipment: a digital wallet.</p><p>A digital wallet is your passport to exploring the various worlds of Web3. This tool grants you access to incredible new possibilities while safeguarding your assets and identity.</p><p>In this lesson, we’ll introduce you to digital wallets, how they work, and how to set yours up to safely embark on your Web3 journey.</p><p>Let’s get started!</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/wallet-intro-79293004.png\'></div>'
       },
       {
         type: 'LEARN',
@@ -1251,9 +1243,9 @@ const LESSONS: LessonType[] = [
       '/humanDAO/lesson/humandao-an-introduction/how-can-you-excel-at-your-role-in-humandao-75c1c11e.png',
       '/humanDAO/lesson/humandao-an-introduction/for-newbies-on-discord-heres-how-you-can-start-in-hdao-12-d6bb32ba.png',
       '/humanDAO/lesson/humandao-an-introduction/for-newbies-on-discord-heres-how-you-can-start-in-hdao-22-381ffd5e.png',
-      '/humanDAO/lesson/humandao-an-introduction/how-to-navigate-humandaos-discord-server-b39cb1a1.png',
-      '/humanDAO/lesson/humandao-an-introduction/which-discord-channels-can-help-aspiring-scholars-5148ded0.png',
-      '/humanDAO/lesson/humandao-an-introduction/which-discord-channels-can-help-aspiring-builders-9ed6b592.png',
+      '/humanDAO/lesson/humandao-an-introduction/how-to-navigate-humandaos-discord-server-b07a9593.png',
+      '/humanDAO/lesson/humandao-an-introduction/which-discord-channels-can-help-aspiring-scholars-d382f1af.png',
+      '/humanDAO/lesson/humandao-an-introduction/which-discord-channels-can-help-aspiring-builders-c1e0a94c.png',
       '/humanDAO/lesson/humandao-an-introduction/how-to-participate-in-humandaos-activities-ce385313.png',
       '/humanDAO/lesson/humandao-an-introduction/how-to-participate-in-humandaos-activities-488fdde3.png',
       '/humanDAO/lesson/humandao-an-introduction/current-humandao-opportunities-c79d0622.png',
@@ -1363,19 +1355,19 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '555dea54454341fa87711e8c2d9e11b8',
         title: 'How to navigate humanDAO’s Discord server?',
-        content: '<div class="bloc1"><p>Here are important channels to start with</p><ul><li><strong>About us</strong> - Describes the mission and vision of humanDAO</li><li><strong>Rules </strong>- Community rules that all members should follow</li><li><strong>Official links </strong>- Includes the official website, token contracts, liquidity pools, and social media channels</li><li><strong>FAQs </strong>- Includes Community Onboarding guide and details about roles and scholarships</li><li><strong>Get-Scholarship</strong> - Provides a step-by-step process on becoming an applicant and a scholar</li><li><strong>Help-desk </strong>- This is where you can raise concerns to moderators regarding technical concerns and the application process.</li><li><strong>Report-Scam</strong> - For reporting fraud, scam, spam, and other violations in the rules</li><li><strong>Bounty Board </strong>- A place where contributors can find short and long term projects to work on.</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/humandao-an-introduction/how-to-navigate-humandaos-discord-server-b39cb1a1.png\'></div>'
+        content: '<div class="bloc1"><p>Here are important channels to start with</p><ul><li><strong>About us</strong> - Describes the mission and vision of humanDAO</li><li><strong>Rules </strong>- Community rules that all members should follow</li><li><strong>Official links </strong>- Includes the official website, token contracts, liquidity pools, and social media channels</li><li><strong>FAQs </strong>- Includes Community Onboarding guide and details about roles and scholarships</li><li><strong>Get-Scholarship</strong> - Provides a step-by-step process on becoming an applicant and a scholar</li><li><strong>Help-desk </strong>- This is where you can raise concerns to moderators regarding technical concerns and the application process.</li><li><strong>Report-Scam</strong> - For reporting fraud, scam, spam, and other violations in the rules</li><li><strong>Rewards-programs </strong>- A place where contributors can find short and long term projects to work on.</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/humandao-an-introduction/how-to-navigate-humandaos-discord-server-b07a9593.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: '877f98f23c054b05817e6461aed524d8',
         title: 'Which Discord channels can help aspiring scholars?',
-        content: '<div class="bloc1"><ul><li><strong>P2E-Chat</strong> - You can talk about play-to-earn games and scholarships, or meet new friends who are scholars, newbies, or applicants in the server.</li><li><strong>Applicant-Chat</strong> - If you’ve successfully applied for a scholarship, you will have access in sending messages with co-applicants and check updates for your role.</li><li><strong>Meta-Teams </strong>In this channel, you can check the available meta teams that humanDAO will let you choose to play with once you become a scholar.</li><li><strong>Resources</strong> - If you’re new to Axie Infinity, this is the best way to start learning the gameplay, axie classes, buffs and debuffs, and other strategies.</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/humandao-an-introduction/which-discord-channels-can-help-aspiring-scholars-5148ded0.png\'></div>'
+        content: '<div class="bloc1"><ul><li><strong>P2E-Chat</strong> - You can talk about play-to-earn games and scholarships, or meet new friends who are scholars, newbies, or applicants in the server.</li><li><strong>Applicant-Chat</strong> - If you’ve successfully applied for a scholarship, you will have access in sending messages with co-applicants and check updates for your role.</li><li><strong>Meta-Teams </strong>In this channel, you can check the available meta teams that humanDAO will let you choose to play with once you become a scholar.</li><li><strong>Resources</strong> - If you’re new to Axie Infinity, this is the best way to start learning the gameplay, axie classes, buffs and debuffs, and other strategies.</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/humandao-an-introduction/which-discord-channels-can-help-aspiring-scholars-d382f1af.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: '7d81407a272a41879d8fc7f772aa3763',
         title: 'Which Discord channels can help aspiring builders?',
-        content: '<div class="bloc1"><ul><li><strong>Builder-Interest</strong> - If you want to become a contributor, core team member, advisor, or investor, share your skills and interest in this channel</li><li><strong>Build-Gen-Chat </strong>- When you are granted a builder role, make sure to visit this channel to stay updated with the latest projects the DAO is currently working on.</li><li><strong>Build-Content </strong>-<strong> </strong>Writers and social media strategists can collaborate on the content they will be creating to publish on Medium or the social media channels. On the other hand, there are also graphic designers, content creators, and UI/UX designers who can work on assets such as website interface, pubmats, and illustrations.</li><li><strong>Build-Dev</strong> - This is where front-end and back-end developers can collaborate to work on website and applications. They can work on either web2 and web3 components of a project.</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/humandao-an-introduction/which-discord-channels-can-help-aspiring-builders-9ed6b592.png\'></div>'
+        content: '<div class="bloc1"><ul><li><strong>Builder-Interest</strong> - If you want to become a contributor, core team member, advisor, or investor, share your skills and interest in this channel</li><li><strong>Build-Gen-Chat </strong>- When you are granted a builder role, make sure to visit this channel to stay updated with the latest projects the DAO is currently working on.</li><li><strong>Build-Content </strong>-<strong> </strong>Writers and social media strategists can collaborate on the content they will be creating to publish on Medium or the social media channels. On the other hand, there are also graphic designers, content creators, and UI/UX designers who can work on assets such as website interface, pubmats, and illustrations.</li><li><strong>Build-Dev</strong> - This is where front-end and back-end developers can collaborate to work on website and applications. They can work on either web2 and web3 components of a project.</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/humandao-an-introduction/which-discord-channels-can-help-aspiring-builders-c1e0a94c.png\'></div>'
       },
       {
         type: 'LEARN',
@@ -1387,7 +1379,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'd8e774db21184c12b7efd3064796bcd4',
         title: '<strong>How to participate in humanDAO’s activities?</strong>',
-        content: '<div class="bloc1"><p><strong>Participate in the forum</strong></p><p>The forum is where people can submit proposals for the community and discuss strategies, points for improvement, and other types of discussions. The governance process follows 3 steps:</p><ol><li><strong>Sanity Check</strong>: proposal with 2 days of discussion</li><li><strong>Draft Proposal:</strong> proposal has approve, reject, or needs revision options and 70% builder approval</li><li><strong>Active Proposal:</strong> proposal is brought to Snapshot with for and against options for voting and 60% quorum</li></ol><p><strong>Vote in Snapshot</strong></p><p>When proposals become active, they are again brought to Snapshot.This web application allows community members who own $HDAO tokens to vote on proposals without spending any tokens. Votes on Snapshot are weighted by the number of humanDAO tokens that are either delegated or staked in their address.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/humandao-an-introduction/how-to-participate-in-humandaos-activities-488fdde3.png\'></div>'
+        content: '<div class="bloc1"><p><strong>Participate in the forum</strong></p><p>The forum is where people can submit proposals for the community and discuss strategies, points for improvement, and other types of discussions. The governance process follows 3 steps:</p><ol><li><strong>Sanity Check</strong>: proposal with 2 days of discussion</li><li><strong>Draft Proposal:</strong> proposal has approve, reject, or needs revision options and 70% builder approval</li><li><strong>Active Proposal:</strong> proposal is brought to Snapshot with for and against options for voting and 60% quorum</li></ol><p><strong>Vote in Snapshot</strong></p><p>A live snapshot proposal allows community members who own $HDAO tokens to vote on proposals without spending any tokens. Votes on Snapshot are weighted by the number of humanDAO tokens that are either delegated or staked in their address.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/humandao-an-introduction/how-to-participate-in-humandaos-activities-488fdde3.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -1408,13 +1400,13 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'b72f909d1835420f87c07b5dafcee42a',
         title: 'Current humanDAO opportunities',
-        content: '<div class="bloc1"><p>humanDAO aims to become the epicentre of web3 recruitment & provision for global communities. A lofty goal, that needs to be strategically executed step by step. With the DAO finding its roots within P2E games and providing scholarships to over 1000 people, this is the sturdy foundation it has been built upon. With expansions now into services fulfilled via NFTs, it enables the DAO to be more flexible with their approach for web3 recruitment and can aim to onboard non-crypto native community members. </p><p>Alongside this, With the release of the humanDAO Academy, HDAO is working towards an industry-leading platform that will reward participants will on-chain credentials. </p><p>Check these channels/links if you want to: </p><ul><li>Apply for p2e scholarship (#get-scholarship)</li><li>Apply for Pocket Assistant (<a href=\'https://pa.humandao.org\'>https://pa.humandao.org</a>)</li><li>Become a builder (#builder-interest)</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/humandao-an-introduction/current-humandao-opportunities-c79d0622.png\'></div>'
+        content: '<div class="bloc1"><p>humanDAO aims to become the epicentre of web3 recruitment & provision for global communities. A lofty goal, that needs to be strategically executed step by step. With the DAO finding its roots within P2E games and providing scholarships to over 1000 people, this is the sturdy foundation it has been built upon. With expansions now into services fulfilled via NFTs, it enables the DAO to be more flexible with their approach for web3 recruitment and can aim to onboard non-crypto native community members. </p><p>Alongside this, With the release of the humanDAO Academy, HDAO is working towards an industry-leading platform that will reward participants will on-chain credentials. </p><p>Check these channels/links if you want to: </p><ul><li>Apply for p2e scholarship (<a href=\'https://discord.gg/fzVQYWAQ\'>#get-scholarship</a>)</li><li>Apply for Pocket Assistant (<a href=\'https://pa.humandao.org\'>https://pa.humandao.org</a>)</li><li>Become a builder (<a href=\'https://discord.gg/A3rJQ7AR\'>#builder-interest</a>)</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/humandao-an-introduction/current-humandao-opportunities-c79d0622.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: '20b776bb4dcb4c1da2f34ca342d72efa',
         title: 'Future humanDAO opportunities',
-        content: '<div class="bloc1"><p>The road doesn’t end with the current opportunities within the DAO. The education, roles & opportunities are planned for large growth. We have seen we can pull huge numbers of participants to these projects and aim to onboard & improve the lives of as many community members as possible. </p><p>Future web3 opportunities through humanDAO will come in the form of a project dubbed “Metaverse Talent Network” (MTN). HDAO will leverage its industry connection, education platform & in-depth knowledge of the web3 space to recruit, educate & place HDAO community members into positions within the web3 space. The web3 industry is a rapidly evolving beast and demand for positions such as community support roles are at an all-time high. </p><p>To keep up to date with all goings on, make sure to monitor the announcement channel. If the support role is of interest, make sure to keep an eye on the humanDAO academy.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/humandao-an-introduction/future-humandao-opportunities-a4fdd162.png\'></div>'
+        content: '<div class="bloc1"><p>The road doesn’t end with the current opportunities within the DAO. The academy platform, DAO & Web3 opportunities via humanDAO are forecasted for large growth in the coming years. We have seen we can pull huge numbers of participants to projects and aim to improve the lives of as many community members as possible. </p><p>Future web3 opportunities through humanDAO will come in the form of a project dubbed “Metaverse Talent Network” (MTN). HDAO will leverage its industry connections, education platform & in-depth knowledge of the web3 space to recruit, educate & place HDAO community members into positions within the web3 space. The web3 industry is a rapidly evolving beast and demand for positions such as community support roles are at an all-time high. </p><p>To keep up to date with all goings on, make sure to monitor the announcement channel. If the support role is of interest, make sure to keep an eye on the humanDAO academy.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/humandao-an-introduction/future-humandao-opportunities-a4fdd162.png\'></div>'
       },
       {
         type: 'END',
@@ -1696,7 +1688,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '8b03a8edaccb44228ff03906bc5a4335',
         title: '<strong>Why is it important to Learn Financial Literacy?</strong>',
-        content: '<div class="bloc1"><p>A good, happy life requires a fine balance of several factors. </p><p>Three things are key to achieve this:</p><ol><li>Physical well-being</li><li>Emotional or mental well-being</li><li><strong>Financial well-being</strong></li></ol><p>Of the three, financial well-being will be discussed to show its importance to live a balanced life.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/financial-literacy-101/why-is-it-important-to-learn-financial-literacy-3f7067d0.png\'></div>'
+        content: '<div class="bloc1"><p>A good, happy life requires a fine balance of several factors. </p><p>Three things are key to achieve this:</p><ol><li>Physical well-being</li><li>Emotional or mental well-being</li><li><strong>Financial well-being</strong></li></ol><p>In this module, we will take a deep dive into the topic of<strong> financial well-being </strong></p></div><div class="bloc2"><img src=\'/humanDAO/lesson/financial-literacy-101/why-is-it-important-to-learn-financial-literacy-3f7067d0.png\'></div>'
       },
       {
         type: 'LEARN',
@@ -1714,7 +1706,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '441ced5acefe47dcb86e9eca48a2c768',
         title: 'Major <strong>Pillars of Financial Literacy</strong>',
-        content: '<img src=\'/humanDAO/lesson/financial-literacy-101/major-pillars-of-financial-literacy-8eb8db27.png\'>'
+        content: '<div class="bloc1"><p>There are 5 Major Pillars of Financial Literacy -</p><ol><li>Earn</li><li>Spend</li><li>Save/Invest</li><li>Borrow</li><li>Protect</li></ol></div><div class="bloc2"><img src=\'/humanDAO/lesson/financial-literacy-101/major-pillars-of-financial-literacy-8eb8db27.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -1736,19 +1728,19 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '9083c140555f4de3be2c80458321c651',
         title: '<strong>Pillar 1: Earn</strong>',
-        content: '<div class="bloc1"><p>The first key component of Financial Literacy is <strong>Earn</strong>.</p><p>What does it mean to earn?</p><ul><li>Having a fair understanding of incoming flow of assets every month.</li><li>Having multiple sources of income at an early age</li><li>While part of the income comes from trading off your time in the initial days, it is critical to create at least one more stream of income by putting the money to work for you [through the use of investing].</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/financial-literacy-101/pillar-1-earn-ac42b7a5.png\'></div>'
+        content: '<div class="bloc1"><p>The first key component of Financial Literacy is <strong>Earn</strong>.</p><p>What does it mean to earn?</p><ul><li>Having a fair understanding of incoming flow of assets every month.</li><li>Having multiple sources of income at an early age</li><li>While part of the income comes from trading off your time in the initial days, it is critical to creating at least one more stream of income by putting the money to work for you [through the use of investing].</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/financial-literacy-101/pillar-1-earn-ac42b7a5.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: '8a57706cd2774a88bfc842ff5c7a09ad',
         title: '<strong>Pillar 2: Spend</strong>',
-        content: '<div class="bloc1"><p>The second key component of Financial Literacy is <strong>Spend</strong>.</p><p>What does it mean to spend?</p><ul><li>With clear understanding of income, the next critical factor to determine is your monthly budget.</li><li>This involves knowing what is enough—how much money per month is good for you to improve your quality of life.</li><li>An exercise on budgeting your expenses helps us figure what <strong>not</strong> to spend our money on.</li></ul></div>'
+        content: '<div class="bloc1"><p>The second key component of Financial Literacy is <strong>Spend</strong>.</p><p>What does it mean to spend?</p><ul><li>With a clear understanding of income, the next critical factor to determine is your monthly budget.</li><li>This involves knowing what is enough—how much money per month is good for you to improve your quality of life.</li><li>An exercise on budgeting your expenses helps us figure out what <strong>not</strong> to spend our money on.</li></ul></div>'
       },
       {
         type: 'LEARN',
         notionId: 'f01449b632e7447794ba12f26b98520c',
         title: '<strong>Pillar 3: Save and Invest</strong>',
-        content: '<div class="bloc1"><p>The third key component of Financial Literacy is <strong>Save and Invest</strong>.</p><p>What does it mean to save and invest?</p><ul><li>With income and expenses data in place, the third critical area for us is to get rid of the traditional, old mentality around savings. </li><li>Our expenses has to be the balance left <em>after saving sufficient money</em><strong><em><em>.</em></em></strong></li><li>The critical information needed here is: what do we save for?</li></ul><p>Below are the <strong>4 Big Bucket Items</strong> for which we should save:</p><ol><li>An emergency fund: this could be around three to six (3-6) months of basic income calculated in step 1.</li><li>Retirement: so your life post active period of work doesn’t bother you.</li><li>Personal debts (if any) needs to be cleared of ASAP</li><li>Dreams/Goals: That holiday you wish to take, that gaming console you wish to buy - needs to have a specific saving plan around it to become a reality.</li></ol></div><div class="bloc2"><img src=\'/humanDAO/lesson/financial-literacy-101/pillar-3-save-and-invest-e4c4441c.png\'></div>'
+        content: '<div class="bloc1"><p>The third key component of Financial Literacy is <strong>Save and Invest</strong>.</p><p>What does it mean to save and invest?</p><ul><li>With income and expenses data in place, the third critical area for us is to get rid of the traditional, old mentality around savings. </li><li>Our expenses have to be the balance left <em>after saving sufficient money</em><strong><em><em>.</em></em></strong></li><li>The critical information needed here is: what do we save for?</li></ul><p>Below are the <strong>4 Big Bucket Items</strong> for which we should save:</p><ol><li>An emergency fund: this could be around three to six (3-6) months of basic income calculated in step 1.</li><li>Retirement: so your life post active period of work doesn’t bother you.</li><li>Personal debts (if any) need to be cleared ASAP</li><li>Dreams/Goals: That holiday you wish to take, that gaming console you wish to buy - needs to have a specific saving plan around it to become a reality.</li></ol></div><div class="bloc2"><img src=\'/humanDAO/lesson/financial-literacy-101/pillar-3-save-and-invest-e4c4441c.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -1770,19 +1762,19 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '05b5c51e7c6746a1bcf3ba3c156c176b',
         title: '<strong>Pillar 4: Borrow</strong>',
-        content: '<div class="bloc1"><p>The fourth key component of Financial Literacy is <strong>Borrow</strong>.</p><p>What does it mean to borrow?</p><ul><li>Life is unpredictable. There can be situations when a sudden need comes up and we need to borrow some money.</li><li>The first response to the situation is to tap into your emergency funds - that’s why the fund was there in the first place!</li><li>In case there is further requirement, borrowing is the next option - as long as you know how to compare loans and maintain a healthy credit score.</li><li>In general, the higher your credit score, the interest you’ll be charged. That means if you’ve had financial difficulties in the past, you can get stuck in a vicious cycle where all your money goes to paying off interest.</li></ul><p>That’s why building a healthy credit is one of the most important steps to becoming financially literate.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/financial-literacy-101/pillar-4-borrow-85aca79c.png\'></div>'
+        content: '<div class="bloc1"><p>The fourth key component of Financial Literacy is <strong>Borrow</strong>.</p><p>What does it mean to borrow?</p><ul><li>Life is unpredictable. There can be situations when a sudden need comes up and we need to borrow some money.</li><li>The first response to the situation is to tap into your emergency funds - that’s why the fund was there in the first place!</li><li>In case there is a further requirement, borrowing is the next option - as long as you know how to compare loans and maintain a healthy credit score.</li><li>In general, the higher your credit score, the interest you’ll be charged. That means if you’ve had financial difficulties in the past, you can get stuck in a vicious cycle where all your money goes to paying off interest.</li></ul><p>That’s why building healthy credit is one of the most important steps to becoming financially literate.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/financial-literacy-101/pillar-4-borrow-85aca79c.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: '6e5700b8e4a24029abd79e1f41d6601b',
         title: '<strong>Pillar 5: Protect</strong>',
-        content: '<div class="bloc1"><p>The fifth and last key component of Financial Literacy is <strong>Protect</strong>.</p><p>The above four steps have put us in a good place - we know how to spend effectively, budget our expenses and invest our hard-earned money so our money can work for us.</p><p>The crucial step is also to protect your assets.</p><p>What does it mean to protect?</p><ul><li>Most important step of all, is to get oneself a Team Insurance. Important here to not see insurance as an investment. It’s an expense, but a very useful one - a term insurance ensures our loved ones don’t suffer a monetary disruption due to our unforeseen death.</li><li>Another good practice is to regularly review your bank accounts and credit card statements for mistakes or suspicious activity.</li><li>Finally, keeping documents and passwords secure to prevent scams and identity theft is important.</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/financial-literacy-101/pillar-5-protect-f9ac6973.png\'></div>'
+        content: '<div class="bloc1"><p>The fifth and last key component of Financial Literacy is <strong>Protect</strong>.</p><p>The above four steps have put us in a good place - we know how to spend effectively, budget our expenses and invest our hard-earned money so our money can work for us.</p><p>The crucial step is also to protect your assets.</p><p>What does it mean to protect?</p><ul><li>The most important step of all is to get oneself a Term Insurance. Important here is to not see insurance as an investment. It’s an expense, but a very useful one - a term insurance ensures our loved ones don’t suffer a monetary disruption due to our unforeseen death.</li><li>Another good practice is to regularly review your bank accounts and credit card statements for mistakes or suspicious activity.</li><li>Finally, keeping documents and passwords secure to prevent scams and identity theft is important.</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/financial-literacy-101/pillar-5-protect-f9ac6973.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: '4705a9d0dd98482fb59a775b77cf2e36',
         title: 'Financial Literacy at HumanDAO',
-        content: '<div class="bloc1"><ul><li>The 5 Principles of Financial Literacy are the absolute basics which need to be ticked to get us started on our journey.</li><li>There are fascinating concepts like compounding, different forms of investment instruments which we will take up in future modules under Financial Literacy.</li><li>Being a part of the humanDAO community gives us another interesting avenue to be smart with our finances - owning and holding on to the humanDAO token $HDAO!</li><li>Take up up bounties to earn $HDAO and stake them so they grow over the long term.</li><li><strong>As the DAO grows, so will the value of the token - adding to your personal wealth building!</strong></li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/financial-literacy-101/financial-literacy-at-humandao-8a8bec6e.png\'></div>'
+        content: '<div class="bloc1"><ul><li>The 5 Principles of Financial Literacy are the absolute basics that need to be ticked to get us started on our journey.</li><li>There are fascinating concepts like compounding, and different forms of investment instruments which we will take up in future modules under Financial Literacy.</li><li>Being a part of the humanDAO community gives us another interesting avenue to be smart with our finances - owning and holding on to the humanDAO token $HDAO!</li><li>Take up bounties to earn $HDAO and stake them so they grow over the long term.</li><li><strong>As the DAO grows, so will the value of the token - adding to your personal wealth building!</strong></li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/financial-literacy-101/financial-literacy-at-humandao-8a8bec6e.png\'></div>'
       },
       {
         type: 'LEARN',
@@ -1795,7 +1787,7 @@ const LESSONS: LessonType[] = [
         notionId: '6708ccc251d7483a87d566185d0f3052',
         title: 'Knowledge Check',
         quiz: {
-          question: 'After earning $HDAO token, an easy way to make the grow is:',
+          question: 'After earning $HDAO token, an easy way to make them growth is:',
           rightAnswerNumber: 2,
           answers: [
             'Investing ',
