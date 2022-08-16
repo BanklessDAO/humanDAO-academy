@@ -236,7 +236,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'ac2e35af9782413b80a403cbda971d05',
         title: 'Why Was Ethereum created?',
-        content: '<div class="bloc1"><p>While Bitcoin was created to challenge traditional currencies, it left a large gap within the decentralised movement. Ethereum was created as a smart-contract enabled blockchain, that allowed people to begin building permissionless ecosystems</p><p>Ethereum lets people interact directly with each other digitally, by allowing applications to exist without any central servers or a central company to coordinate the interactions.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-ethereum/why-was-ethereum-created-6e2d5a4c.png\'></div>'
+        content: '<div class="bloc1"><p>Bitcoin was created to challenge traditional currencies, however, it left a large gap within the decentralized movement. </p><p>Ethereum was created as a smart-contract enabled blockchain, that allowed people to begin building permissionless ecosystems</p><p>Ethereum lets people interact directly with each other digitally, by allowing applications to exist without any central servers or a central company to coordinate the interactions.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-ethereum/why-was-ethereum-created-6e2d5a4c.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -286,7 +286,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '5a719e01346a459ab3084af538fe0122',
         title: 'The Ethereum Ecosystem',
-        content: '<div class="bloc1"><p>Ethereum is an entire ecosystem where everyone can build various distributed applications (Dapp), smart contracts and even own cryptocurrencies. </p><p>Its ecosystem is an ever-growing one. Ethereum is <strong>a decentralized platform with its own blockchain. </strong>Today a large amount of Dapps are built on Ethereum, making it the largest ecosystem in Web3.</p><p>Other competitor smart-contract blockchains (also known as Layer 1s or L1s) include Polkadot, Cardano, Solana and Avalanche.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-ethereum/the-ethereum-ecosystem-e81ccc83.png\'></div>'
+        content: '<div class="bloc1"><p>Ethereum is an entire ecosystem where everyone can build various distributed applications (Dapp), smart contracts, and even their own cryptocurrencies. </p><p>Its ecosystem is an ever-growing one. Ethereum is <strong>a decentralized platform with its own blockchain. </strong>Today a large amount of Dapps are built on Ethereum, making it the largest ecosystem in Web3.</p><p>Other competitor smart-contract blockchains (also known as Layer 1s or L1s) include Cardano, Solana and Avalanche.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-ethereum/the-ethereum-ecosystem-e81ccc83.png\'></div>'
       },
       {
         type: 'LEARN',
@@ -304,7 +304,7 @@ const LESSONS: LessonType[] = [
           answers: [
             ' Etherereum',
             'Bitcoin',
-            'Solana',
+            'US Dollar',
             'All of the above'
           ],
           id: 'what-is-ethereum-3'
@@ -369,14 +369,14 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'b0884e66b94a4c4694f8aedbfc07af26',
         title: 'Smart Contracts are ‘Self-Executing’',
-        content: '<div class="bloc1"><p>In a Smart Contract, a program executes code on the blockchain each time specified conditions are met.</p><p>Every smart contract requires parties to provide a digital signature. This can be done through in-browser wallets like MetaMask, or multi-sig vaults like Gnosis safe.</p><p>These contracts are public documents visible to all. All smart contracts on the Ethereum blockchain can be seen on Etherscan.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-smart-contract/smart-contracts-are-self-executing-78f661af.png\'></div>'
+        content: '<div class="bloc1"><p>In a Smart Contract, a program executes code on the blockchain each time specified conditions are met.</p><p>Every smart contract requires parties to provide a digital signature. This can be done through in-browser wallets like MetaMask.</p><p>These contracts are public documents visible to all. All smart contracts on the Ethereum blockchain can be seen on <a href=\'https://etherscan.io/\'>Etherscan</a></p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-smart-contract/smart-contracts-are-self-executing-78f661af.png\'></div>'
       },
       {
         type: 'QUIZ',
         notionId: 'a1c6cf3915dc4acd92fae259834e9e06',
         title: 'Knowledge Check',
         quiz: {
-          question: 'Which of below is NOT a feature of Smart Contract:',
+          question: 'Which of below is NOT a feature of a Smart Contract:',
           rightAnswerNumber: 1,
           answers: [
             'Alterable',
@@ -391,14 +391,14 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'c118b60238674a29b7f09d3b1cc62709',
         title: 'What are the use cases of smart contracts?',
-        content: '<div class="bloc1"><p>Smart Contracts can be made for something as simple as sending money to minting an NFT.</p><p>While smart contracts are still seen as crypto-centric, lots of use-case for expansion out of the crypto-sphere have been proposed.<br><br>these include, but are not limited to:<br>- payrolls, taxes & pensions<br>- statistics collection<br>- Real estate & Crowdfunding<br>- Identity verification</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-smart-contract/what-are-the-use-cases-of-smart-contracts-9b68ede2.png\'></div>'
+        content: '<div class="bloc1"><p>Smart Contracts can be made for something as simple as sending money to minting an NFT.</p><p>While smart contracts are still seen as crypto-centric, lots of use-case for expansion out of the crypto-sphere have been proposed.<br><br>These include, but are not limited to:</p><p><br>- payrolls, taxes & pensions<br>- statistics collection<br>- real estate & crowdfunding<br>- identity verification</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-smart-contract/what-are-the-use-cases-of-smart-contracts-9b68ede2.png\'></div>'
       },
       {
         type: 'QUIZ',
         notionId: '234f2f00e3464aed82ccc460b7308d55',
         title: 'Knowledge Check',
         quiz: {
-          question: 'Below is a use case for Smart Contact',
+          question: 'Below is a use case for Smart Contacts',
           rightAnswerNumber: 4,
           answers: [
             'Defi Lending',
@@ -452,7 +452,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'd60617185237486d939cfb8b5d17aa84',
         title: 'What is web3?',
-        content: '<div class="bloc1"><p>The Internet or the World Wide Web allows people to share information with each other.</p><p>Since its birth, the Internet has constantly been getting better.</p><p>This is how web evolved since it was established:</p><ul><li>Web 1.0 (1991-2004) allowed us to only do one-way communications. </li><li>Web 2.0 (2004-onwards) improved it and enabled two-way communication.</li><li>Web 3.0 goes a step further and allows everyone to create and own data/assets on the Internet.</li></ul><p>Web3 is the latest version of the Internet.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-web3/what-is-web3-ae9c195a.png\'></div>'
+        content: '<div class="bloc1"><p>The Internet or the World Wide Web allows people to share information with each other.</p><p>Since its birth, the Internet has constantly been getting better.</p><p>This is how the web evolved…</p><ul><li>Web 1.0 (1991-2004) allowed us to only do one-way communications. </li><li>Web 2.0 (2004-onwards) improved it and enabled two-way communication.</li><li>Web 3.0 goes a step further and allows everyone to create and own data/assets on the Internet.</li></ul><p>Web3 is the latest version of the Internet.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-web3/what-is-web3-ae9c195a.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -503,13 +503,13 @@ const LESSONS: LessonType[] = [
         notionId: '85e1099abb3c4125bca434a0460df4b4',
         title: 'Knowledge Check',
         quiz: {
-          question: 'While Web3.0 has many utilities, the three key features that make it very powerful are:',
-          rightAnswerNumber: 4,
+          question: 'Which of the below is NOT a feature of Web3?',
+          rightAnswerNumber: 2,
           answers: [
             'It is decentralized ',
+            'It is owned by the founders',
             'It is owned by the users',
-            'It provides anonymity',
-            'All of the above'
+            'It is linked to a blockchain'
           ],
           id: 'what-is-web3-3'
         }
@@ -525,12 +525,12 @@ const LESSONS: LessonType[] = [
     lessonImageLink: '/humanDAO/lesson/what-is-defi/lesson-e43b226e.png',
     socialImageLink: '/humanDAO/lesson/what-is-defi/social-fcaa4aeb.png',
     learningActions: '',
-    marketingDescription: 'Under the basics of Decentralized Finance',
+    marketingDescription: 'Understand the basics of Decentralized Finance',
     poapEventId: null,
     duration: 10,
     learnings: '',
     difficulty: undefined,
-    description: 'Under the basics of Decentralized Finance',
+    description: 'Understand the basics of Decentralized Finance',
     name: 'What is DeFi',
     moduleId: '40959b191fcc4b058e3e8049410013f9',
     quest: 'humanDAOWhatIsDeFi',
@@ -560,12 +560,12 @@ const LESSONS: LessonType[] = [
         title: 'Knowledge Check',
         quiz: {
           question: 'Defi can potentially replace ________________?',
-          rightAnswerNumber: 3,
+          rightAnswerNumber: 4,
           answers: [
             'Investment Banks',
-            'Stock Markets',
+            'Reserve Banks',
             'Private Banks',
-            'Reserve Banks'
+            'All of the above'
           ],
           id: 'what-is-defi-1'
         }
@@ -574,7 +574,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'fb1e395b3c8946748cacc350e8af73ae',
         title: 'How does DeFi improve the current Financial System?',
-        content: '<div class="bloc1"><p>DeFi aims to create a transparent financial system where people have complete control over their finances. It brings the power of blockchain to Finance, thus paving way for greater transparency.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-defi/how-does-defi-improve-the-current-financial-system-2a12b905.png\'></div>'
+        content: '<div class="bloc1"><p>DeFi aims to create a transparent financial system where people have complete control over their finances. It brings the power of blockchain to Finance, thus paving the way for greater transparency.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-defi/how-does-defi-improve-the-current-financial-system-2a12b905.png\'></div>'
       },
       {
         type: 'LEARN',
@@ -613,8 +613,8 @@ const LESSONS: LessonType[] = [
           rightAnswerNumber: 4,
           answers: [
             'Metamask',
-            'Rarible',
-            'Curve Finance',
+            'Opensea',
+            'a16z',
             'Uniswap'
           ],
           id: 'what-is-defi-3'
@@ -631,12 +631,12 @@ const LESSONS: LessonType[] = [
     lessonImageLink: '/humanDAO/lesson/what-are-nfts/lesson-4cf05bbc.png',
     socialImageLink: '/humanDAO/lesson/what-are-nfts/social-bef68097.png',
     learningActions: '',
-    marketingDescription: 'Under the basics of Non-Fungible Tokens',
+    marketingDescription: 'Understand the basics of Non-Fungible Tokens',
     poapEventId: null,
     duration: 10,
     learnings: '',
     difficulty: undefined,
-    description: 'Under the basics of Non-Fungible Tokens',
+    description: 'Understand the basics of Non-Fungible Tokens',
     name: 'What are NFTs?',
     moduleId: '40959b191fcc4b058e3e8049410013f9',
     quest: 'humanDAOWhatAreNFTs',
@@ -760,13 +760,13 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'd2200070d68d4ff9a37439d1b4b3c0e7',
         title: 'What is a DAO?',
-        content: '<div class="bloc1"><p>A DAO stands for “Decentralised Autonomous Organization”. Simply, it’s a group of people with a shared treasury, working towards a common goal.</p><p>DAOs are a new form of organization where anyone is free to contribute and get rewards.</p><p>A DAO is a community-owned and community-driven organization. Decisions are made via governance proposals.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-dao/what-is-a-dao-aa03878f.png\'></div>'
+        content: '<div class="bloc1"><p>A DAO stands for “Decentralised Autonomous Organization”. </p><p>Simply, it’s a group of people with a shared treasury, working towards a common goal.</p><p>DAOs are a new form of organization where anyone is free to contribute and get rewards.</p><p>A DAO is a community-owned and community-driven organization. Decisions are made via governance proposals.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-dao/what-is-a-dao-aa03878f.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: '706bfeaa14f84ce8b579825d032cc949',
         title: '<strong><strong>DAOs: The Origin</strong></strong>',
-        content: '<div class="bloc1"><p>The idea of a DAO (or <em>Decentralized Autonomous Organization</em>) is closely linked to the history of the evolution of the Internet itself.</p><p>The internet began in the 1980s with a set of open protocols defined by the early community of users. For sake of reference, we now call this era, which lasted till the early 2000s, <strong>Web 1.0</strong></p><p>The usage of the internet exploded fairly quickly, and along with it grew the need for more user-friendly and sophisticated services.</p><p>This led to the birth of centralized services and gave rise to what is now known as <strong>Web 2.0</strong></p><p>Web2.0 is evolving further into Web3.0 - where a decentralized internet is being advocated by the next generation of builders.</p><p>The Web3 builders typically come together in a decentralized organization that’s also called a DAO.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-dao/daos-the-origin-76dbc9b9.png\'></div>'
+        content: '<div class="bloc1"><p>The idea of a DAO (or <em>Decentralized Autonomous Organization</em>) is closely linked to the history of the evolution of the Internet itself.</p><p>The internet began in the 1980s with a set of open protocols defined by the early community of users. For the sake of reference, we now call this era, which lasted till the early 2000s, <strong>Web 1.0</strong></p><p>The usage of the internet exploded fairly quickly, and along with it grew the need for more user-friendly and sophisticated services.</p><p>This led to the birth of centralized services and gave rise to what is now known as <strong>Web 2.0</strong></p><p>Web2.0 is evolving further into Web3.0 - where a decentralized internet is being advocated by the next generation of builders.</p><p>The Web3 builders typically come together in a decentralized organization that’s also called a DAO.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-dao/daos-the-origin-76dbc9b9.png\'></div>'
       },
       {
         type: 'LEARN',
@@ -779,7 +779,7 @@ const LESSONS: LessonType[] = [
         notionId: 'f5184d5a0ad245948ec7c25fbc9d99b5',
         title: 'Knowledge Check',
         quiz: {
-          question: 'All major decision in a DAO are taken through _____________',
+          question: 'All major decisions in a DAO are taken through _____________',
           rightAnswerNumber: 2,
           answers: [
             'Board Meetings',
@@ -794,19 +794,19 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'd0eadf500b024773bc9383f8a44030f2',
         title: 'What is Governance in a DAO (1/2)?',
-        content: '<div class="bloc1"><p>We will have to ask an even more fundamental question: Why do organizations exist in the first place?</p><p>Every organization, whether in the traditional space or in Web 3.0, exist for a simple reason: to solve problems. Why are organizations interested in solving problems, you ask?</p><p>Well, for two core reasons:</p><ol><li>The desire to solve problems and make things simpler and more efficient is hardcoded in the very DNA of human beings. Organizations are just an organized form of meeting this primal need.</li><li>Human Beings love getting rewarded for solving problems. Organizations make the entire process of such rewards simple and streamlined for all stakeholders of an organization</li></ol><p>Now that the basics have been addressed, let’s understand why setting up the Governance is a necessary part of running an organization (or a DAO, for that matter!)</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-dao/what-is-governance-in-a-dao-12-6b0c8f41.png\'></div>'
+        content: '<div class="bloc1"><p>We will have to ask an even more fundamental question: Why do organizations exist in the first place?</p><p>Every organization, whether in the traditional space or in Web 3.0, exists for a simple reason: to solve problems. Why are organizations interested in solving problems, you ask?</p><p>Well, for two core reasons:</p><ol><li>The desire to solve problems and make things simpler and more efficient is hardcoded in the very DNA of human beings. Organizations are just an organized form of meeting this primal need.</li><li>Human Beings love getting rewarded for solving problems. Organizations make the entire process of such rewards simple and streamlined for all stakeholders of an organization</li></ol><p>Now that the basics have been addressed, let’s understand why setting up the Governance is a necessary part of running an organization (or a DAO, for that matter!)</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-dao/what-is-governance-in-a-dao-12-6b0c8f41.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: '5325e11ac2fb4598aca7fb3b839ee288',
         title: 'What is Governance in a DAO (2/2)?',
-        content: '<div class="bloc1"><p>Traditionally, a board of directors are hired to make decisions based on experience.</p><p>While this setup works well for a traditional organization, it’s just not applicable to a DAO.</p><p>DAOs are built by, for and of the community. That makes it uniquely suited to do away entirely with the need for having a Board of Directors.</p><p>But can it also do away with the need to have a governance structure in place? Not really.</p><p>While working in a decentralized model, DAOs, likely other organization, exist for the same simple purpose: solving of problems.</p><p>To make the coordination smooth and productive, a governance structure is as necessary for a DAO as in any other form of organization.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-dao/what-is-governance-in-a-dao-22-ada5d57e.png\'></div>'
+        content: '<div class="bloc1"><p>Traditionally, a board of directors are hired to make decisions based on experience.</p><p>While this setup works well for a traditional organization, it’s just not applicable to a DAO.</p><p>DAOs are built by, for and of the community. That makes it uniquely suited to do away entirely with the need for having a Board of Directors.</p><p>But can it also do away with the need to have a governance structure in place? Not really.</p><p>While working in a decentralized model, DAOs, like any other organization, exist for the same simple purpose: solving problems.</p><p>To make the coordination smooth and productive, a governance structure is as necessary for a DAO as in any other form of organization.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-dao/what-is-governance-in-a-dao-22-ada5d57e.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: '92745c181e9c42ccb42ff741b2ba5dc4',
         title: '<strong><strong>Why are DAOs special?</strong></strong>',
-        content: '<div class="bloc1"><p>DAOs are special because they set the stage for a new way of working, connecting teams with freelancers who are invested in mutual growth.</p><p>While DAO structuring is not a new concept (Co-operatives took a similar approach previously). DAOs have succeeded through the advancement of tech.</p><p>A DAO, from that perspective, is a more evolved version of cooperatives, as DAOs With the use of smart contracts automate their core processes, with future changes decided by a fair voting mechanism.</p><p>This frees people from focusing on just solving the core problems, and not worrying about day-to-day administration around managing the members.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-dao/why-are-daos-special-299a1784.png\'></div>'
+        content: '<div class="bloc1"><p>DAOs are special because they set the stage for a new way of working, connecting teams with freelancers who are invested in mutual growth.</p><p>While DAO structuring is not a new concept (Co-operatives took a similar approach previously), DAOs have succeeded through the advancement of tech.</p><p>A DAO, from that perspective, is a more evolved version of cooperatives, as DAOs with the use of smart contracts automate their core processes, with future changes decided by a fair voting mechanism.</p><p>This frees people to focus on just solving the core problems, and not worry about day-to-day administration around managing the members.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-dao/why-are-daos-special-299a1784.png\'></div>'
       },
       {
         type: 'LEARN',
@@ -818,7 +818,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '99163b8b411f443ea1f476f10026ee35',
         title: '<strong><strong>Are DAOs the future of work?</strong></strong>',
-        content: '<div class="bloc1"><p><em>You bet!</em></p><p>While the initial hurdles of working in a new system apply, DAOs have seen exponential growth since 2021.</p><p>DAOs could become one of the primary ways in which people will approach works because the very nature of work in the 21st century is witnessing a massive change.</p><p>We are moving from a structure where everyone had to ‘work-to-earn’ to a model where we “x-to-earn”, which could mean anything from play-to-earn, learn-to-earn or create-to-earn. Methods of income that we’re not previously plausible.</p><p>Earning through these ecosystems can give a sense of freedom, inclusion, and equitable reward. A refreshing change that the knowledge workers across the globe are slowly recognising and rushing towards.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-dao/are-daos-the-future-of-work-904c38f2.png\'></div>'
+        content: '<div class="bloc1"><p><em>You bet!</em></p><p>While the initial hurdles of working in a new system apply, DAOs have seen exponential growth since 2021.</p><p>DAOs could become one of the primary ways in which people will approach work because the very nature of work in the 21st century is witnessing a massive change.</p><p>We are moving from a structure where everyone had to ‘work-to-earn’ to a model where we “x-to-earn”, which could mean anything from play-to-earn, learn-to-earn, or create-to-earn. Methods of income that were not previously plausible.</p><p>Earning through these ecosystems can give a sense of freedom, inclusion, and equitable reward. A refreshing change that the knowledge workers across the globe are recognizing and rushing towards.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-dao/are-daos-the-future-of-work-904c38f2.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -838,7 +838,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'aad59d259db342068dfdcbbbd3ad453a',
         title: 'The DAO Landscape',
-        content: '<div class="bloc1"><p>The below chart by one of the DAO OGs <a href=\'https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw\'>@Coopahtroopa</a> presents an easy to navigate pathway to discover the world of DAOs and is worth checking out:</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-dao/the-dao-landscape-5bead288.png\'></div>'
+        content: '<div class="bloc1"><p>The below chart by one of the DAO OGs <a href=\'https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw\'>@Coopahtroopa</a> presents an easy way to navigate pathway to discover the world of DAOs and is worth checking out:</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-dao/the-dao-landscape-5bead288.png\'></div>'
       },
       {
         type: 'LEARN',
@@ -901,7 +901,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '5afa37858ee84367a3ed974cbedb0ca0',
         title: 'What is the Metaverse?',
-        content: '<div class="bloc1"><p>Metaverse is digital world that mimics the real world using various technologies, like Virtual Reality (VR), Augmented Reality (AR), and Blockchain.</p><p>It is being built to be the next major destination for Gaming, Business and Social Media.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-the-metaverse/what-is-the-metaverse-941bf4e1.png\'></div>'
+        content: '<div class="bloc1"><p>The Metaverse is digital world that mimics the real world using various technologies, like Virtual Reality (VR), Augmented Reality (AR), and Blockchain.</p><p>It is being built to be the next major destination for Gaming, Business and Social Media.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-the-metaverse/what-is-the-metaverse-941bf4e1.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -955,7 +955,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '2abfb139346d453a9a354a26d94dc4ba',
         title: 'What will be the likely future of Metaverse?',
-        content: '<div class="bloc1"><p>By now, it is quite clear that the Metaverse is here to stay. In near future, Metaverse is likely to be a hug for both Entertainment (Gaming, Social Media) and Business (Web Conferences, Team Collaborations). </p><p>Apart from this, Metaverse is also poised to play a big role in the evolution of electronic commerce. Some of the biggest brands like Nike, Adidas and Coke are already lining up to make their presence felt in the Metaverse. </p><p>This fast emerging tech will also be a hotbed of opportunities - both for technical and non-technical roles.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-the-metaverse/what-will-be-the-likely-future-of-metaverse-5e3e9427.png\'></div>'
+        content: '<div class="bloc1"><p>By now, it is quite clear that the Metaverse is here to stay. In the near future, the Metaverse is likely to be a hub for both Entertainment (Gaming, Social Media) and Business (Web Conferences, Team Collaborations).</p><p>Apart from this, Metaverse is also poised to play a big role in the evolution of electronic commerce. Some of the biggest brands like Nike, Adidas and Coke are already lining up to make their presence felt in the Metaverse. </p><p>This fast emerging tech will also be a hotbed of opportunities - both for technical and non-technical roles.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-the-metaverse/what-will-be-the-likely-future-of-metaverse-5e3e9427.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -1016,7 +1016,7 @@ const LESSONS: LessonType[] = [
     slides: [
       {
         type: 'LEARN',
-        notionId: 'e32e616adfd847a8900d398a9a474d4e',
+        notionId: '0ece00d82d244fbaa554b10c3e1c1600',
         title: 'Wallet Intro',
         content: '<div class="bloc1"><p><strong>Greetings!</strong></p><p>Welcome to humanDAO Academy. We’re excited to guide you on your journey into Web3. To get started, you will need some essential equipment: a digital wallet.</p><p>A digital wallet is your passport to exploring the various worlds of Web3. This tool grants you access to incredible new possibilities while safeguarding your assets and identity.</p><p>In this lesson, we’ll introduce you to digital wallets, how they work, and how to set yours up to safely embark on your Web3 journey.</p><p>Let’s get started!</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/wallet-intro-79293004.png\'></div>'
       },
@@ -1262,7 +1262,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '78759326184e43658aa6a16cbf9d10e6',
         title: 'How did it start?',
-        content: '<div class="bloc1"><p>Christopher Chase is the <strong>founder</strong> of humanDAO. This organization began as a way for him to spend more time with his children by playing these new crypto games. They were playing when he realized there was a chance to broaden cryptocurrency access beyond gamers and wealthy nations\' borders.</p><p>So he founded humanDAO at the end of September, launched it the next month and minted a token ($HDAO) at the beginning of December.</p><p>Within five days of launching the Discord server, humanDAO gained around 2,500 members just from word of mouth, and in less than six months it has grown to 50,000.</p><p>For more information about DAO’s check out the “What is a DAO” lessons in the crypto 101, web3 module</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/humandao-an-introduction/how-did-it-start-49e9a065.png\'></div>'
+        content: '<div class="bloc1"><p>Christopher Chase is the <strong>founder</strong> of humanDAO. This organization began as a way for him to spend more time with his children by playing these new crypto games. They were playing when he realized there was a chance to broaden cryptocurrency access beyond gamers and wealthy nations\' borders.</p><p>So he founded humanDAO at the end of September 2021, launched it the next month and minted a token ($HDAO) at the beginning of December.</p><p>Within five days of launching the Discord server, humanDAO gained around 2,500 members just from word of mouth, and in less than six months it has grown to 50,000.</p><p>For more information about DAO’s check out the “What is a DAO” lessons in the crypto 101, web3 module</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/humandao-an-introduction/how-did-it-start-49e9a065.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -1740,7 +1740,13 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'f01449b632e7447794ba12f26b98520c',
         title: '<strong>Pillar 3: Save and Invest</strong>',
-        content: '<div class="bloc1"><p>The third key component of Financial Literacy is <strong>Save and Invest</strong>.</p><p>What does it mean to save and invest?</p><ul><li>With income and expenses data in place, the third critical area for us is to get rid of the traditional, old mentality around savings. </li><li>Our expenses have to be the balance left <em>after saving sufficient money</em><strong><em><em>.</em></em></strong></li><li>The critical information needed here is: what do we save for?</li></ul><p>Below are the <strong>4 Big Bucket Items</strong> for which we should save:</p><ol><li>An emergency fund: this could be around three to six (3-6) months of basic income calculated in step 1.</li><li>Retirement: so your life post active period of work doesn’t bother you.</li><li>Personal debts (if any) need to be cleared ASAP</li><li>Dreams/Goals: That holiday you wish to take, that gaming console you wish to buy - needs to have a specific saving plan around it to become a reality.</li></ol></div><div class="bloc2"><img src=\'/humanDAO/lesson/financial-literacy-101/pillar-3-save-and-invest-e4c4441c.png\'></div>'
+        content: '<div class="bloc1"><p>The third key component of Financial Literacy is <strong>Save and Invest</strong>.</p><p>What does it mean to save and invest?</p><ul><li>With income and expenses data in place, the third critical area for us is to get rid of the traditional, old mentality around savings. </li><li>Our expenses have to be the balance left <em>after saving sufficient money</em><strong><em><em>.</em></em></strong></li><li>The critical information needed here is: what do we save for?</li></ul></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '68669527738945098c5124b18d4f5c27',
+        title: '<strong>Pillar 3: Save and Invest</strong>',
+        content: '<div class="bloc1"><p>Below are the <strong>4 Big Bucket Items</strong> for which we should save:</p><ol><li>An emergency fund: this could be around three to six (3-6) months of basic income calculated in step 1.</li><li>Retirement: so your life post active period of work doesn’t bother you.</li><li>Personal debts (if any) need to be cleared ASAP</li><li>Dreams/Goals: That holiday you wish to take, that gaming console you wish to buy - needs to have a specific saving plan around it to become a reality.</li></ol></div><div class="bloc2"><img src=\'/humanDAO/lesson/financial-literacy-101/pillar-3-save-and-invest-e4c4441c.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -1762,7 +1768,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '05b5c51e7c6746a1bcf3ba3c156c176b',
         title: '<strong>Pillar 4: Borrow</strong>',
-        content: '<div class="bloc1"><p>The fourth key component of Financial Literacy is <strong>Borrow</strong>.</p><p>What does it mean to borrow?</p><ul><li>Life is unpredictable. There can be situations when a sudden need comes up and we need to borrow some money.</li><li>The first response to the situation is to tap into your emergency funds - that’s why the fund was there in the first place!</li><li>In case there is a further requirement, borrowing is the next option - as long as you know how to compare loans and maintain a healthy credit score.</li><li>In general, the higher your credit score, the interest you’ll be charged. That means if you’ve had financial difficulties in the past, you can get stuck in a vicious cycle where all your money goes to paying off interest.</li></ul><p>That’s why building healthy credit is one of the most important steps to becoming financially literate.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/financial-literacy-101/pillar-4-borrow-85aca79c.png\'></div>'
+        content: '<div class="bloc1"><p>The fourth key component of Financial Literacy is <strong>Borrow</strong>.</p><p>What does it mean to borrow?</p><ul><li>Life is unpredictable. There can be situations when a sudden need comes up and we need to borrow some money.</li><li>The first response to the situation is to tap into your emergency funds - that’s why the fund was there in the first place!</li><li>In case there is a further requirement, borrowing is the next option - as long as you know how to compare loans and maintain a healthy credit score.</li><li>In general, the higher your credit score, the lesser interest you’ll be charged. That means if you’ve had financial difficulties in the past, you can get stuck in a vicious cycle where all your money goes to paying off interest.</li></ul><p>That’s why building healthy credit is one of the most important steps to becoming financially literate.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/financial-literacy-101/pillar-4-borrow-85aca79c.png\'></div>'
       },
       {
         type: 'LEARN',
