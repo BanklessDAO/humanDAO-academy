@@ -129,7 +129,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '11caf4349fbd40ff8c46755ca4a88313',
         title: 'What is Bitcoin?',
-        content: '<div class="bloc1"><p>One might ask, “how is Bitcoin exchanged?”. The most common ways would include P2P wallet transfers, exchange transfers & Over the counter deals (OTCs) </p><p>As Bitcoin ($BTC) was created in an open, public blockchain and cannot be manipulated by third parties, it means it is not subject to hindrances that traditional currencies are subjected to, such as inflation.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-bitcoin/what-is-bitcoin-f000bab2.png\'></div>'
+        content: '<div class="bloc1"><p>Bitcoin is the world’s first cryptocurrency. Created by an unknown entity under the pseudonym of “Satoshi Nakamoto” which derived the name of a small division of a single bitcoin, or a “sat”</p><p>One might ask, “how is Bitcoin exchanged?”. The most common ways would include P2P wallet transfers, exchange transfers & Over the counter deals (OTCs) </p><p>As Bitcoin ($BTC) was created in an open, public blockchain and cannot be manipulated by third parties, it means it is not subject to hindrances that traditional currencies are subjected to, such as inflation.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-bitcoin/what-is-bitcoin-f000bab2.png\'></div>'
       },
       {
         type: 'QUIZ',
