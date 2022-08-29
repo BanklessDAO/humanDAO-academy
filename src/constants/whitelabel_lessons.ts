@@ -3,8 +3,8 @@ import { LessonType } from 'entities/lesson'
 const LESSONS: LessonType[] = [
   {
     poapImageLink: '/humanDAO/lesson/what-are-blockchains/poap-75963a31.png',
-    lessonImageLink: '/humanDAO/lesson/what-are-blockchains/lesson-1ff9d719.jpg',
-    socialImageLink: '/humanDAO/lesson/what-are-blockchains/social-1ff9d719.jpg',
+    lessonImageLink: '/humanDAO/lesson/what-are-blockchains/lesson-529b4337.png',
+    socialImageLink: '/humanDAO/lesson/what-are-blockchains/social-e05ab14f.jpg',
     learningActions: '',
     marketingDescription: 'Understand the fundamentals of Blockchain Technology',
     poapEventId: 26971,
@@ -100,8 +100,8 @@ const LESSONS: LessonType[] = [
   },
   {
     poapImageLink: '/humanDAO/lesson/what-is-bitcoin/poap-db64c7ea.png',
-    lessonImageLink: '/humanDAO/lesson/what-is-bitcoin/lesson-3a86e4a9.png',
-    socialImageLink: '/humanDAO/lesson/what-is-bitcoin/social-1d80ca25.png',
+    lessonImageLink: '/humanDAO/lesson/what-is-bitcoin/lesson-13fcef5d.png',
+    socialImageLink: '/humanDAO/lesson/what-is-bitcoin/social-146b6849.jpg',
     learningActions: '',
     marketingDescription: 'A simple guide to the first cryptocurrency: Bitcoin',
     poapEventId: null,
@@ -198,8 +198,8 @@ const LESSONS: LessonType[] = [
   },
   {
     poapImageLink: '/humanDAO/lesson/what-is-ethereum/poap-325e1b2c.png',
-    lessonImageLink: '/humanDAO/lesson/what-is-ethereum/lesson-8ffd6db6.png',
-    socialImageLink: '/humanDAO/lesson/what-is-ethereum/social-b06ddfdc.png',
+    lessonImageLink: '/humanDAO/lesson/what-is-ethereum/lesson-b37751b6.png',
+    socialImageLink: '/humanDAO/lesson/what-is-ethereum/social-0751c448.jpg',
     learningActions: '',
     marketingDescription: 'A brief introduction to the first smart crypto - Ethereum',
     poapEventId: null,
@@ -318,8 +318,8 @@ const LESSONS: LessonType[] = [
   },
   {
     poapImageLink: '/humanDAO/lesson/what-is-a-smart-contract/poap-31dbf81d.png',
-    lessonImageLink: '/humanDAO/lesson/what-is-a-smart-contract/lesson-9a460e00.png',
-    socialImageLink: '/humanDAO/lesson/what-is-a-smart-contract/social-5a1642d9.png',
+    lessonImageLink: '/humanDAO/lesson/what-is-a-smart-contract/lesson-ffa73234.png',
+    socialImageLink: '/humanDAO/lesson/what-is-a-smart-contract/social-9bfbcc08.jpg',
     learningActions: '',
     marketingDescription: 'Understand the building block of Web3',
     poapEventId: null,
@@ -417,8 +417,8 @@ const LESSONS: LessonType[] = [
   },
   {
     poapImageLink: '/humanDAO/lesson/what-is-web3/poap-1cc461eb.png',
-    lessonImageLink: '/humanDAO/lesson/what-is-web3/lesson-29d2ca8a.png',
-    socialImageLink: '/humanDAO/lesson/what-is-web3/social-d2c34e3f.png',
+    lessonImageLink: '/humanDAO/lesson/what-is-web3/lesson-7e0cdd95.png',
+    socialImageLink: '/humanDAO/lesson/what-is-web3/social-8768741e.jpg',
     learningActions: '',
     marketingDescription: 'An introduction to Web3',
     poapEventId: null,
@@ -522,8 +522,8 @@ const LESSONS: LessonType[] = [
   },
   {
     poapImageLink: '/humanDAO/lesson/what-is-defi/poap-45137c08.png',
-    lessonImageLink: '/humanDAO/lesson/what-is-defi/lesson-e43b226e.png',
-    socialImageLink: '/humanDAO/lesson/what-is-defi/social-fcaa4aeb.png',
+    lessonImageLink: '/humanDAO/lesson/what-is-defi/lesson-60c80eb7.png',
+    socialImageLink: '/humanDAO/lesson/what-is-defi/social-7a985095.jpg',
     learningActions: '',
     marketingDescription: 'Understand the basics of Decentralized Finance',
     poapEventId: null,
@@ -628,8 +628,8 @@ const LESSONS: LessonType[] = [
   },
   {
     poapImageLink: '/humanDAO/lesson/what-are-nfts/poap-b9570c8e.png',
-    lessonImageLink: '/humanDAO/lesson/what-are-nfts/lesson-4cf05bbc.png',
-    socialImageLink: '/humanDAO/lesson/what-are-nfts/social-bef68097.png',
+    lessonImageLink: '/humanDAO/lesson/what-are-nfts/lesson-071d8049.png',
+    socialImageLink: '/humanDAO/lesson/what-are-nfts/social-1499502a.jpg',
     learningActions: '',
     marketingDescription: 'Understand the basics of Non-Fungible Tokens',
     poapEventId: null,
@@ -725,8 +725,8 @@ const LESSONS: LessonType[] = [
   },
   {
     poapImageLink: '/humanDAO/lesson/what-is-a-dao/poap-b4127d43.png',
-    lessonImageLink: '/humanDAO/lesson/what-is-a-dao/lesson-7d140a78.png',
-    socialImageLink: '/humanDAO/lesson/what-is-a-dao/social-a2075b09.png',
+    lessonImageLink: '/humanDAO/lesson/what-is-a-dao/lesson-84701dbe.png',
+    socialImageLink: '/humanDAO/lesson/what-is-a-dao/social-3723f477.jpg',
     learningActions: '',
     marketingDescription: 'The fundamentals of web3 orgs',
     poapEventId: null,
@@ -870,8 +870,8 @@ const LESSONS: LessonType[] = [
   },
   {
     poapImageLink: '/humanDAO/lesson/what-is-the-metaverse/poap-b70bc573.png',
-    lessonImageLink: '/humanDAO/lesson/what-is-the-metaverse/lesson-6a3fc0e6.png',
-    socialImageLink: '/humanDAO/lesson/what-is-the-metaverse/social-b89f0873.png',
+    lessonImageLink: '/humanDAO/lesson/what-is-the-metaverse/lesson-1bbce064.png',
+    socialImageLink: '/humanDAO/lesson/what-is-the-metaverse/social-4388d5d3.jpg',
     learningActions: '',
     marketingDescription: 'A brief journey to the enigmatic Metaverse!',
     poapEventId: null,
@@ -980,8 +980,8 @@ const LESSONS: LessonType[] = [
   },
   {
     poapImageLink: '/humanDAO/lesson/what-is-a-crypto-wallet/poap-8c4f951b.png',
-    lessonImageLink: '/humanDAO/lesson/what-is-a-crypto-wallet/lesson-1ed1cdd3.png',
-    socialImageLink: '/humanDAO/lesson/what-is-a-crypto-wallet/social-6ccdf5bc.png',
+    lessonImageLink: '/humanDAO/lesson/what-is-a-crypto-wallet/lesson-c8aefa31.png',
+    socialImageLink: '/humanDAO/lesson/what-is-a-crypto-wallet/social-463a552f.jpg',
     learningActions: '',
     marketingDescription: 'Learn how to create and manage a wallet securely.',
     poapEventId: null,
@@ -1214,8 +1214,8 @@ const LESSONS: LessonType[] = [
   },
   {
     poapImageLink: '/humanDAO/lesson/humandao-an-introduction/poap-a89ca693.png',
-    lessonImageLink: '/humanDAO/lesson/humandao-an-introduction/lesson-7b33803b.png',
-    socialImageLink: '/humanDAO/lesson/humandao-an-introduction/social-ed4e3ca8.png',
+    lessonImageLink: '/humanDAO/lesson/humandao-an-introduction/lesson-a54951e7.png',
+    socialImageLink: '/humanDAO/lesson/humandao-an-introduction/social-32df4f36.jpg',
     learningActions: '',
     marketingDescription: 'A brief guide to the DAO with a simple mission - Improving Lives Through Crypto',
     poapEventId: null,
@@ -1416,8 +1416,8 @@ const LESSONS: LessonType[] = [
   },
   {
     poapImageLink: '/humanDAO/lesson/community-support-role/poap-4a232460.png',
-    lessonImageLink: '/humanDAO/lesson/community-support-role/lesson-6d69b48a.png',
-    socialImageLink: '/humanDAO/lesson/community-support-role/social-d8fc7d73.png',
+    lessonImageLink: '/humanDAO/lesson/community-support-role/lesson-a059efbc.png',
+    socialImageLink: '/humanDAO/lesson/community-support-role/social-77181589.jpg',
     learningActions: '',
     marketingDescription: 'Getting started on the role of Community Support in web3',
     poapEventId: null,
@@ -1426,40 +1426,92 @@ const LESSONS: LessonType[] = [
     difficulty: undefined,
     description: 'Getting started on the role of Community Support in web3',
     name: 'Community Support Role',
-    moduleId: undefined,
+    moduleId: '86834c89c79c427a92e6133422ba976c',
     quest: 'humanDAOCommunitySupportRole',
-    publicationStatus: 'hidden',
+    publicationStatus: 'publish',
     isFeaturedOnHomepage: false,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: undefined,
     notionId: 'ecdabc1c4c464c11b5f57c9fff40abeb',
     slug: 'community-support-role',
-    imageLinks: [],
+    imageLinks: [
+      '/humanDAO/lesson/community-support-role/whats-web3-all-about-80bf48c8.png',
+      '/humanDAO/lesson/community-support-role/how-is-this-connected-to-my-role-as-part-of-the-community-support-team-e92235fa.png',
+      '/humanDAO/lesson/community-support-role/what-are-the-key-responsibilities-of-a-community-support-role-7426d367.png',
+      '/humanDAO/lesson/community-support-role/how-can-i-best-represent-the-organization-im-working-in-b10234c4.png'
+    ],
     slides: [
       {
         type: 'LEARN',
         notionId: '386d5e1aa092439ebc3989c7d76d4871',
         title: '<strong>What’s web3 all about?</strong>',
-        content: '<div class="bloc1"><p>Web3 is “a shift in internet culture”, where data is more governed and controlled by the community rather than corporations and special interests.</p><p>This puts the focus of products and services back to the people as they have real ownership in their data, assets, and content. The technology that is used to enable this change is blockchain, which can be accessed by anyone who has access to the internet.</p></div>'
+        content: '<div class="bloc1"><p>According to Mason Nystrom, Web3 is “a shift in internet culture”, where data is more governed and controlled by the community rather than corporations and special interests.</p><p>This puts the focus of products and services back to the people as they have real ownership in their data, assets, and content. The technology that is used to enable this change is blockchain, which can be accessed by anyone who has access to the internet.</p><p>Reference: <a href=\'https://twitter.com/masonnystrom/status/1359139789820334082\'>https://twitter.com/masonnystrom/status/1359139789820334082</a> </p></div><div class="bloc2"><img src=\'/humanDAO/lesson/community-support-role/whats-web3-all-about-80bf48c8.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: 'f1f7b38dddd546fe87add7af0e353a21',
         title: '<strong>How is this connected to my role as part of the Community Support team?</strong>',
-        content: '<div class="bloc1"><p>By understanding the nature of the environment in which you work in, you are able to perceive the kind of community that you are going to handle—and that includes people from other countries, with different cultures, and different practices.</p></div>'
+        content: '<div class="bloc1"><p>By understanding the nature of the environment in which you work in, you are able to perceive the kind of community that you are going to handle—and that includes people from other countries, with different cultures, and different practices.</p><p>New technology is also being used in web3, and it requires those working in Community Support to be familiar with the fundamentals concepts of blockchain or an organization’s ethos.</p><p>When these concepts are learned, questions and concerns raised by community can be accommodated by the Community Support team to keep them informed and engaged.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/community-support-role/how-is-this-connected-to-my-role-as-part-of-the-community-support-team-e92235fa.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: 'e947549901f945398b1625c1151c1676',
         title: '<strong>What are the key responsibilities of a Community Support role?</strong>',
-        content: '<div class="bloc1"><ul><li>Maintain a positive and safe environment for all members</li><li>Promptly answer questions and concerns raised in the social media channels</li><li>Provide written reports on feedbacks, updates, and concerns</li><li>Assist co-workers in managing social media channels</li></ul></div>'
+        content: '<div class="bloc1"><ul><li>Maintain a positive and safe environment for all members</li><li>Promptly answer questions and concerns raised in the social media channels</li><li>Provide written reports on feedbacks, updates, and concerns</li><li>Assist co-workers in managing social media channels</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/community-support-role/what-are-the-key-responsibilities-of-a-community-support-role-7426d367.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: 'a97e3654e4b74f588b24c292e19bfcc0',
         title: '<strong>How can I best represent the organization I’m working in?</strong>',
-        content: '<div class="bloc1"><ol><li><strong>Reach out</strong> <strong>to community members</strong>. Identify who needs support and redirect them to the right information.</li><li><strong>Be kind and respectful. </strong>Remember that your actions reflect the values of the organization.</li><li><strong>Observe proper grammar and punctuation. </strong>You can make conversations clearer by using complete sentences.</li><li><strong>Adopt cultural sensitivity. </strong>It’s best to be aware how different expressions can affect other nationalities.</li><li><strong>Stick to the rules. </strong>There should be no special treatment for other community members to avoid conflict.</li><li><strong>Escalate concerns</strong>. Don’t solve all the problems by yourself. Consult a team lead for further confirmation.</li></ol></div>'
+        content: '<div class="bloc1"><ol><li><strong>Reach out</strong> <strong>to community members</strong>. Identify who needs support and redirect them to the right information.</li><li><strong>Be kind and respectful. </strong>Remember that your actions reflect the values of the organization.</li><li><strong>Observe proper grammar and punctuation. </strong>You can make conversations clearer by using complete sentences.</li><li><strong>Adopt cultural sensitivity. </strong>It’s best to be aware how different expressions can affect other nationalities.</li><li><strong>Stick to the rules. </strong>There should be no special treatment for other community members to avoid conflict.</li><li><strong>Escalate concerns</strong>. Don’t solve all the problems by yourself. Consult a team lead for further confirmation.</li></ol></div><div class="bloc2"><img src=\'/humanDAO/lesson/community-support-role/how-can-i-best-represent-the-organization-im-working-in-b10234c4.png\'></div>'
+      },
+      {
+        type: 'QUIZ',
+        notionId: '3e6c2ed8dd0c46e9a0fb480e03a977f1',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'Why is web3 considered “a shift in internet culture”?',
+          rightAnswerNumber: 2,
+          answers: [
+            'There are more companies using the internet for their services nowadays',
+            'Blockchain is used more widely for community governance and individual ownership',
+            'A new generation is shaping the internet culture'
+          ],
+          id: 'community-support-role-1'
+        }
+      },
+      {
+        type: 'QUIZ',
+        notionId: '21c07d4a0b5645b9adee928ec9161fe3',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'What makes the Community Support Role different?',
+          rightAnswerNumber: 4,
+          answers: [
+            'You get to work and communicate with people globally while staying at their own homes',
+            'You get to be familiar with important and emerging web3 concepts',
+            'You get to understand an organization’s ethos which is community-governed and decentralized',
+            'All of the above'
+          ],
+          id: 'community-support-role-2'
+        }
+      },
+      {
+        type: 'QUIZ',
+        notionId: 'b05a60654acf4227ae97fe418944376a',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'Which of these actions won’t help Community Support represent the organization?',
+          rightAnswerNumber: 3,
+          answers: [
+            'Adopt cultural sensitivity ',
+            'Accommodate community members who are raising questions',
+            'Solve all the problems by oneself ',
+            'Communicate messages clearly'
+          ],
+          id: 'community-support-role-3'
+        }
       },
       {
         type: 'END',
@@ -1469,8 +1521,8 @@ const LESSONS: LessonType[] = [
   },
   {
     poapImageLink: '/humanDAO/lesson/steps-to-resolution/poap-767a780d.png',
-    lessonImageLink: '/humanDAO/lesson/steps-to-resolution/lesson-29ebb5f8.png',
-    socialImageLink: '/humanDAO/lesson/steps-to-resolution/social-a28033f3.png',
+    lessonImageLink: '/humanDAO/lesson/steps-to-resolution/lesson-a04a3ba1.png',
+    socialImageLink: '/humanDAO/lesson/steps-to-resolution/social-9652e14e.jpg',
     learningActions: '',
     marketingDescription: 'Confidently handle concerns whenever it arises.',
     poapEventId: null,
@@ -1479,52 +1531,104 @@ const LESSONS: LessonType[] = [
     difficulty: undefined,
     description: 'Confidently handle concerns whenever it arises.',
     name: 'Steps to Resolution',
-    moduleId: undefined,
+    moduleId: '86834c89c79c427a92e6133422ba976c',
     quest: 'humanDAOStepsToResolution',
-    publicationStatus: 'hidden',
+    publicationStatus: 'publish',
     isFeaturedOnHomepage: false,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: undefined,
     notionId: 'fc4db377982a4aa084e973c26279f0a6',
     slug: 'steps-to-resolution',
-    imageLinks: [],
+    imageLinks: [
+      '/humanDAO/lesson/steps-to-resolution/step-1-identify-the-nature-of-concern-18c1df62.png',
+      '/humanDAO/lesson/steps-to-resolution/step-2-verify-information-633d4e0a.png',
+      '/humanDAO/lesson/steps-to-resolution/step-3-attend-to-the-concern-669f48e6.png',
+      '/humanDAO/lesson/steps-to-resolution/step-4-respectfully-close-the-conversation-d9c6d086.png',
+      '/humanDAO/lesson/steps-to-resolution/step-5-furnish-a-transcript-or-report-e1c31714.png'
+    ],
     slides: [
       {
         type: 'LEARN',
         notionId: '555656058b42460cbfe70b459bfdef17',
         title: '5 Steps to Resolving Concerns',
-        content: '<div class="bloc1"><p><strong>By following the 5 steps in resolving a community member’s concerns, you are able to confidently handle the situation whenever it arises.</strong></p><p>**If a member asks a concern that is out of the organization’s control, it is necessary to clarify that it is not in your capacity to solve that problem, but still try your best to make them feel understood.</p></div>'
+        content: '<div class="bloc1"><p>You may ask, why do we need to resolve concerns in the first place?</p><p>Problem-solving is an important skill that each organization needs to have when managing a community. That’s because issues can arise anytime a person experiences difficulty navigating different areas such as websites, applications, products, and community processes. A way to work with constructive feedbacks and criticism also have to be taken account as part of this skill.</p><p>In the world of web3, it’s even more important that we have a team that dedicates their time accommodating community members because of all these new concepts, services, and products that are continuously built on the blockchain. Integrating Community Support role in an organization can bridge understanding towards a new internet culture while allowing community members foster positive relationships. It can also help an organization streamline processes and grow their audience reach in the long term.</p><p>These outcomes sure do sound great on paper. But, to make it a reality, we’ve prepared some guidelines with <strong>5 steps in resolving a community member’s concerns. This can help the Community Support team confidently handle the situation whenever it arises.*</strong></p><p>*If a member asks a concern that is out of the organization’s control, it is necessary to clarify that it is not in your capacity to solve that problem, but still try your best to make them feel understood.</p></div>'
       },
       {
         type: 'LEARN',
         notionId: '112a0b7f106f4f139f3c1a4979459986',
         title: '<strong><strong>Step 1: Identify the Nature of Concern</strong></strong>',
-        content: '<div class="bloc1"><p>You can try to introduce yourself first, and let them know that you’re here to help. This can assure the person, whether they are builders or newbies in a community.</p><p>Then you might ask about the subject of their concern and any information that they find complicated to understand. This is the time to gather information such as the person\'s name, email address, username, screenshots, and issue category.</p><p>Categories will depend on the type of data being handled, some of which are grouped by Issue, Request, or Department.</p><p>These are some examples of categories that you can use when identifying the nature of concern:</p></div>'
+        content: '<div class="bloc1"><p>You can introduce yourself first, and let them know that you’re here to help. This can assure the person, whether they are builders or newbies in a community.</p><p>Afterwards, you might ask about the subject of their concern and any information that they find complicated to understand. This is the time to gather information such as the person\'s name, email address, username, screenshots, and issue category. Categories will depend on the type of data being handled, some of which are grouped by Issue, Request, or Department.</p><p>These are some examples of categories that you can use when identifying the nature of concern:</p><ul><li><strong>By Issue: </strong>Reports for Scams, Spams, and Bug</li><li><strong>By Request: </strong>Collaboration, Feature Request, and Service Request</li><li><strong>By Department</strong>: Design, Development, Governance</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/steps-to-resolution/step-1-identify-the-nature-of-concern-18c1df62.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: '9370053893a84edea615bc2846970676',
         title: '<strong><strong>Step 2: Verify Information</strong></strong>',
-        content: '<div class="bloc1"><p>After collecting the data, it is important to make sure that the data being collected is accurate and true. Most communities use a platform or additional tools to check the identity of a person.</p><p>Here are some of the sources which you can verify information:</p><ul><li><strong>Community Database</strong> - for checking member identity</li><li><strong>Member List</strong> - for verifying a person’s role or department</li><li><strong>Search Bar</strong> - for specific words and characters</li><li><strong>Audit Logs</strong> - for tracing the root of errors or action</li></ul></div>'
+        content: '<div class="bloc1"><p>After collecting the data, it is important to make sure that the data being collected is accurate and true. Most communities use a platform or additional tools to check the identity of a person.</p><p>Here are some of the sources which you can verify information:</p><ul><li><strong>Community Database</strong> - for checking member identity</li><li><strong>Member List</strong> - for verifying a person’s role or department</li><li><strong>Search Bar</strong> - for specific words and characters</li><li><strong>Audit Logs</strong> - for tracing the root of errors or action</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/steps-to-resolution/step-2-verify-information-633d4e0a.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: '5cbe8e9130c849528bce14ca80a49fcf',
         title: '<strong><strong>Step 3: Attend to the concern</strong></strong>',
-        content: '<div class="bloc1"><p>Once you\'ve discovered the cause, it’s time to use the resources you have in your company or organization to find the correct solution to the problem.</p><p>If the person you are talking to isn’t satisfied, remember these tips in handling the conversation:</p><ol><li>Clarify the context</li><li>Use positive language</li><li>Be transparent with your results</li></ol></div>'
+        content: '<div class="bloc1"><p>Once you\'ve discovered the cause, it’s time to use the resources you have in your company or organization to find the correct solution to the problem.</p><p>If the person you are talking to isn’t satisfied, remember these tips in handling the conversation:</p><ol><li>Clarify the context</li><li>Use positive language</li><li>Be transparent with your results</li></ol></div><div class="bloc2"><img src=\'/humanDAO/lesson/steps-to-resolution/step-3-attend-to-the-concern-669f48e6.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: '0f3e25aebda14c64b9ee6738e424f89d',
         title: '<strong><strong>Step 4: Respectfully Close the Conversation</strong></strong>',
-        content: '<div class="bloc1"><p>It is also critical to verify that the solution you proposed actually helped the person. To do that, you can use the phrase: “<strong>Please let me know if there’s anything else I can help you with</strong>.”.</p><p>If the problem has not been resolved, it may take some time to find a new solution. In this case, you could say something like, <strong>\'I will raise this concern to our team lead, please wait for further instructions, thank you.”</strong></p><p>Make sure when ending the conversation, your closing remarks is polite, friendly, and will leave a positive impression towards them. You may also allow members to rate the transaction to measure the overall view.</p></div>'
+        content: '<div class="bloc1"><p>It is also critical to verify that the solution you proposed actually helped the person. To do that, you can use the phrase: “<strong>Please let me know if there’s anything else I can help you with</strong>.”</p><p>If the problem has not been resolved, it may take some time to find a new solution. In this case, you could say something like, <strong>\'I will raise this concern to our team lead, please wait for further instructions, thank you.”</strong></p><p>Make sure when ending the conversation, your closing remarks is polite, friendly, and will leave a positive impression towards them. You may also allow members to rate the transaction to measure the overall view.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/steps-to-resolution/step-4-respectfully-close-the-conversation-d9c6d086.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: '1e196133083d47c19303aa76641d3d32',
         title: '<strong><strong>Step 5: Furnish a Transcript or Report</strong></strong>',
-        content: '<div class="bloc1"><p>You might notice that there are times you get the same concern from the same community member. Saving the conversation is enough for this type of scenario. One way of doing this is by using a ticketing bot (when in Discord) or help desk systems.</p><p>However, if the same concerns are coming from different community members, it is necessary to prepare a report and list down specific problem points. There are also tools that can help you generate reports on the number of cases solved per day, average response time, and satisfaction rate.</p></div>'
+        content: '<div class="bloc1"><p>Keeping a record of tickets and conversations is vital to an organization. It helps you look back into past records and categorize them to make the process of solving and reporting concerns easier.</p><p>You might notice that there are times you get the same concern from the same community member. Saving the conversation is enough for this type of scenario. One way of doing this is by using a ticketing bot (when in Discord) or help desk systems.</p><p>However, if the same concerns are coming from different community members, it is necessary to prepare a report and list down specific problem points. There are also tools that can help you generate reports on the number of cases solved per day, average response time, and satisfaction rate.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/steps-to-resolution/step-5-furnish-a-transcript-or-report-e1c31714.png\'></div>'
+      },
+      {
+        type: 'QUIZ',
+        notionId: 'cb5535c275e544fc81b3cd35815f8a9f',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'Where is the best place to check records of past actions when fixing errors?',
+          rightAnswerNumber: 1,
+          answers: [
+            'Audit logs',
+            'Archive',
+            'Community Database',
+            'Member List'
+          ],
+          id: 'steps-to-resolution-1'
+        }
+      },
+      {
+        type: 'QUIZ',
+        notionId: 'd5508b831b3a445d83d293157307797e',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'True or False: It’s okay not to get feedback when closing the conversation.',
+          rightAnswerNumber: 2,
+          answers: [
+            'True',
+            'False'
+          ],
+          id: 'steps-to-resolution-2'
+        }
+      },
+      {
+        type: 'QUIZ',
+        notionId: '318fa3622ce74530b3e085e3deccd740',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'What is the purpose of keeping a record of concerns that were resolved?',
+          rightAnswerNumber: 4,
+          answers: [
+            'To make the community support processes more efficient',
+            'To help the support team provide accurate resolutions',
+            'To help automate solutions for repetitive concerns using a ticket bot',
+            'All of the above'
+          ],
+          id: 'steps-to-resolution-3'
+        }
       },
       {
         type: 'END',
@@ -1533,81 +1637,275 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/best-tools-for-moderation-and-collaboration/poap-d01f8a1e.png',
-    lessonImageLink: '/humanDAO/lesson/best-tools-for-moderation-and-collaboration/lesson-498e6120.png',
-    socialImageLink: '/humanDAO/lesson/best-tools-for-moderation-and-collaboration/social-b7d47219.png',
+    poapImageLink: '/humanDAO/lesson/tools-for-moderation-and-collaboration/poap-d01f8a1e.png',
+    lessonImageLink: '/humanDAO/lesson/tools-for-moderation-and-collaboration/lesson-b85c35cd.png',
+    socialImageLink: '/humanDAO/lesson/tools-for-moderation-and-collaboration/social-f42c78c9.jpg',
     learningActions: '',
-    marketingDescription: 'Manage a community using different platform integrations and settings',
+    marketingDescription: 'Learn different moderation settings, Discord bots, and',
     poapEventId: null,
-    duration: 15,
+    duration: 20,
     learnings: '',
     difficulty: undefined,
-    description: 'Manage a community using different platform integrations and settings',
-    name: 'Best tools for moderation and collaboration',
-    moduleId: undefined,
-    quest: 'humanDAOBestToolsForModerationAndCollaboration',
-    publicationStatus: 'hidden',
+    description: 'Learn different moderation settings, Discord bots, and',
+    name: 'Tools for moderation and collaboration',
+    moduleId: '86834c89c79c427a92e6133422ba976c',
+    quest: 'humanDAOToolsForModerationAndCollaboration',
+    publicationStatus: 'publish',
     isFeaturedOnHomepage: false,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: undefined,
     notionId: 'a9b50baaa3384d6092fc89ed69604f15',
-    slug: 'best-tools-for-moderation-and-collaboration',
-    imageLinks: [],
+    slug: 'tools-for-moderation-and-collaboration',
+    imageLinks: [
+      '/humanDAO/lesson/tools-for-moderation-and-collaboration/which-platforms-can-be-used-to-perform-the-tasks-of-a-community-support-role-1da2525d.png',
+      '/humanDAO/lesson/tools-for-moderation-and-collaboration/what-are-discords-most-useful-features-b69e9948.png',
+      '/humanDAO/lesson/tools-for-moderation-and-collaboration/discord-server-settings-ff0f71bd.png',
+      '/humanDAO/lesson/tools-for-moderation-and-collaboration/discord-server-settings-ce72dda3.png',
+      '/humanDAO/lesson/tools-for-moderation-and-collaboration/discord-server-integrations-f5353c25.png'
+    ],
     slides: [
       {
         type: 'LEARN',
         notionId: 'eb851a12c42a4a759ad4ff622070fb0f',
-        title: '<strong>Which platforms are used to perform the tasks of a Community Support role?</strong>',
-        content: '<div class="bloc1"><p>Many web3 communities have a designated virtual place to communicate, share ideas, and work on projects. One of those popular platforms is Discord.</p><p>Discord offers a variety of communication modes, including text channels, voice channels, and stage channels, all of which are featured on a server. To organize each community\'s systems, admins, moderators, and accompanying bots control this.</p><p>Other social media platforms including Twitter, Facebook, Instagram, and Reddit mostly are used for announcements, contests, and giveaways.</p></div>'
+        title: '<strong>Which platforms can be used to perform the tasks of a Community Support role?</strong>',
+        content: '<div class="bloc1"><p>Many web3 communities have a designated virtual place to communicate, share ideas, and work on projects. One of those popular platforms is Discord.</p><p>Discord offers a variety of communication modes, including text channels, voice channels, and stage channels, all of which are featured on a server. To organize each community\'s systems, admins, moderators, and accompanying bots control this.</p><p>Other social media platforms including Twitter, Facebook, Instagram, and Reddit mostly are used for announcements, contests, and giveaways.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/tools-for-moderation-and-collaboration/which-platforms-can-be-used-to-perform-the-tasks-of-a-community-support-role-1da2525d.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: '9714cfa55e4542a4a07dd7107a287047',
         title: 'What are Discord’s most useful features?',
-        content: '<div class="bloc1"><p><strong>Application commands</strong></p><p>Text channels allow users to use application commands from bots using the slash symbol <strong>( / )</strong> along with the name of the command.</p><p><strong>Discord: Pin messages</strong></p><p>Even if there’s an announcement channel, it is a good practice to pin messages using the dropdown menu in other channels. This will help you redirect members to important messages rather than repeating them.</p><p><strong>Discord: Markdown text</strong></p><p>There are times when you want to highlight some text in a message. Making use of the markdown formatting system will assist you in creating announcements that stand out.</p></div>'
+        content: '<div class="bloc1"><p><strong>Application commands</strong></p><p>Text channels allow users to use application commands from bots using the slash symbol <strong>( / )</strong> along with the name of the command.</p><p><strong>Discord: Pin messages</strong></p><p>Even if there’s an announcement channel, it is a good practice to pin messages using the dropdown menu in other channels. This will help you redirect members to important messages rather than repeating them.</p><p><strong>Discord: Markdown text</strong></p><p>There are times when you want to highlight some text in a message. Making use of the markdown formatting system will assist you in creating announcements that stand out.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/tools-for-moderation-and-collaboration/what-are-discords-most-useful-features-b69e9948.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: '0d369bf7b8644dab95dcc7480ec1f145',
         title: 'Discord: Server settings',
-        content: '<div class="bloc1"><p>As part of the support team, you have access to certain settings in the Discord server.</p><p>The sections below will give you an idea what data can be changed and how to customize permissions:</p><ul><li><strong>Overview</strong> - server name, banner, and invite background. Also includes system messages channel</li><li><strong>Roles</strong> - creation of role names, default permissions, and hierarchy of roles. The role with the highest permission is on top of the list, and it can be dragged upward or downward to change the hierarchy.</li><li><strong>Emoji and stickers </strong>-<strong> </strong>custom emojis, animated emojis, and stickers that can be exclusively used in the server. Members with nitro subscription can use animated emojis and emojis from other servers.</li><li><strong>Moderation</strong> - includes verification levels for members who will join a server</li></ul></div>'
+        content: '<div class="bloc1"><p>As part of the support team, you have access to certain settings in the Discord server.</p><p>The sections below will give you an idea what data can be changed and how to customize permissions:</p><ul><li><strong>Overview</strong> - server name, banner, and invite background. Also includes system messages channel</li><li><strong>Roles</strong> - creation of role names, default permissions, and hierarchy of roles. The role with the highest permission is on top of the list, and it can be dragged upward or downward to change the hierarchy.</li><li><strong>Integrations </strong>-<strong> </strong>bot/app commands and permissions are configured in this setting. This is also where the list of followed channels can be set up. </li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/tools-for-moderation-and-collaboration/discord-server-settings-ff0f71bd.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: 'f4474c82f39342c9b9f81f9c07c0a15b',
         title: 'Discord: Server settings',
-        content: '<div class="bloc1"><ul><li><strong>Audit Log</strong> - shows the actions made in the server, with the most recent action on top. It can be filtered by member and type of action.</li><li><strong>Integration</strong> - shows the list of webhooks used, channels followed, and bots invited in the server.</li><li><strong>Widget </strong>- server widgets are used to integrated the server profile in a website using HTML.</li><li><strong>Server Template </strong>-<strong> </strong>it is useful for replicating the same server setup. When a template is generated, it creates an exact copy of the server containing the same channels and permissions.</li><li><strong>Members</strong> - shows the total number of members, which can be filtered by role. A search bar is also available for easier tracking of names.</li><li><strong>Invites </strong>- invite links that are created by members can be viewed here. Discord only has limited number of invite links that can be generated, so it’s best practice to delete unused invite links.</li><li><strong>Bans</strong> - Members included in this list are banned by their account and IP address.</li></ul></div>'
+        content: '<div class="bloc1"><ul><li><strong>Rules Screening </strong>- For servers that have enabled community setting, this is best used when rules and regulations need to be present when a new community member joins the server.</li><li><strong>Safety Setup</strong> - includes verification levels for members who will join a server</li><li><strong>Audit Log</strong> - shows the actions made in the server, with the most recent action on top. It can be filtered by member and type of action.</li><li><strong>Members</strong> - shows the total number of members, which can be filtered by role. A search bar is also available for easier tracking of names.</li><li><strong>Invites </strong>- invite links that are created by members can be viewed here. Discord only has limited number of invite links that can be generated, so it’s best practice to delete unused invite links.</li><li><strong>Bans</strong> - Members included in this list are banned by their account and IP address.</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/tools-for-moderation-and-collaboration/discord-server-settings-ce72dda3.png\'></div>'
+      },
+      {
+        type: 'QUIZ',
+        notionId: 'a1d8dd8074714898a99cf55eb218021c',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'In the text channels, what symbol do you input to access a specific command?',
+          rightAnswerNumber: 4,
+          answers: [
+            '!',
+            '#',
+            '-',
+            '/'
+          ],
+          id: 'tools-for-moderation-and-collaboration-1'
+        }
+      },
+      {
+        type: 'QUIZ',
+        notionId: '7bb992d62b9c44d9af90ec6d7c1d813b',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'What part of the server settings allows you to give specific permissions to different individuals?',
+          rightAnswerNumber: 1,
+          answers: [
+            'Permissions',
+            'Special Permissions',
+            'Roles',
+            'Members'
+          ],
+          id: 'tools-for-moderation-and-collaboration-2'
+        }
+      },
+      {
+        type: 'QUIZ',
+        notionId: '13b5081fc7934317af30a5c55133239b',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'Where can you find the actions performed in the server?',
+          rightAnswerNumber: 3,
+          answers: [
+            'Server Logs',
+            'System Logs',
+            'Audit Logs',
+            'Data Logs'
+          ],
+          id: 'tools-for-moderation-and-collaboration-3'
+        }
       },
       {
         type: 'LEARN',
         notionId: '4b1bd36de5a342cd947687a980839712',
         title: 'Discord: Server integrations',
-        content: '<div class="bloc1"><p><strong>What are Discord bots?</strong></p><p>Bots on Discord are integrations on the server which help automate tasks including (but not limited to):</p><ul><li>Moderation</li><li>Statistics</li><li>Entertainment</li></ul></div>'
+        content: '<div class="bloc1"><p><strong>What are Discord bots?</strong></p><p>Bots on Discord are integrations on the server which help automate tasks including (but not limited to):</p><ul><li>Moderation</li><li>Verification</li><li>Productivity</li><li>Management</li><li>Entertainment</li></ul><p>To learn how to operate different bots, visiting the website’s documentation is a good place to start. A documentation can show all the command lists, dashboard configurations, and the bot’s operational status.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/tools-for-moderation-and-collaboration/discord-server-integrations-f5353c25.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: 'b6814552db6c406e9ddb0a780262ccb2',
-        title: 'What are some of the most reputable bots?',
-        content: '<div class="bloc1"><p>Whether you’re looking for a solution that can help you automate moderation or provide your community with entertainment, finding the right bot is crucial to maintaining operations and creating a safe place for everyone in the server.</p><p>Here are some of the bots you can consider:</p><p><strong>MEE6 - a moderation bot with custom commands, now used in 18+ million servers </strong></p><p><strong>How it can help your community</strong></p><ol><li>Newcomers can be greeted with a welcome card and custom messaging</li><li>Members can find peers sharing their interests through custom reaction roles and commands, music and games</li><li>Members can be notified of streaming events and new uploads through social connectors</li><li>Members can reach new ranks via the leveling system where they can earn XP for engaging in the server</li></ol><p><strong>How it can help your admins and moderators</strong></p><ol><li>Bots can be renamed to fit the branding of the community</li><li>Auto-moderation only requires to be set up once and can be configured to work on some channels while be exempted from another. </li><li>Custom monthly subscriptions can bootstrap onboarding with gated channels or categories.</li></ol></div>'
+        title: 'What are some of the most reputable bots? (1/5)',
+        content: '<div class="bloc1"><p>Whether you’re looking for a solution that can help you automate moderation or engage your community with a ranking system, finding the right bot is crucial to maintaining operations and creating a safe place for everyone in the server.</p><p>Here are some of the bots you can consider:</p><p><strong>Moderation Bots</strong><strong>:</strong> MEE6, Carl-bot, YAGPDB, Arcane</p><p><strong>How it can help your community</strong></p><ol><li>Newcomers can be greeted with a welcome card and custom messaging</li><li>Members can find peers sharing their interests through custom reaction roles and commands, music and games</li><li>Members can be notified of streaming events and new uploads through social connectors</li><li>Members can reach new ranks via the leveling system where they can earn XP for engaging in the server</li></ol><p><strong>How it can help the Community Support team</strong></p><ol><li>Bots can be renamed to fit the branding of the community</li><li>Auto-moderation only requires to be set up once and can be configured to work on some channels while be exempted from another. </li><li>Custom monthly subscriptions can bootstrap onboarding with gated channels or categories.</li></ol></div>'
       },
       {
         type: 'LEARN',
-        notionId: '8d4cec88049645f6b129daee344b3f1f',
-        title: 'What are some of the most reputable bots?',
-        content: '<div class="bloc1"><p><strong>AutoCode </strong>- an open-source automation software suite for building custom bots </p><p><strong>How it can help your community</strong></p><ol><li></li></ol><p><strong>How it can help your admins and moderators</strong></p><ol><li>The app platform allows the server to scale with little configuration from developer side</li><li>Templates are available to get started with </li></ol><p>One of the best ways to work with Discord bots is to read the website’s documentation. It is often linked in pages with different naming conventions including <strong>Tutorials</strong>, <strong>Docs</strong>, and <strong>Commands</strong>.</p></div>'
+        notionId: '667d08e6348a4d64aabcbd83ce141260',
+        title: 'What are some of the most reputable bots? (2/5)',
+        content: '<div class="bloc1"><p>Many organizations and individual artists are focused on NFT projects that involve managing community members on Discord. Since NFT collections are often exclusive and have a limited number of mints before being sold on the web3 marketplace, it will be necessary to have a verification system in order to safely onboard NFT owners and reward them with roles that can access collector-only channels.</p><p>Here are some of the bots you can consider for this situation:</p><p><strong>Verification Bots</strong><strong>:</strong> Collab.Land, Vulcan Bot</p><p><strong>How it can help your community</strong></p><ol><li>For Vulcan Bot, members can verify their NFT ownership without signing a transaction with their wallet</li><li>For Collab.Land, members can verify their NFT ownership by inputting a custom link to their wallet </li><li>Verified members will be able to access exclusive channels on Discord to see announcements, give feedbacks, and connect with people</li></ol><p><strong>How it can help the Community Support team</strong></p><ol><li>Role assignment to verified NFT owners can be automated by the bot</li><li>Potential bad actors that do not pass the verification will be automatically removed from the server</li></ol></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '8ea9d24249534e6181509ea6f0c6b96a',
+        title: 'What are some of the most reputable bots? (3/5)',
+        content: '<div class="bloc1"><p>Setting up the Discord server is hard work. Posting updates from multiple social media channels is even more time-consuming when done manually. Using bots that can integrate your tech stack will help you and your community members navigate through the platform with ease and keep engagement positive. Here are some of the bots you can consider for this situation:</p><p><strong>Productivity Bots</strong><strong>:</strong> Boto, Sesh, Statbot, Autocode</p><p><strong>How it can help your community</strong></p><ol><li>With Boto, members can be easily notified of updates about the NFT project from multiple social media channels by enabling channel-specific notifications on Discord</li><li>With Sesh, simplified event creation experience for members who reside in different timezones</li><li>With Statbot, members can see an overview of how large the influence of an organization or artist has</li></ol><p><strong>How it can help the Community Support team</strong></p><ol><li>With Boto, updates for NFT mints and sales, whale wallets, and listings can be posted on Discord, Slack, and Telegram without writing any code</li><li>With Sesh, it will be easy to get the list of attendees and integrate event schedules in Google calendar </li><li>With Autocode, bots can be developed with minimal Javascript knowledge to set up any custom commands or integrations with other platforms</li></ol></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '84951464a10049ae81a319f9cf5dccad',
+        title: 'What are some of the most reputable bots? (4/5)',
+        content: '<div class="bloc1"><p>Timely response is one of the important standards that a Community Support team should practice. Members will more likely stay connected and valued if support systems are reachable, and it can be done through automated responses or real-time chat.</p><p>Here are some of the bots you can consider for these situations:</p><p><strong>Support Bots</strong><strong>:</strong> TicketTool, Helper.gg </p><p><strong>How it can help your community</strong></p><ol><li>Members can choose a category that fits their concern</li><li>Members can reach out to the Community Support team privately and secure a transcript of their ticket</li><li>Members can refer to a list of keywords or commands to get immediate responses for FAQs and common technical concerns</li></ol><p><strong>How it can help the Community Support team</strong></p><ol><li>Customization is possible through panel colors, names, and description. This helps in grouping concerns by category</li><li>Some tickets can be configured to be opened by specific roles to make sure members are selecting the right tickets</li><li>Naming conventions for tickets will help the team work on their assigned tickets easier</li></ol></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '2ed6146314e14cf4969d3c7c4282a6b5',
+        title: 'What are some of the most reputable bots? (5/5)',
+        content: '<div class="bloc1"><p>Engagement brings a positive impact in a community, and some of the various ways to make this happen is through streaming, hosting giveaways, and providing tips to valued members. Your role as part of the Community Support team is make sure that the tools to be used will help streamline this experience.</p><p>Here are some of the bots you can consider for this situation:</p><p><strong>Entertainment Bots</strong><strong>:</strong> Hydra, GiveawayBot, Tip.cc</p><p><strong>How it can help your community</strong></p><ol><li>Hydra ensures 99.9% availability to ensure a smooth music-listening experience in the server</li><li>Members—both new and old—can look forward to events and invite other people to join</li><li>Active members can feel appreciate when someone is able to tip them via cryptocurrency</li></ol><p><strong>How it can help the Community Support team</strong></p><ol><li>With Hydra, a web dashboard is available to customize command syntax and set the language in the server</li><li>With GiveawayBot, giveaways easily be held in a channel with a few commands. All that is needed is to specify the time limit, the number of winners, and the emoji to be used to enter the giveaway.</li><li>With Tip.cc, Community Support team can assist with engaging events by configuring the bot to allow tipping with members and contributors</li></ol></div>'
+      },
+      {
+        type: 'QUIZ',
+        notionId: '679aaa9f3b5a446caf0b361b4ce2d4e8',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'Which bot can help the Community Support team provide updates to NFT sales/mints?',
+          rightAnswerNumber: 3,
+          answers: [
+            'Tip.cc',
+            'MEE6',
+            'Boto',
+            'Vulcan Bot'
+          ],
+          id: 'tools-for-moderation-and-collaboration-4'
+        }
+      },
+      {
+        type: 'QUIZ',
+        notionId: 'f3b9ecf8f67a4265a2c5a80250d4f713',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'Which kind of bots ensure that concerns are accommodated in a timely manner?',
+          rightAnswerNumber: 2,
+          answers: [
+            'Verification bots',
+            'Support bots',
+            'Entertainment bots',
+            'Moderation bots'
+          ],
+          id: 'tools-for-moderation-and-collaboration-5'
+        }
+      },
+      {
+        type: 'QUIZ',
+        notionId: '403e8be2c52148c386a45ee4af91fbd8',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'Can you verify NFT ownership without wallet connection on Vulcan bot?',
+          rightAnswerNumber: 1,
+          answers: [
+            'Yes',
+            'No'
+          ],
+          id: 'tools-for-moderation-and-collaboration-6'
+        }
+      },
+      {
+        type: 'QUIZ',
+        notionId: '997f2f2485264ec795c8596a4d4dc3cc',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'What type of activity can you streamline with the Sesh bot?',
+          rightAnswerNumber: 2,
+          answers: [
+            'NFT verification',
+            'Event schedules',
+            'Ranking system',
+            'Custom welcome messages'
+          ],
+          id: 'tools-for-moderation-and-collaboration-7'
+        }
       },
       {
         type: 'LEARN',
         notionId: 'a260b1bc6ea74e06b7b0ebccf3b72469',
-        title: '<strong>What tools are best to use when working on projects?</strong>',
-        content: '<div class="bloc1"><p>In a decentralized workplace, online tools are commonly being used to accomplish projects even in a remote setting.</p><ol><li><strong>Notion</strong></li></ol><p>Notion is an online workspace where you can take notes, build a database, create kanban boards for your to-do lists, and collaborate with peers for project management tasks.</p><p>This can be used to see what other departments are working on and to update the progress made from your end.</p><ol><li><strong>Google Workspace</strong></li></ol><p>Google Workspace offers multiple productivity tools—including email, calendar, video call, documents, spreadsheets, and a cloud storage where all the data from the productivity apps can be synced.</p><p>File-sharing is one of the major features that is used to consolidate ideas and changes in a document.</p><ol><li><strong>Figma</strong></li></ol><p>Figma is a graphics-editing and prototyping tool used to create digital designs and artworks. It is possible to collaborate with peers here by sharing access to the file.</p><p>For community support roles, having the knowledge to navigate this tool will help in assisting minor changes in social media posts.</p><ol><li><strong>Trello</strong></li></ol><p>Trello is the visual work management tool that empowers teams to ideate, plan, manage, and celebrate their work together in a collaborative, productive, and organized way.</p><p>A board represents a place to keep track of information — often for large projects, teams, or workflows. Whether you are launching a new website, tracking sales, or planning your next office party, a Trello board is the place to organize tasks, all the little details, and most importantly—collaborate with your colleagues.</p><ol><li><strong>Miro</strong></li></ol><p>Miro is an online collaborative whiteboard platform that enables distributed teams to work effectively together, from brainstorming with digital sticky notes to planning and managing agile workflows.</p><p>With Miro, you can organize teams, projects, and boards to work on documents and create logical connections to form ideas. Some use cases of Miro include workshops, research, reviews, and creating mind maps or diagrams.</p></div>'
+        title: '<strong>What tools are best to use when working on projects? (1/4)</strong>',
+        content: '<div class="bloc1"><p>In a decentralized workplace, online tools are commonly being used to accomplish projects even in a remote setting. These are some of the best tools—on both web2 and web3—to build your tech stack and work seamlessly among members from different teams or departments.</p><h2><strong>Notion (</strong> <a href=\'https://www.notion.so/\'>https://www.notion.so</a>)</h2><p>Notion is an online workspace where you can take notes, build a database, create kanban boards for your to-do lists, and collaborate with peers for project management tasks. This can be used to see what other departments are working on and to update the progress made from your end.</p><h2><strong>Google Workspace (</strong><a href=\'https://workspace.google.com/\'>https://workspace.google.com</a>)</h2><p>Google Workspace offers multiple productivity tools—including email, calendar, video call, documents, spreadsheets, and a cloud storage where all the data from the productivity apps can be synced. File-sharing is one of the major features that is used to consolidate ideas and changes in a document.</p><h2><strong>Figma (</strong><a href=\'https://www.figma.com/\'>https://www.figma.com</a>)</h2><p>Figma is a graphics-editing and prototyping tool used to create digital designs and artworks. It is possible to collaborate with peers here by sharing access to the file. For community support roles, having the knowledge to navigate this tool will help in assisting minor changes in social media posts.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '4236c25a5335484b8de825fd03cdcc11',
+        title: '<strong>What tools are best to use when working on projects? (2/4)</strong>',
+        content: '<div class="bloc1"><h2><strong>Trello (</strong><a href=\'https://trello.com/\'>https://trello.com</a>)</h2><p>Trello is the visual work management tool that empowers teams to ideate, plan, manage, and celebrate their work together in a collaborative, productive, and organized way. A board represents a place to keep track of information — often for large projects, teams, or workflows. </p><h2><strong>Miro (</strong><a href=\'https://miro.com/\'>https://miro.com</a>)</h2><p>Miro is an online collaborative whiteboard platform that enables distributed teams to work effectively together, from brainstorming with digital sticky notes to planning and managing agile workflows. With Miro, you can organize teams, projects, and boards to work on documents and create logical connections to form ideas. Some use cases of Miro include workshops, research, reviews, and creating mind maps or diagrams.</p></div>'
       },
       {
         type: 'LEARN',
         notionId: '66a2b2a3e0aa42b09c81529cb9deb292',
-        title: '<strong>What tools are best to use when working on projects?</strong>',
-        content: '<div class="bloc1"><ol><li><strong>Coordinape</strong></li></ol><p>When it comes to rewards distribution, Coordinape is the tool that is commonly used by DAOs. It allow members to acknowledge the efforts of their teammates via the Gift Circle.</p><p>A Gift Circle is where people in the Community Support role can allocate tokens to their team members depending on their contribution.</p><ol><li><strong>Coinvise</strong></li></ol><p>Coinvise is an open platform on Ethereum where creators can launch a social & build a tokenized community. Our tools can be used to airdrop tokens, design lockups & create quests.</p><ul><li><strong>Create their own social token:</strong> on a fixed supply, bonding curve or vesting schedule, where the creators gets to <strong>own</strong> full custody of tokens minted. Additionally, there\'s no cuts for tokens minted on Coinvise.</li><li><strong>Airdrop social tokens:</strong> send and receive social tokens on social media, private channels or in bulk to multiple people, through a unique claimable link.</li><li><strong>Rewards & Bounties:</strong> Reward your community for contributions & adding value through social tokens.</li><li><strong>Open Social Graph for Creator DAOs / Tokenized Communities:</strong> Discover & grow your community, communicate and contribute towards other creators. Earn rewards for joining communities, and more.</li></ul><ol><li><strong>Discourse</strong></li></ol><p>Discourse is an open-source discussion platform used as a forum or a long-form chat by communities. It has been a home to developer communities to provide tech and community support, and a place for small communities to discuss concepts and methodologies. Discourse also caters to large communities by allowing simultaneous participation by breaking down individual topics.</p><ol><li><strong>Snapshot</strong></li></ol><p>Snapshot is a decentralized voting system. It provides flexibility on how voting power is calculated for a vote. Snapshot supports various voting types to cater to the needs of organizations. Creating proposals and voting on Snapshot is user-friendly and does not cost gas as the process is performed off-chain. In short, Snapshot is an off-chain gasless multi-governance client with easy to verify and hard to contest results.</p><ul><li>Free (gasless) to create proposals and vote on them</li><li>Votes are signed messages easily verifiable online</li><li>Multiple voting systems - Single choice, Approval voting, Quadratic voting, and more</li><li>Flexible voting strategies to calculate voting results - vote with ERC20s, NFTs, other contracts, and more</li></ul></div>'
+        title: '<strong>What tools are best to use when working on projects? (3/4)</strong>',
+        content: '<div class="bloc1"><h2>Parcel<strong> (</strong><a href=\'https://parcel.money/\'>https://parcel.money</a>)</h2><p>When it comes to reward distribution, Parcel can help you navigate past the slow & frictional world of on-chain DAO payments with their elegant, near zero gas platform. It is possible for the Community Support team to process compensation by connecting their wallet, choosing a Contributor role, and making a payment request with an option to choose a cryptocurrency depending on which is available. </p><p>Transactions are safely managed through multi sig contracts powered by Gnosis Safe.</p><h2><strong>Coinvise (</strong><a href=\'https://coordinape.com/\'>https://coordinape.com</a>)</h2><p>Coinvise is an open platform on Ethereum where creators can launch a social & build a tokenized community. Their tools can be used to airdrop tokens, design lockups & create quests. Awareness in how a platform such as this will help the Community Support team assist members on how to participate in airdrops and bounties.</p><ul><li><strong>Airdrop social tokens:</strong> send and receive social tokens on social media, private channels or in bulk to multiple people, through a unique claimable link.</li><li><strong>Rewards & Bounties:</strong> Reward your community for contributions & adding value through social tokens.</li><li><strong>Open Social Graph for Creator DAOs / Tokenized Communities:</strong> Discover & grow your community, communicate and contribute towards other creators. Earn rewards for joining communities, and more.</li></ul></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '77a0b236545241dfbd469b5354a25c59',
+        title: '<strong>What tools are best to use when working on projects? (4/4)</strong>',
+        content: '<div class="bloc1"><h2><strong>Discourse (</strong><a href=\'https://www.discourse.org/\'>https://www.discourse.org</a>)</h2><p>Discourse is an open-source discussion platform used as a forum or a long-form chat by communities. It has been a home to developer communities to provide tech and community support, and a place for small communities to discuss concepts and methodologies. Discourse also caters to large communities by allowing simultaneous participation by breaking down individual topics.</p><h2><strong>Snapshot (</strong><a href=\'https://snapshot.org/#/\'>https://snapshot.org/#/</a>)</h2><p>Snapshot is a decentralized voting system. It provides flexibility on how voting power is calculated for a vote. Snapshot supports various voting types to cater to the needs of organizations. Creating proposals and voting on Snapshot is user-friendly and does not cost gas as the process is performed off-chain. In short, Snapshot is an off-chain gasless multi-governance client with easy to verify and hard to contest results.</p><ul><li>Free (gasless) to create proposals and vote on them</li><li>Votes are signed messages easily verifiable online</li><li>Multiple voting systems - Single choice, Approval voting, Quadratic voting, and more</li><li>Flexible voting strategies to calculate voting results - vote with ERC20s, NFTs, other contracts, and more</li></ul></div>'
+      },
+      {
+        type: 'QUIZ',
+        notionId: '0de118bd715940d2b47396c0aab8d0ba',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'Which online tool offers multiple productivity tools—including email, calendar, video call, documents, spreadsheets, and a cloud storage?',
+          rightAnswerNumber: 3,
+          answers: [
+            'Yahoo Messenger',
+            'Microsoft teams',
+            'Google Workspace',
+            'Discord'
+          ],
+          id: 'tools-for-moderation-and-collaboration-8'
+        }
+      },
+      {
+        type: 'QUIZ',
+        notionId: '11e49b221cd34b50846887c43e951b2c',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'Which online collaborative whiteboard platform allows you to organize teams, projects, and boards to work on documents and create logical connections to form ideas.',
+          rightAnswerNumber: 3,
+          answers: [
+            'Trello',
+            'Blackboard',
+            'Miro',
+            'Draw.io'
+          ],
+          id: 'tools-for-moderation-and-collaboration-9'
+        }
+      },
+      {
+        type: 'QUIZ',
+        notionId: 'c5cb1ab493714d8790aef66e12969cf5',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'What app is commonly used to request compensation for contributors in web3?',
+          rightAnswerNumber: 4,
+          answers: [
+            'Coinvise',
+            'MetaMask',
+            'Coordinape',
+            'Parcel'
+          ],
+          id: 'tools-for-moderation-and-collaboration-10'
+        }
       },
       {
         type: 'END',
@@ -1617,32 +1915,109 @@ const LESSONS: LessonType[] = [
   },
   {
     poapImageLink: '/humanDAO/lesson/best-practices/poap-4ef7ed22.png',
-    lessonImageLink: '/humanDAO/lesson/best-practices/lesson-caee5017.png',
-    socialImageLink: '/humanDAO/lesson/best-practices/social-71b0c6e2.png',
+    lessonImageLink: '/humanDAO/lesson/best-practices/lesson-60fb665d.png',
+    socialImageLink: '/humanDAO/lesson/best-practices/social-e05bd607.jpg',
     learningActions: '',
-    marketingDescription: 'Keep your community informed and secured with best practices',
+    marketingDescription: 'Keep your community engaged with best practices',
     poapEventId: null,
     duration: 10,
     learnings: '',
     difficulty: undefined,
-    description: 'Keep your community informed and secured with best practices',
+    description: 'Keep your community engaged with best practices',
     name: 'Best Practices',
-    moduleId: undefined,
+    moduleId: '86834c89c79c427a92e6133422ba976c',
     quest: 'humanDAOBestPractices',
-    publicationStatus: 'hidden',
+    publicationStatus: 'publish',
     isFeaturedOnHomepage: false,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: undefined,
     notionId: '6edd2bdfdac34f1692892d51bb9c6b37',
     slug: 'best-practices',
-    imageLinks: [],
+    imageLinks: [
+      '/humanDAO/lesson/best-practices/best-practice-1-use-data-to-understand-your-community-050b5ab5.png',
+      '/humanDAO/lesson/best-practices/best-practice-2-always-refer-to-documentation-46ce9988.png',
+      '/humanDAO/lesson/best-practices/best-practice-3-comply-with-handoff-procedures-3faf338d.png',
+      '/humanDAO/lesson/best-practices/best-practice-4-stay-updated-with-official-announcements--05a1eca8.png'
+    ],
     slides: [
       {
         type: 'LEARN',
         notionId: 'dca36868cf2542bdbce5581dcd75040e',
-        title: 'TODO',
-        content: '<div class="bloc1"><p>…</p></div>'
+        title: 'Why do we need to observe best practices?',
+        content: '<div class="bloc1"><p>Each community experience differs from one organization to another. It is dependent on the type of relationship that needs to be built, the ethos of the organization, and the products, services, or projects being implemented. These facets can both affect internal and external communities in keeping them informed, connected, and valued.</p><p>With the entrance of web3, the community experience will largely focus towards online engagement. This means it will be easier for anyone across the globe to participate, but at the same time it will be harder to manage the community due to time zone differences, lack of non-verbal cues, simultaneous communication in different channels, security risks, among many other issues.</p><p>To facilitate best practices and keep your community engaged, you\'ll need to spend time researching your existing community members so you can understand what type of people are more likely to participate in the organization. Moreover, you will also need to dedicate some time to make the process of communicating and resolving problems more efficient using the appropriate features in online tools and platforms.</p><p>Let’s get started by diving into the best practices for a Community Support team.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '67e2c75553dc4c10905f71dec6446cd5',
+        title: 'Best Practice #1: Use data to understand your community',
+        content: '<div class="bloc1"><p>When you handle concerns on a regular basis, you’ll notice that various topics or issues may arise repeatedly. In our “Steps to Resolution” lesson, you may recall that the nature of concern can be categorized for easier referencing. Some of the ways the Community Support team can anticipate those concerns include the use of platform analytics and surveys. </p><p>As an example, you can go to Discord’s <em>Server Insights</em> found in the server settings. This lets you see what community members are mostly focusing on using the server’s growth retention, engagement rate, audience demographics, and channel interactions. You can also use Discord bots to set auto-response messages for keywords or phrases that are commonly used. Another way is to help other departments conduct surveys for novel projects. Objective results can show which areas of the platforms need better community support and documentation, while subjective results can show the general sentiment of the community.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/best-practices/best-practice-1-use-data-to-understand-your-community-050b5ab5.png\'></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '21fd03d8459c44aa8e59cd507b4ad747',
+        title: 'Best Practice #2: Always refer to documentation',
+        content: '<div class="bloc1"><p>As online communities grow larger, organizations will eventually adopt different web applications, bots, and mobile apps to build a system using a technology stack or a “tech stack”. These technologies will evolve in the process when certain changes are needed, so it won’t be a surprise if you find yourself lost trying to navigate all the tools without referring to a particular knowledge base or documentation.</p><p>A documentation or knowledge base contains information about how to use a particular software for both users and developers. For operational processes, a documentation also contains a general guide to the organization’s culture, project lifecycle, and handoff practices.</p><p>As part of the Community Support team, your goal is to find out how to best use the applications in your organization’s tech stack, and you can find that is by visiting relevant software company websites. You may also refer to your organization’s knowledge base and visit available step-by-step instructions, flowcharts, and other standard procedures.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/best-practices/best-practice-2-always-refer-to-documentation-46ce9988.png\'></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '7717535c066b41daa5b4051957309575',
+        title: 'Best Practice #3: Comply with handoff procedures',
+        content: '<div class="bloc1"><p>Communication can be tricky. However, it is always possible to make organization\'s systems well-understood and followed. To get right information to the right people at the right time, it’s necessary to standardize information using handoff procedures.</p><p>In short, a handoff is the process of letting someone else take care of things you could have taken care of with sufficient documentation and resources. When someone else is designated with your role, they are taking the handoff. So how can you prepare handoff procedures for succeeding contributors? Here are some ways to do it effectively:</p><ul><li>Prepare a checklist of your day-to-day tasks and processes</li><li>Give a report on the latest tasks that were done and what needs to be handed off, as well as current issues and challenges that you face</li><li>Give some ideas on how you think those issues can be resolved</li><li>Link all the necessary resources needed for the task</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/best-practices/best-practice-3-comply-with-handoff-procedures-3faf338d.png\'></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'e7fa800cdcb1408c92abfa4c12ca6fcf',
+        title: 'Best Practice #4: Stay updated with official announcements ',
+        content: '<div class="bloc1"><p>Perhaps the easiest but most important thing to practice is being up-to-date with the organization’s latest news, projects, and processes. More often that not, organizations have their dedicated social media channels to post announcements for the community, while team members have dedicated department channels on Discord and Slack for project updates and handoff. On top of that, each application in the organization’s tech stack also has updates on new features, maintenance, and outages situated in websites and social channels.</p><p>To make sure you are on top of these announcements, you can try to use the following strategies:</p><ul><li>Use a private Discord server for your Community Support team to follow updates from your tech stack’s Support Server announcements</li><li>Turn on email or SMS notifications for form responses</li><li>Use low-code to no-code integration platforms like Zapier or Pipedream to automate updates</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/best-practices/best-practice-4-stay-updated-with-official-announcements--05a1eca8.png\'></div>'
+      },
+      {
+        type: 'QUIZ',
+        notionId: '7193c1ac989e454abedb2df380616ad9',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'What will most likely happen if you didn’t provide sufficient documentation during handoff?',
+          rightAnswerNumber: 4,
+          answers: [
+            'Possible delays in project',
+            'Outputs not aligned with goals',
+            'Frequent clarification needed',
+            'All of the above'
+          ],
+          id: 'best-practices-1'
+        }
+      },
+      {
+        type: 'QUIZ',
+        notionId: '64ae3d8b19d144b6a59f832ed90d7547',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'Where can you find documentation related to your tech stack?',
+          rightAnswerNumber: 1,
+          answers: [
+            'Relevant company websites of web applications',
+            'Wikipedia',
+            'Quota',
+            'None of the above'
+          ],
+          id: 'best-practices-2'
+        }
+      },
+      {
+        type: 'QUIZ',
+        notionId: '8f4c7baef53043099d52874c1c9bae3b',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'Where can you find relevant data in web applications such as demographics and growth rate?',
+          rightAnswerNumber: 2,
+          answers: [
+            'Homepage',
+            'Platform analytics',
+            'Settings',
+            'All of the above'
+          ],
+          id: 'best-practices-3'
+        }
       },
       {
         type: 'END',
@@ -1652,8 +2027,8 @@ const LESSONS: LessonType[] = [
   },
   {
     poapImageLink: '/humanDAO/lesson/financial-literacy-101/poap-ec65bbcc.png',
-    lessonImageLink: '/humanDAO/lesson/financial-literacy-101/lesson-7bcb46a8.jpg',
-    socialImageLink: '/humanDAO/lesson/financial-literacy-101/social-c39ade19.jpg',
+    lessonImageLink: '/humanDAO/lesson/financial-literacy-101/lesson-15929a9b.png',
+    socialImageLink: '/humanDAO/lesson/financial-literacy-101/social-56150830.jpg',
     learningActions: '',
     marketingDescription: 'This module covers the basic concepts of Financial Literacy',
     poapEventId: null,
