@@ -53,7 +53,7 @@ const HomePage = (): JSX.Element => {
                 target="_blank"
                 href="https://superficial-laser-083.notion.site/humanDAO-Academy-FAQs-4628fc82891a48fb9f3bb28a5ea89456"
               >
-                FAQ
+                Support
               </Link>
             </Box>
           </Box>
