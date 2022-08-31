@@ -2,7 +2,7 @@ import { LessonType } from 'entities/lesson'
 
 const LESSONS: LessonType[] = [
   {
-    poapImageLink: '/humanDAO/lesson/what-are-blockchains/poap-75963a31.png',
+    poapImageLink: '/humanDAO/lesson/what-are-blockchains/poap-61fe0bb8.png',
     lessonImageLink: '/humanDAO/lesson/what-are-blockchains/lesson-529b4337.png',
     socialImageLink: '/humanDAO/lesson/what-are-blockchains/social-e05ab14f.jpg',
     learningActions: '',
@@ -99,7 +99,7 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/what-is-bitcoin/poap-db64c7ea.png',
+    poapImageLink: '/humanDAO/lesson/what-is-bitcoin/poap-61fe0bb8.png',
     lessonImageLink: '/humanDAO/lesson/what-is-bitcoin/lesson-13fcef5d.png',
     socialImageLink: '/humanDAO/lesson/what-is-bitcoin/social-146b6849.jpg',
     learningActions: '',
@@ -197,7 +197,7 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/what-is-ethereum/poap-325e1b2c.png',
+    poapImageLink: '/humanDAO/lesson/what-is-ethereum/poap-61fe0bb8.png',
     lessonImageLink: '/humanDAO/lesson/what-is-ethereum/lesson-b37751b6.png',
     socialImageLink: '/humanDAO/lesson/what-is-ethereum/social-0751c448.jpg',
     learningActions: '',
@@ -317,7 +317,7 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/what-is-a-smart-contract/poap-31dbf81d.png',
+    poapImageLink: '/humanDAO/lesson/what-is-a-smart-contract/poap-61fe0bb8.png',
     lessonImageLink: '/humanDAO/lesson/what-is-a-smart-contract/lesson-ffa73234.png',
     socialImageLink: '/humanDAO/lesson/what-is-a-smart-contract/social-9bfbcc08.jpg',
     learningActions: '',
@@ -416,7 +416,7 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/what-is-web3/poap-1cc461eb.png',
+    poapImageLink: '/humanDAO/lesson/what-is-web3/poap-61fe0bb8.png',
     lessonImageLink: '/humanDAO/lesson/what-is-web3/lesson-7e0cdd95.png',
     socialImageLink: '/humanDAO/lesson/what-is-web3/social-8768741e.jpg',
     learningActions: '',
@@ -521,7 +521,7 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/what-is-defi/poap-45137c08.png',
+    poapImageLink: '/humanDAO/lesson/what-is-defi/poap-61fe0bb8.png',
     lessonImageLink: '/humanDAO/lesson/what-is-defi/lesson-60c80eb7.png',
     socialImageLink: '/humanDAO/lesson/what-is-defi/social-7a985095.jpg',
     learningActions: '',
@@ -627,7 +627,7 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/what-are-nfts/poap-b9570c8e.png',
+    poapImageLink: '/humanDAO/lesson/what-are-nfts/poap-61fe0bb8.png',
     lessonImageLink: '/humanDAO/lesson/what-are-nfts/lesson-071d8049.png',
     socialImageLink: '/humanDAO/lesson/what-are-nfts/social-1499502a.jpg',
     learningActions: '',
@@ -724,7 +724,7 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/what-is-a-dao/poap-b4127d43.png',
+    poapImageLink: '/humanDAO/lesson/what-is-a-dao/poap-61fe0bb8.png',
     lessonImageLink: '/humanDAO/lesson/what-is-a-dao/lesson-84701dbe.png',
     socialImageLink: '/humanDAO/lesson/what-is-a-dao/social-3723f477.jpg',
     learningActions: '',
@@ -869,7 +869,7 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/what-is-the-metaverse/poap-b70bc573.png',
+    poapImageLink: '/humanDAO/lesson/what-is-the-metaverse/poap-61fe0bb8.png',
     lessonImageLink: '/humanDAO/lesson/what-is-the-metaverse/lesson-1bbce064.png',
     socialImageLink: '/humanDAO/lesson/what-is-the-metaverse/social-4388d5d3.jpg',
     learningActions: '',
@@ -979,7 +979,7 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/what-is-a-crypto-wallet/poap-8c4f951b.png',
+    poapImageLink: '/humanDAO/lesson/what-is-a-crypto-wallet/poap-4b8f65f6.png',
     lessonImageLink: '/humanDAO/lesson/what-is-a-crypto-wallet/lesson-c8aefa31.png',
     socialImageLink: '/humanDAO/lesson/what-is-a-crypto-wallet/social-463a552f.jpg',
     learningActions: '',
@@ -1213,7 +1213,7 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/humandao-an-introduction/poap-a89ca693.png',
+    poapImageLink: '/humanDAO/lesson/humandao-an-introduction/poap-5d612d04.png',
     lessonImageLink: '/humanDAO/lesson/humandao-an-introduction/lesson-a54951e7.png',
     socialImageLink: '/humanDAO/lesson/humandao-an-introduction/social-32df4f36.jpg',
     learningActions: '',
@@ -1415,7 +1415,7 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/community-support-role/poap-4a232460.png',
+    poapImageLink: '/humanDAO/lesson/community-support-role/poap-1ca8d389.png',
     lessonImageLink: '/humanDAO/lesson/community-support-role/lesson-a059efbc.png',
     socialImageLink: '/humanDAO/lesson/community-support-role/social-77181589.jpg',
     learningActions: '',
@@ -1520,7 +1520,7 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/steps-to-resolution/poap-767a780d.png',
+    poapImageLink: '/humanDAO/lesson/steps-to-resolution/poap-15f7ef56.png',
     lessonImageLink: '/humanDAO/lesson/steps-to-resolution/lesson-a04a3ba1.png',
     socialImageLink: '/humanDAO/lesson/steps-to-resolution/social-9652e14e.jpg',
     learningActions: '',
@@ -1637,16 +1637,16 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/tools-for-moderation-and-collaboration/poap-d01f8a1e.png',
+    poapImageLink: '/humanDAO/lesson/tools-for-moderation-and-collaboration/poap-15f7ef56.png',
     lessonImageLink: '/humanDAO/lesson/tools-for-moderation-and-collaboration/lesson-b85c35cd.png',
     socialImageLink: '/humanDAO/lesson/tools-for-moderation-and-collaboration/social-f42c78c9.jpg',
     learningActions: '',
-    marketingDescription: 'Learn different moderation settings, Discord bots, and',
+    marketingDescription: 'Build an efficient tech stack with online tools',
     poapEventId: null,
     duration: 20,
     learnings: '',
     difficulty: undefined,
-    description: 'Learn different moderation settings, Discord bots, and',
+    description: 'Build an efficient tech stack with online tools',
     name: 'Tools for moderation and collaboration',
     moduleId: '86834c89c79c427a92e6133422ba976c',
     quest: 'humanDAOToolsForModerationAndCollaboration',
@@ -1914,7 +1914,7 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/best-practices/poap-4ef7ed22.png',
+    poapImageLink: '/humanDAO/lesson/best-practices/poap-15f7ef56.png',
     lessonImageLink: '/humanDAO/lesson/best-practices/lesson-60fb665d.png',
     socialImageLink: '/humanDAO/lesson/best-practices/social-e05bd607.jpg',
     learningActions: '',
@@ -2026,7 +2026,7 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/financial-literacy-101/poap-ec65bbcc.png',
+    poapImageLink: '/humanDAO/lesson/financial-literacy-101/poap-66781d87.png',
     lessonImageLink: '/humanDAO/lesson/financial-literacy-101/lesson-15929a9b.png',
     socialImageLink: '/humanDAO/lesson/financial-literacy-101/social-56150830.jpg',
     learningActions: '',

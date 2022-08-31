@@ -4,7 +4,7 @@ const MODULES: ModuleType[] = [
   {
     name: 'Crypto Wallet',
     moduleImageLink: '/humanDAO/module/crypto-wallet-d576733e.png',
-    description: 'This module explains how to setup and use a Crypto Wallet.',
+    description: 'Start your Web3 journey here and learn to setup your digital wallet!',
     slug: 'crypto-wallet',
     moduleId: 'f686aa87be9644788ab424f7e472ed38',
     parentModule: null,
@@ -13,7 +13,7 @@ const MODULES: ModuleType[] = [
   {
     name: 'Crypto 101',
     moduleImageLink: '/humanDAO/module/crypto-101-bd829855.png',
-    description: 'This module covers the basic concepts in Crypto.',
+    description: 'Blockchain, Web3 & Smart contracts - what does it all mean? ',
     slug: 'crypto-101',
     moduleId: '81de713b4f9f4008bbdcb6333400daae',
     parentModule: null,
@@ -43,7 +43,7 @@ const MODULES: ModuleType[] = [
   {
     name: 'humanDAO',
     moduleImageLink: '/humanDAO/module/humandao-7b671f0f.png',
-    description: 'This module takes a deep-dive on humanDAO and the community roles.',
+    description: 'Take a deep-dive into humanDAO, its objectives and the community roles.',
     slug: 'humandao',
     moduleId: 'cd36caed3ea74782a356bd02f28179bc',
     parentModule: null,
@@ -52,7 +52,7 @@ const MODULES: ModuleType[] = [
   {
     name: 'Financial Literacy',
     moduleImageLink: '/humanDAO/module/financial-literacy-a92130de.png',
-    description: 'This module provides a snapshot about the concept of Financial Literacy.',
+    description: 'Learn to manage your financial wellbeing with this intro to responsible finances.',
     slug: 'financial-literacy',
     moduleId: 'eec24eea0e8048c29623a8a2cccd0d33',
     parentModule: null,
@@ -61,7 +61,7 @@ const MODULES: ModuleType[] = [
   {
     name: 'Web3 Opportunities',
     moduleImageLink: '/humanDAO/module/web3-opportunities-6313e6f8.png',
-    description: 'This module explores opportunities in tech and non-tech web3 roles',
+    description: 'Explore career opportunities in the Web3 space.',
     slug: 'web3-opportunities',
     moduleId: '5e498e97002548969806ab63e57d1e20',
     parentModule: null,
@@ -72,7 +72,7 @@ const MODULES: ModuleType[] = [
   {
     name: 'Community Support',
     moduleImageLink: '/humanDAO/module/community-support-98af065b.png',
-    description: 'This module serves as a training ground for a web3 support role',
+    description: 'This module serves as a training ground for a web3 support role.',
     slug: 'community-support',
     moduleId: '86834c89c79c427a92e6133422ba976c',
     parentModule: '5e498e97002548969806ab63e57d1e20',
