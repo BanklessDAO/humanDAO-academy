@@ -1202,6 +1202,12 @@ const LESSONS: LessonType[] = [
       },
       {
         type: 'LEARN',
+        notionId: 'a0bf22c2739d49458e8b51482a6d7b24',
+        title: 'Learn how to get your rewards',
+        content: '<div class="bloc1"><p>Soulbound Tokens (SBTs) are considered as “completion badges” for every module. They are awarded and distributed via the Polygon Network to validate that you have learned this particular topic. Soon, we’ll also be rewarding $HDAO tokens as part of this completion process to help you become a part of humanDAO and start getting involved in your own way.</p><p>Whether you’re a newcomer in humanDAO, a Pocket Assistant, or a Scholar, consider watching this video to learn how to switch chains:</p><p>If you have trouble viewing it, you can consider visiting this Canva presentation: <a href=\'https://bit.ly/hdao-tokens\'>https://bit.ly/hdao-tokens</a></p></div><div class="bloc2"><iframe allowfullscreen src=\'https://www.youtube.com/embed/eRKzP5q8F9Y?feature=oembed&rel=0\'></iframe></div>'
+      },
+      {
+        type: 'LEARN',
         notionId: '4ea64e92aa044d1faf6a85de15aa35b6',
         title: 'Acknowledgment',
         content: '<div class="bloc1"><p>Module Courtesy: <a href=\'https://app.banklessacademy.com\'>Bankless Academy</a></p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/acknowledgment-e4882d39.jpg\'></div>'
@@ -1415,7 +1421,7 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/community-support-role/poap-1ca8d389.png',
+    poapImageLink: '/humanDAO/lesson/community-support-role/poap-28accc42.png',
     lessonImageLink: '/humanDAO/lesson/community-support-role/lesson-a059efbc.png',
     socialImageLink: '/humanDAO/lesson/community-support-role/social-77181589.jpg',
     learningActions: '',
@@ -1520,7 +1526,7 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/steps-to-resolution/poap-15f7ef56.png',
+    poapImageLink: '/humanDAO/lesson/steps-to-resolution/poap-28accc42.png',
     lessonImageLink: '/humanDAO/lesson/steps-to-resolution/lesson-a04a3ba1.png',
     socialImageLink: '/humanDAO/lesson/steps-to-resolution/social-9652e14e.jpg',
     learningActions: '',
@@ -1637,7 +1643,7 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/tools-for-moderation-and-collaboration/poap-15f7ef56.png',
+    poapImageLink: '/humanDAO/lesson/tools-for-moderation-and-collaboration/poap-28accc42.png',
     lessonImageLink: '/humanDAO/lesson/tools-for-moderation-and-collaboration/lesson-b85c35cd.png',
     socialImageLink: '/humanDAO/lesson/tools-for-moderation-and-collaboration/social-f42c78c9.jpg',
     learningActions: '',
@@ -1687,7 +1693,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'f4474c82f39342c9b9f81f9c07c0a15b',
         title: 'Discord: Server settings',
-        content: '<div class="bloc1"><ul><li><strong>Rules Screening </strong>- For servers that have enabled community setting, this is best used when rules and regulations need to be present when a new community member joins the server.</li><li><strong>Safety Setup</strong> - includes verification levels for members who will join a server</li><li><strong>Audit Log</strong> - shows the actions made in the server, with the most recent action on top. It can be filtered by member and type of action.</li><li><strong>Members</strong> - shows the total number of members, which can be filtered by role. A search bar is also available for easier tracking of names.</li><li><strong>Invites </strong>- invite links that are created by members can be viewed here. Discord only has limited number of invite links that can be generated, so it’s best practice to delete unused invite links.</li><li><strong>Bans</strong> - Members included in this list are banned by their account and IP address.</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/tools-for-moderation-and-collaboration/discord-server-settings-ce72dda3.png\'></div>'
+        content: '<div class="bloc1"><ul><li><strong>Rules Screening </strong>- For servers that have enabled community setting, this is best used when rules and regulations need to be present when a new community member joins the server.</li><li><strong>Safety Setup</strong> - includes verification levels for members who will join a server</li> <ul><li>None - no restrictions</li><li>Low - verified email</li><li>Medium - Registered for 5 mins.</li><li>High - Member of the server for 10 mins.</li><li>Highest - Verified email and number</li></ul> <li><strong>Audit Log</strong> - shows the actions made in the server, with the most recent action on top. It can be filtered by member and type of action.</li><li><strong>Members</strong> - shows the total number of members, which can be filtered by role. A search bar is also available for easier tracking of names.</li><li><strong>Invites </strong>- invite links that are created by members can be viewed here. Discord only has limited number of invite links that can be generated, so it’s best practice to delete unused invite links.</li><li><strong>Bans</strong> - Members included in this list are banned by their account and IP address.</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/tools-for-moderation-and-collaboration/discord-server-settings-ce72dda3.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -1914,7 +1920,7 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/best-practices/poap-15f7ef56.png',
+    poapImageLink: '/humanDAO/lesson/best-practices/poap-28accc42.png',
     lessonImageLink: '/humanDAO/lesson/best-practices/lesson-60fb665d.png',
     socialImageLink: '/humanDAO/lesson/best-practices/social-e05bd607.jpg',
     learningActions: '',
@@ -2043,7 +2049,7 @@ const LESSONS: LessonType[] = [
     isFeaturedOnHomepage: true,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
-    endOfLessonText: 'How did you like the module? What more would you like to learn? Put your suggestions in the comments!',
+    endOfLessonText: undefined,
     notionId: '4ea9b2c3e52246269a0573bd051e3b4d',
     slug: 'financial-literacy-101',
     imageLinks: [

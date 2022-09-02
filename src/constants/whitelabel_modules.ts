@@ -25,7 +25,7 @@ const MODULES: ModuleType[] = [
   {
     name: 'What are Blockchains?',
     moduleImageLink: '/humanDAO/module/what-are-blockchains-b2720112.png',
-    description: 'This module explains some of the popular blockchains and how they work.',
+    description: 'Understand the basics of blockchain tech and why it’s innovative',
     slug: 'what-are-blockchains',
     moduleId: '59e5eee1c08541118e7c1db6895fd63d',
     parentModule: '81de713b4f9f4008bbdcb6333400daae',
@@ -34,7 +34,7 @@ const MODULES: ModuleType[] = [
   {
     name: 'What is Web3?',
     moduleImageLink: '/humanDAO/module/what-is-web3-78493fae.png',
-    description: 'This module takes a deep dive into the features of Web3.',
+    description: 'Find out what web3 is and what makes it different',
     slug: 'what-is-web3',
     moduleId: '40959b191fcc4b058e3e8049410013f9',
     parentModule: '81de713b4f9f4008bbdcb6333400daae',
