@@ -19,7 +19,7 @@ const LESSONS: LessonType[] = [
     isFeaturedOnHomepage: true,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
-    endOfLessonText: undefined,
+    endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
     notionId: '32348c8a437f414881d42ca28b84c1d1',
     slug: 'what-are-blockchains',
     imageLinks: [
@@ -116,7 +116,7 @@ const LESSONS: LessonType[] = [
     isFeaturedOnHomepage: true,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
-    endOfLessonText: undefined,
+    endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
     notionId: '89f42b105087450ebe151faaf2bb4f8a',
     slug: 'what-is-bitcoin',
     imageLinks: [
@@ -214,7 +214,7 @@ const LESSONS: LessonType[] = [
     isFeaturedOnHomepage: true,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
-    endOfLessonText: undefined,
+    endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
     notionId: 'ad2ca6dd8a7948b6af4234c75ffa1a76',
     slug: 'what-is-ethereum',
     imageLinks: [
@@ -334,7 +334,7 @@ const LESSONS: LessonType[] = [
     isFeaturedOnHomepage: true,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
-    endOfLessonText: undefined,
+    endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
     notionId: 'a1ed1698f55a43b6aae19e72362deebc',
     slug: 'what-is-a-smart-contract',
     imageLinks: [
@@ -433,7 +433,7 @@ const LESSONS: LessonType[] = [
     isFeaturedOnHomepage: true,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
-    endOfLessonText: undefined,
+    endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
     notionId: '8e47339a233c4be3bcc3fef8e3410a6d',
     slug: 'what-is-web3',
     imageLinks: [
@@ -538,7 +538,7 @@ const LESSONS: LessonType[] = [
     isFeaturedOnHomepage: true,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
-    endOfLessonText: undefined,
+    endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
     notionId: 'c55b77e9f16c48dfbee36861f1002e62',
     slug: 'what-is-defi',
     imageLinks: [
@@ -644,7 +644,7 @@ const LESSONS: LessonType[] = [
     isFeaturedOnHomepage: true,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
-    endOfLessonText: undefined,
+    endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
     notionId: 'cedfb1cc1ceb4f2091b3a1d7196d9b54',
     slug: 'what-are-nfts',
     imageLinks: [
@@ -741,7 +741,7 @@ const LESSONS: LessonType[] = [
     isFeaturedOnHomepage: true,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
-    endOfLessonText: undefined,
+    endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
     notionId: '9621d67b42744b96bc03e839aa7904cf',
     slug: 'what-is-a-dao',
     imageLinks: [
@@ -886,7 +886,7 @@ const LESSONS: LessonType[] = [
     isFeaturedOnHomepage: true,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
-    endOfLessonText: undefined,
+    endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
     notionId: '74052fbd16e7404ab20531dc7a3b1c9a',
     slug: 'what-is-the-metaverse',
     imageLinks: [
@@ -996,7 +996,7 @@ const LESSONS: LessonType[] = [
     isFeaturedOnHomepage: true,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
-    endOfLessonText: undefined,
+    endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
     notionId: '8e45589f9cb54504bcf0a8327b796cc3',
     slug: 'what-is-a-crypto-wallet',
     imageLinks: [
@@ -1236,7 +1236,7 @@ const LESSONS: LessonType[] = [
     isFeaturedOnHomepage: true,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
-    endOfLessonText: undefined,
+    endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
     notionId: '7bac5a1ae55e46b6a9258da0664a1241',
     slug: 'humandao-an-introduction',
     imageLinks: [
@@ -1438,7 +1438,7 @@ const LESSONS: LessonType[] = [
     isFeaturedOnHomepage: false,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
-    endOfLessonText: undefined,
+    endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
     notionId: 'ecdabc1c4c464c11b5f57c9fff40abeb',
     slug: 'community-support-role',
     imageLinks: [
@@ -1543,7 +1543,7 @@ const LESSONS: LessonType[] = [
     isFeaturedOnHomepage: false,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
-    endOfLessonText: undefined,
+    endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
     notionId: 'fc4db377982a4aa084e973c26279f0a6',
     slug: 'steps-to-resolution',
     imageLinks: [
@@ -1660,7 +1660,7 @@ const LESSONS: LessonType[] = [
     isFeaturedOnHomepage: false,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
-    endOfLessonText: undefined,
+    endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
     notionId: 'a9b50baaa3384d6092fc89ed69604f15',
     slug: 'tools-for-moderation-and-collaboration',
     imageLinks: [
@@ -1937,7 +1937,7 @@ const LESSONS: LessonType[] = [
     isFeaturedOnHomepage: false,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
-    endOfLessonText: undefined,
+    endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
     notionId: '6edd2bdfdac34f1692892d51bb9c6b37',
     slug: 'best-practices',
     imageLinks: [
@@ -2049,7 +2049,7 @@ const LESSONS: LessonType[] = [
     isFeaturedOnHomepage: true,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
-    endOfLessonText: undefined,
+    endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
     notionId: '4ea9b2c3e52246269a0573bd051e3b4d',
     slug: 'financial-literacy-101',
     imageLinks: [
