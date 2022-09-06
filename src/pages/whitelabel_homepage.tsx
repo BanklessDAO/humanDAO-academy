@@ -51,7 +51,7 @@ const HomePage = (): JSX.Element => {
               <span hidden={isSmallScreen}>&nbsp;|&nbsp;</span>
               <Link
                 target="_blank"
-                href="https://superficial-laser-083.notion.site/humanDAO-Academy-FAQs-4628fc82891a48fb9f3bb28a5ea89456"
+                href="https://docs.google.com/document/d/1mpnFKea61MXTjB44dEpZ7Mc_4uzwwjSQuBVJ4kwq2kE/edit"
               >
                 Support
               </Link>
