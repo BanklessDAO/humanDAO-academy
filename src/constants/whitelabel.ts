@@ -9,5 +9,8 @@ export const WHITELABEL: WhitelabelType = {
   logo: '/humanDAO/logo-9db9996d.png',
   homepage_background: '/humanDAO/homepage_background-2515387e.png',
   logo_small: '/humanDAO/logo-9db9996d.png',
-  umami_prod: 'a50ccb31-0534-407f-aebe-312bd64b2689'
+  umami_prod: 'a50ccb31-0534-407f-aebe-312bd64b2689',
+  notion_pages: {
+    faq: '256f04cef94f46af8b23a6d9d2ea8d0a',
+  }
 }

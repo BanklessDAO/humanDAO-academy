@@ -1,4 +1,5 @@
 import { Box, Container, Image, Link, useMediaQuery } from '@chakra-ui/react'
+import NextLink from 'next/link'
 import styled from '@emotion/styled'
 
 import Modules from 'components/Modules'
@@ -49,12 +50,7 @@ const HomePage = (): JSX.Element => {
             </Box>
             <Box textAlign="center">
               <span hidden={isSmallScreen}>&nbsp;|&nbsp;</span>
-              <Link
-                target="_blank"
-                href="https://docs.google.com/document/d/1mpnFKea61MXTjB44dEpZ7Mc_4uzwwjSQuBVJ4kwq2kE/edit"
-              >
-                Support
-              </Link>
+              <NextLink href="/faq">Support</NextLink>
             </Box>
           </Box>
         </footer>
