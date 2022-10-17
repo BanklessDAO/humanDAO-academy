@@ -421,7 +421,7 @@ const LESSONS: LessonType[] = [
     socialImageLink: '/humanDAO/lesson/what-is-web3/social-8768741e.jpg',
     learningActions: '',
     marketingDescription: 'An introduction to Web3',
-    kudosId: null,
+    kudosId: 808,
     duration: 10,
     learnings: '',
     difficulty: undefined,
@@ -433,7 +433,7 @@ const LESSONS: LessonType[] = [
     isFeaturedOnHomepage: true,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
-    endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
+    endOfLessonText: undefined,
     notionId: '8e47339a233c4be3bcc3fef8e3410a6d',
     slug: 'what-is-web3',
     imageLinks: [
@@ -516,7 +516,7 @@ const LESSONS: LessonType[] = [
       },
       {
         type: 'END',
-        title: 'End of lesson'
+        title: 'Lesson Reward'
       }
     ]
   },
@@ -526,7 +526,7 @@ const LESSONS: LessonType[] = [
     socialImageLink: '/humanDAO/lesson/what-is-defi/social-7a985095.jpg',
     learningActions: '',
     marketingDescription: 'Understand the basics of Decentralized Finance',
-    kudosId: null,
+    kudosId: 809,
     duration: 10,
     learnings: '',
     difficulty: undefined,
@@ -538,7 +538,7 @@ const LESSONS: LessonType[] = [
     isFeaturedOnHomepage: true,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
-    endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
+    endOfLessonText: undefined,
     notionId: 'c55b77e9f16c48dfbee36861f1002e62',
     slug: 'what-is-defi',
     imageLinks: [
@@ -622,7 +622,7 @@ const LESSONS: LessonType[] = [
       },
       {
         type: 'END',
-        title: 'End of lesson'
+        title: 'Lesson Reward'
       }
     ]
   },
@@ -2032,26 +2032,26 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    kudosImageLink: '/humanDAO/lesson/performance-assessment/kudos-28accc42.png',
-    lessonImageLink: '/humanDAO/lesson/performance-assessment/lesson-141b36b6.png',
-    socialImageLink: '/humanDAO/lesson/performance-assessment/social-45e94598.png',
+    kudosImageLink: '/humanDAO/lesson/final-assessment/kudos-28accc42.png',
+    lessonImageLink: '/humanDAO/lesson/final-assessment/lesson-141b36b6.png',
+    socialImageLink: '/humanDAO/lesson/final-assessment/social-45e94598.png',
     learningActions: '',
-    marketingDescription: 'Take an exam to qualify for the Community Support role',
+    marketingDescription: 'Take an assessment test to qualify for the Community Support role',
     kudosId: null,
     duration: 10,
     learnings: '',
     difficulty: undefined,
-    description: 'Take an exam to qualify for the Community Support role',
-    name: 'Performance Assessment',
+    description: 'Take an assessment test to qualify for the Community Support role',
+    name: 'Final Assessment',
     moduleId: '86834c89c79c427a92e6133422ba976c',
-    quest: 'humanDAOPerformanceAssessment',
+    quest: 'humanDAOFinalAssessment',
     publicationStatus: 'hidden',
     isFeaturedOnHomepage: false,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
     notionId: 'e9cb40d162e746ec9b949166d8fd8178',
-    slug: 'performance-assessment',
+    slug: 'final-assessment',
     imageLinks: [],
     slides: [
       {
