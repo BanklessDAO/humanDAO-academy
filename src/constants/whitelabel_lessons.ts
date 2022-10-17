@@ -2,12 +2,11 @@ import { LessonType } from 'entities/lesson'
 
 const LESSONS: LessonType[] = [
   {
-    poapImageLink: '/humanDAO/lesson/what-are-blockchains/poap-61fe0bb8.png',
+    kudosImageLink: '/humanDAO/lesson/what-are-blockchains/kudos-61fe0bb8.png',
     lessonImageLink: '/humanDAO/lesson/what-are-blockchains/lesson-529b4337.png',
     socialImageLink: '/humanDAO/lesson/what-are-blockchains/social-e05ab14f.jpg',
     learningActions: '',
     marketingDescription: 'Understand the fundamentals of Blockchain Technology',
-    poapEventId: 26971,
     kudosId: null,
     duration: 10,
     learnings: '',
@@ -100,12 +99,11 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/what-is-bitcoin/poap-61fe0bb8.png',
+    kudosImageLink: '/humanDAO/lesson/what-is-bitcoin/kudos-61fe0bb8.png',
     lessonImageLink: '/humanDAO/lesson/what-is-bitcoin/lesson-13fcef5d.png',
     socialImageLink: '/humanDAO/lesson/what-is-bitcoin/social-146b6849.jpg',
     learningActions: '',
     marketingDescription: 'A simple guide to the first cryptocurrency: Bitcoin',
-    poapEventId: null,
     kudosId: null,
     duration: 10,
     learnings: '',
@@ -199,12 +197,11 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/what-is-ethereum/poap-61fe0bb8.png',
+    kudosImageLink: '/humanDAO/lesson/what-is-ethereum/kudos-61fe0bb8.png',
     lessonImageLink: '/humanDAO/lesson/what-is-ethereum/lesson-b37751b6.png',
     socialImageLink: '/humanDAO/lesson/what-is-ethereum/social-0751c448.jpg',
     learningActions: '',
     marketingDescription: 'A brief introduction to the first smart crypto - Ethereum',
-    poapEventId: null,
     kudosId: null,
     duration: 10,
     learnings: '',
@@ -320,12 +317,11 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/what-is-a-smart-contract/poap-61fe0bb8.png',
+    kudosImageLink: '/humanDAO/lesson/what-is-a-smart-contract/kudos-61fe0bb8.png',
     lessonImageLink: '/humanDAO/lesson/what-is-a-smart-contract/lesson-ffa73234.png',
     socialImageLink: '/humanDAO/lesson/what-is-a-smart-contract/social-9bfbcc08.jpg',
     learningActions: '',
     marketingDescription: 'Understand the building block of Web3',
-    poapEventId: null,
     kudosId: null,
     duration: 10,
     learnings: '',
@@ -420,12 +416,11 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/what-is-web3/poap-61fe0bb8.png',
+    kudosImageLink: '/humanDAO/lesson/what-is-web3/kudos-61fe0bb8.png',
     lessonImageLink: '/humanDAO/lesson/what-is-web3/lesson-7e0cdd95.png',
     socialImageLink: '/humanDAO/lesson/what-is-web3/social-8768741e.jpg',
     learningActions: '',
     marketingDescription: 'An introduction to Web3',
-    poapEventId: null,
     kudosId: null,
     duration: 10,
     learnings: '',
@@ -526,12 +521,11 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/what-is-defi/poap-61fe0bb8.png',
+    kudosImageLink: '/humanDAO/lesson/what-is-defi/kudos-61fe0bb8.png',
     lessonImageLink: '/humanDAO/lesson/what-is-defi/lesson-60c80eb7.png',
     socialImageLink: '/humanDAO/lesson/what-is-defi/social-7a985095.jpg',
     learningActions: '',
     marketingDescription: 'Understand the basics of Decentralized Finance',
-    poapEventId: null,
     kudosId: null,
     duration: 10,
     learnings: '',
@@ -633,12 +627,11 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/what-are-nfts/poap-61fe0bb8.png',
+    kudosImageLink: '/humanDAO/lesson/what-are-nfts/kudos-61fe0bb8.png',
     lessonImageLink: '/humanDAO/lesson/what-are-nfts/lesson-071d8049.png',
     socialImageLink: '/humanDAO/lesson/what-are-nfts/social-1499502a.jpg',
     learningActions: '',
     marketingDescription: 'Understand the basics of Non-Fungible Tokens',
-    poapEventId: null,
     kudosId: null,
     duration: 10,
     learnings: '',
@@ -731,12 +724,11 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/what-is-a-dao/poap-61fe0bb8.png',
+    kudosImageLink: '/humanDAO/lesson/what-is-a-dao/kudos-61fe0bb8.png',
     lessonImageLink: '/humanDAO/lesson/what-is-a-dao/lesson-84701dbe.png',
     socialImageLink: '/humanDAO/lesson/what-is-a-dao/social-3723f477.jpg',
     learningActions: '',
     marketingDescription: 'The fundamentals of web3 orgs',
-    poapEventId: null,
     kudosId: null,
     duration: 10,
     learnings: '',
@@ -877,12 +869,11 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/what-is-the-metaverse/poap-61fe0bb8.png',
+    kudosImageLink: '/humanDAO/lesson/what-is-the-metaverse/kudos-61fe0bb8.png',
     lessonImageLink: '/humanDAO/lesson/what-is-the-metaverse/lesson-1bbce064.png',
     socialImageLink: '/humanDAO/lesson/what-is-the-metaverse/social-4388d5d3.jpg',
     learningActions: '',
     marketingDescription: 'A brief journey to the enigmatic Metaverse!',
-    poapEventId: null,
     kudosId: null,
     duration: 10,
     learnings: '',
@@ -988,12 +979,11 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/what-is-a-crypto-wallet/poap-4b8f65f6.png',
+    kudosImageLink: '/humanDAO/lesson/what-is-a-crypto-wallet/kudos-4b8f65f6.png',
     lessonImageLink: '/humanDAO/lesson/what-is-a-crypto-wallet/lesson-c8aefa31.png',
     socialImageLink: '/humanDAO/lesson/what-is-a-crypto-wallet/social-463a552f.jpg',
     learningActions: '',
     marketingDescription: 'Learn how to create and manage a wallet securely.',
-    poapEventId: null,
     kudosId: null,
     duration: 15,
     learnings: '',
@@ -1229,12 +1219,11 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/humandao-an-introduction/poap-5d612d04.png',
+    kudosImageLink: '/humanDAO/lesson/humandao-an-introduction/kudos-5d612d04.png',
     lessonImageLink: '/humanDAO/lesson/humandao-an-introduction/lesson-a54951e7.png',
     socialImageLink: '/humanDAO/lesson/humandao-an-introduction/social-32df4f36.jpg',
     learningActions: '',
     marketingDescription: 'A brief guide to the DAO with a simple mission - Improving Lives Through Crypto',
-    poapEventId: null,
     kudosId: null,
     duration: 10,
     learnings: '',
@@ -1432,12 +1421,11 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/community-support-role/poap-28accc42.png',
-    lessonImageLink: '/humanDAO/lesson/community-support-role/lesson-a059efbc.png',
-    socialImageLink: '/humanDAO/lesson/community-support-role/social-77181589.jpg',
+    kudosImageLink: '/humanDAO/lesson/community-support-role/kudos-28accc42.png',
+    lessonImageLink: '/humanDAO/lesson/community-support-role/lesson-38304f6e.png',
+    socialImageLink: '/humanDAO/lesson/community-support-role/social-1897d15e.png',
     learningActions: '',
     marketingDescription: 'Getting started on the role of Community Support in web3',
-    poapEventId: null,
     kudosId: null,
     duration: 10,
     learnings: '',
@@ -1538,12 +1526,11 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/steps-to-resolution/poap-28accc42.png',
-    lessonImageLink: '/humanDAO/lesson/steps-to-resolution/lesson-a04a3ba1.png',
-    socialImageLink: '/humanDAO/lesson/steps-to-resolution/social-9652e14e.jpg',
+    kudosImageLink: '/humanDAO/lesson/steps-to-resolution/kudos-28accc42.png',
+    lessonImageLink: '/humanDAO/lesson/steps-to-resolution/lesson-7a623b30.png',
+    socialImageLink: '/humanDAO/lesson/steps-to-resolution/social-0e77c7ff.png',
     learningActions: '',
     marketingDescription: 'Confidently handle concerns whenever it arises.',
-    poapEventId: null,
     kudosId: null,
     duration: 15,
     learnings: '',
@@ -1656,12 +1643,11 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/tools-for-moderation-and-collaboration/poap-28accc42.png',
-    lessonImageLink: '/humanDAO/lesson/tools-for-moderation-and-collaboration/lesson-b85c35cd.png',
-    socialImageLink: '/humanDAO/lesson/tools-for-moderation-and-collaboration/social-f42c78c9.jpg',
+    kudosImageLink: '/humanDAO/lesson/tools-for-moderation-and-collaboration/kudos-28accc42.png',
+    lessonImageLink: '/humanDAO/lesson/tools-for-moderation-and-collaboration/lesson-c357073e.png',
+    socialImageLink: '/humanDAO/lesson/tools-for-moderation-and-collaboration/social-62b3ee62.png',
     learningActions: '',
     marketingDescription: 'Build an efficient tech stack with online tools',
-    poapEventId: null,
     kudosId: null,
     duration: 20,
     learnings: '',
@@ -1934,12 +1920,11 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/best-practices/poap-28accc42.png',
-    lessonImageLink: '/humanDAO/lesson/best-practices/lesson-60fb665d.png',
-    socialImageLink: '/humanDAO/lesson/best-practices/social-e05bd607.jpg',
+    kudosImageLink: '/humanDAO/lesson/best-practices/kudos-28accc42.png',
+    lessonImageLink: '/humanDAO/lesson/best-practices/lesson-c93c0689.png',
+    socialImageLink: '/humanDAO/lesson/best-practices/social-365e38ee.png',
     learningActions: '',
     marketingDescription: 'Keep your community engaged with best practices',
-    poapEventId: null,
     kudosId: null,
     duration: 10,
     learnings: '',
@@ -2047,12 +2032,58 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    poapImageLink: '/humanDAO/lesson/financial-literacy-101/poap-66781d87.png',
+    kudosImageLink: '/humanDAO/lesson/performance-assessment/kudos-28accc42.png',
+    lessonImageLink: '/humanDAO/lesson/performance-assessment/lesson-141b36b6.png',
+    socialImageLink: '/humanDAO/lesson/performance-assessment/social-45e94598.png',
+    learningActions: '',
+    marketingDescription: 'Take an exam to qualify for the Community Support role',
+    kudosId: null,
+    duration: 10,
+    learnings: '',
+    difficulty: undefined,
+    description: 'Take an exam to qualify for the Community Support role',
+    name: 'Performance Assessment',
+    moduleId: '86834c89c79c427a92e6133422ba976c',
+    quest: 'humanDAOPerformanceAssessment',
+    publicationStatus: 'hidden',
+    isFeaturedOnHomepage: false,
+    isCommentsEnabled: true,
+    endOfLessonRedirect: null,
+    endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
+    notionId: 'e9cb40d162e746ec9b949166d8fd8178',
+    slug: 'performance-assessment',
+    imageLinks: [],
+    slides: [
+      {
+        type: 'LEARN',
+        notionId: '6da11cf3d68f4b65ac20e421684a71fa',
+        title: 'Introduction',
+        content: '<div class="bloc1"><p>You have now reached the culminating part of the Community Support role module, where you will apply your knowledge by testing online tools such as Discord bots. This means you will undergo a performance assessment that will measure your qualification level for the role.</p><p>Passing the assessment or getting a high score validates your basic knowledge on the general job description of a Community Support role, and how to come up with the best setup for a web3 community.</p><p>If you still need some time before taking the assessment, no worries! You are welcome to join a practice server where you can carry out the commands yourself and set up server permissions.</p><p><strong>How to prepare</strong></p><p>Before we begin with the assessment, you need to make sure that you have:</p><ul><li>a verified Discord account</li><li>an active email address</li><li>completed lessons 1-4 in Community Support module</li></ul><p>You may join the practice server anytime through this link: <a href=\'https://discord.gg/4Hc8pP7g\'>https://discord.gg/4Hc8pP7g</a>.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'b0a5b7c2f44f49e39c99d3dda33f6492',
+        title: 'Exam Structure',
+        content: '<div class="bloc1"><p>The exam has over 25 questions and a time limit of 60 minutes. </p><p>It consists of the following parts:</p><ol><li>Matching type (Parts of server/bot dashboard) - 25 points</li><li>Multiple choice (Situational questions) - 15 points</li><li>Identification (Using the correct commands) - 35 points</li><li>Performance task (Creating roles/channels) - 25 points</li></ol><p>To qualify for the role, you need to reach the 80% passing rate. Otherwise, you will have to go through the exam again at another time. </p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '4a7cc8794492481bbc87a543ddab3690',
+        title: 'Let’s begin',
+        content: '<div class="bloc1"><p>Are you now ready? </p><p>Head over to this assessment link, fill out the required details and type in the code <strong><strong><strong><strong><strong><strong><strong><strong>CSR2022 </strong></strong></strong></strong></strong></strong></strong></strong>to in the password field to access the exam.</p><p>Assessment link: <a href=\'https://www.proprofs.com/quiz-school/ugc/story.php?title=community-support-role-exam\'>https://www.proprofs.com/quiz-school/ugc/story.php?title=community-support-role-exam</a></p></div>'
+      },
+      {
+        type: 'END',
+        title: 'End of lesson'
+      }
+    ]
+  },
+  {
+    kudosImageLink: '/humanDAO/lesson/financial-literacy-101/kudos-66781d87.png',
     lessonImageLink: '/humanDAO/lesson/financial-literacy-101/lesson-15929a9b.png',
     socialImageLink: '/humanDAO/lesson/financial-literacy-101/social-56150830.jpg',
     learningActions: '',
     marketingDescription: 'This module covers the basic concepts of Financial Literacy',
-    poapEventId: null,
     kudosId: null,
     duration: 15,
     learnings: '',
