@@ -45,6 +45,16 @@ const MODULES: ModuleType[] = [
     subModules: []
   },
   {
+    name: 'Web3 Security',
+    moduleImageLink: '/humanDAO/module/web3-security-6d3c767d.png',
+    socialImageLink: '/humanDAO/module/web3-security-social-9cd3151e.png',
+    description: 'Learn how to stay safe from the most common scams in web3.',
+    slug: 'web3-security',
+    moduleId: '63846c1387434ee3bdaf7de766be8f21',
+    parentModule: null,
+    subModules: []
+  },
+  {
     name: 'humanDAO',
     moduleImageLink: '/humanDAO/module/humandao-7b671f0f.png',
     socialImageLink: '/humanDAO/module/humandao-social-0659ea82.jpg',

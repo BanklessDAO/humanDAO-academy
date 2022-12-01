@@ -1,3 +1,4 @@
+/* eslint-disable no-useless-escape */
 import { LessonType } from 'entities/lesson'
 
 const LESSONS: LessonType[] = [
@@ -20,6 +21,7 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
+    mirrorLink: undefined,
     notionId: '32348c8a437f414881d42ca28b84c1d1',
     slug: 'what-are-blockchains',
     imageLinks: [
@@ -117,6 +119,7 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
+    mirrorLink: undefined,
     notionId: '89f42b105087450ebe151faaf2bb4f8a',
     slug: 'what-is-bitcoin',
     imageLinks: [
@@ -215,6 +218,7 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
+    mirrorLink: undefined,
     notionId: 'ad2ca6dd8a7948b6af4234c75ffa1a76',
     slug: 'what-is-ethereum',
     imageLinks: [
@@ -335,6 +339,7 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
+    mirrorLink: undefined,
     notionId: 'a1ed1698f55a43b6aae19e72362deebc',
     slug: 'what-is-a-smart-contract',
     imageLinks: [
@@ -434,6 +439,7 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
+    mirrorLink: undefined,
     notionId: '8e47339a233c4be3bcc3fef8e3410a6d',
     slug: 'what-is-web3',
     imageLinks: [
@@ -539,6 +545,7 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
+    mirrorLink: undefined,
     notionId: 'c55b77e9f16c48dfbee36861f1002e62',
     slug: 'what-is-defi',
     imageLinks: [
@@ -645,6 +652,7 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
+    mirrorLink: undefined,
     notionId: 'cedfb1cc1ceb4f2091b3a1d7196d9b54',
     slug: 'what-are-nfts',
     imageLinks: [
@@ -742,6 +750,7 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
+    mirrorLink: undefined,
     notionId: '9621d67b42744b96bc03e839aa7904cf',
     slug: 'what-is-a-dao',
     imageLinks: [
@@ -887,6 +896,7 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
+    mirrorLink: undefined,
     notionId: '74052fbd16e7404ab20531dc7a3b1c9a',
     slug: 'what-is-the-metaverse',
     imageLinks: [
@@ -997,6 +1007,7 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
+    mirrorLink: undefined,
     notionId: '8e45589f9cb54504bcf0a8327b796cc3',
     slug: 'what-is-a-crypto-wallet',
     imageLinks: [
@@ -1237,6 +1248,7 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
+    mirrorLink: undefined,
     notionId: '7bac5a1ae55e46b6a9258da0664a1241',
     slug: 'humandao-an-introduction',
     imageLinks: [
@@ -1406,7 +1418,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'b72f909d1835420f87c07b5dafcee42a',
         title: 'Current humanDAO opportunities',
-        content: '<div class="bloc1"><p>humanDAO aims to become the epicentre of web3 recruitment & provision for global communities. A lofty goal, that needs to be strategically executed step by step. With the DAO finding its roots within P2E games and providing scholarships to over 1000 people, this is the sturdy foundation it has been built upon. With expansions now into services fulfilled via NFTs, it enables the DAO to be more flexible with their approach for web3 recruitment and can aim to onboard non-crypto native community members. </p><p>Alongside this, With the release of the humanDAO Academy, HDAO is working towards an industry-leading platform that will reward participants will on-chain credentials. </p><p>Check these channels/links if you want to: </p><ul><li>Apply for p2e scholarship (<a href=\'https://discord.gg/fzVQYWAQ\'>#get-scholarship</a>)</li><li>Apply for Pocket Assistant (<a href=\'https://pa.humandao.org\'>https://pa.humandao.org</a>)</li><li>Become a builder (<a href=\'https://discord.gg/A3rJQ7AR\'>#builder-interest</a>)</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/humandao-an-introduction/current-humandao-opportunities-c79d0622.png\'></div>'
+        content: '<div class="bloc1"><p>humanDAO aims to become the epicentre of web3 recruitment & provision for global communities. A lofty goal, that needs to be strategically executed step by step. With the DAO finding its roots within P2E games and providing scholarships to over 1000 people, this is the sturdy foundation it has been built upon. With expansions now into services fulfilled via NFTs, it enables the DAO to be more flexible with their approach for web3 recruitment and can aim to onboard non-crypto native community members. </p><p>Alongside this, With the release of the humanDAO Academy, HDAO is working towards an industry-leading platform that will reward participants will on-chain credentials. </p><p>Check these channels/links if you want to: </p><ul><li>Apply for p2e scholarship (<a href=\'https://discord.gg/fzVQYWAQ\'>#get-scholarship</a>)</li><li>Apply for Pocket Assistant (<a href=\'https://assistant.humandao.org/\'>https://assistant.humandao.org</a>)</li><li>Become a builder (<a href=\'https://discord.gg/A3rJQ7AR\'>#builder-interest</a>)</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/humandao-an-introduction/current-humandao-opportunities-c79d0622.png\'></div>'
       },
       {
         type: 'LEARN',
@@ -1439,6 +1451,7 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
+    mirrorLink: undefined,
     notionId: 'ecdabc1c4c464c11b5f57c9fff40abeb',
     slug: 'community-support-role',
     imageLinks: [
@@ -1544,6 +1557,7 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
+    mirrorLink: undefined,
     notionId: 'fc4db377982a4aa084e973c26279f0a6',
     slug: 'steps-to-resolution',
     imageLinks: [
@@ -1661,6 +1675,7 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
+    mirrorLink: undefined,
     notionId: 'a9b50baaa3384d6092fc89ed69604f15',
     slug: 'tools-for-moderation-and-collaboration',
     imageLinks: [
@@ -1938,6 +1953,7 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
+    mirrorLink: undefined,
     notionId: '6edd2bdfdac34f1692892d51bb9c6b37',
     slug: 'best-practices',
     imageLinks: [
@@ -2032,45 +2048,54 @@ const LESSONS: LessonType[] = [
     ]
   },
   {
-    kudosImageLink: '/humanDAO/lesson/performance-assessment/kudos-28accc42.png',
-    lessonImageLink: '/humanDAO/lesson/performance-assessment/lesson-141b36b6.png',
-    socialImageLink: '/humanDAO/lesson/performance-assessment/social-45e94598.png',
+    kudosImageLink: '/humanDAO/lesson/final-assessment/kudos-28accc42.png',
+    lessonImageLink: '/humanDAO/lesson/final-assessment/lesson-9110877b.png',
+    socialImageLink: '/humanDAO/lesson/final-assessment/social-dc2b9fec.png',
     learningActions: '',
-    marketingDescription: 'Take an exam to qualify for the Community Support role',
+    marketingDescription: 'Take an assessment test to qualify for the Community Support role',
     kudosId: null,
     duration: 10,
     learnings: '',
     difficulty: undefined,
-    description: 'Take an exam to qualify for the Community Support role',
-    name: 'Performance Assessment',
+    description: 'Take an assessment test to qualify for the Community Support role',
+    name: 'Final Assessment',
     moduleId: '86834c89c79c427a92e6133422ba976c',
-    quest: 'humanDAOPerformanceAssessment',
+    quest: 'humanDAOFinalAssessment',
     publicationStatus: 'hidden',
     isFeaturedOnHomepage: false,
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
+    mirrorLink: undefined,
     notionId: 'e9cb40d162e746ec9b949166d8fd8178',
-    slug: 'performance-assessment',
-    imageLinks: [],
+    slug: 'final-assessment',
+    imageLinks: [
+      '/humanDAO/lesson/final-assessment/safety-tips-92bca8ea.gif'
+    ],
     slides: [
       {
         type: 'LEARN',
         notionId: '6da11cf3d68f4b65ac20e421684a71fa',
         title: 'Introduction',
-        content: '<div class="bloc1"><p>You have now reached the culminating part of the Community Support role module, where you will apply your knowledge by testing online tools such as Discord bots. This means you will undergo a performance assessment that will measure your qualification level for the role.</p><p>Passing the assessment or getting a high score validates your basic knowledge on the general job description of a Community Support role, and how to come up with the best setup for a web3 community.</p><p>If you still need some time before taking the assessment, no worries! You are welcome to join a practice server where you can carry out the commands yourself and set up server permissions.</p><p><strong>How to prepare</strong></p><p>Before we begin with the assessment, you need to make sure that you have:</p><ul><li>a verified Discord account</li><li>an active email address</li><li>completed lessons 1-4 in Community Support module</li></ul><p>You may join the practice server anytime through this link: <a href=\'https://discord.gg/4Hc8pP7g\'>https://discord.gg/4Hc8pP7g</a>.</p></div>'
+        content: '<div class="bloc1"><p>You have now reached the culminating part of the Community Support role module, where you will apply your knowledge by testing online tools such as Discord bots. This means you will undergo a performance assessment that will measure your qualification level for the role.</p><p>Passing the assessment or getting a high score validates your basic knowledge on the general job description of a Community Support role, and how to come up with the best setup for a web3 community.</p><p>If you still need some time before taking the assessment, no worries! You are welcome to join a practice server where you can carry out the commands yourself and set up server permissions.</p><p><strong>How to prepare</strong></p><p>Before we begin with the assessment, you need to make sure that you have:</p><ul><li>a verified Discord account</li><li>an active email address</li><li>completed lessons 1-4 in Community Support module</li></ul><p>You may join the practice server anytime through this link: <a href=\'https://discord.gg/D4Tpg8uDuq\'>https://discord.gg/D4Tpg8uDuq</a>.</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '0afc0d4375454ef69185b9503e2be66a',
+        title: 'Safety Tips',
+        content: '<div class="bloc1"><p>When you join the practice server, you will be granted an administrator role that lets you add in bots that you want to try out. This means you have the permission to manage the server and make changes to members, channels, and other server settings anytime. </p><p>Follow these steps when you want to add or invite a bot into a server:</p><ol><li>Search the bot’s official website</li><li>Read the documentation and add or invite the bot into the server</li><li>Confirm permissions and authorize bot access </li><li>Check if the bot has a verified checkmark once it lands in the server before using commands</li></ol></div><div class="bloc2"><img src=\'/humanDAO/lesson/final-assessment/safety-tips-92bca8ea.gif\'></div>'
       },
       {
         type: 'LEARN',
         notionId: 'b0a5b7c2f44f49e39c99d3dda33f6492',
         title: 'Exam Structure',
-        content: '<div class="bloc1"><p>The exam has over 25 questions and a time limit of 60 minutes. </p><p>It consists of the following parts:</p><ol><li>Matching type (Parts of server/bot dashboard) - 25 points</li><li>Multiple choice (Situational questions) - 15 points</li><li>Identification (Using the correct commands) - 35 points</li><li>Performance task (Creating roles/channels) - 25 points</li></ol><p>To qualify for the role, you need to reach the 80% passing rate. Otherwise, you will have to go through the exam again at another time. </p></div>'
+        content: '<div class="bloc1"><p>The exam has over 22 questions and a time limit of 60 minutes. </p><p>It consists of the following parts:</p><ol><li>Matching type (Parts of server/bot dashboard) - 25 points</li><li>Multiple choice (Situational questions) - 15 points</li><li>Identification (Using the correct commands) - 20 points</li><li>Performance task (Creating roles/channels) - 40 points</li></ol><p>To qualify for the role, you need to reach the 80% passing rate. Otherwise, you will have to go through the exam again at another time. </p></div>'
       },
       {
         type: 'LEARN',
         notionId: '4a7cc8794492481bbc87a543ddab3690',
         title: 'Let’s begin',
-        content: '<div class="bloc1"><p>Are you now ready? </p><p>Head over to this assessment link, fill out the required details and type in the code <strong><strong><strong><strong><strong><strong><strong><strong>CSR2022 </strong></strong></strong></strong></strong></strong></strong></strong>to in the password field to access the exam.</p><p>Assessment link: <a href=\'https://www.proprofs.com/quiz-school/ugc/story.php?title=community-support-role-exam\'>https://www.proprofs.com/quiz-school/ugc/story.php?title=community-support-role-exam</a></p></div>'
+        content: '<div class="bloc1"><p>Are you now ready? </p><p>Head over to this assessment link, fill out the required details and type in the code <strong><strong><strong><strong><strong><strong><strong><strong>CSR2022 </strong></strong></strong></strong></strong></strong></strong></strong>to in the password field to access the exam.</p><p>Assessment link: <a href=\'http://quilgo.com/t/XqObbvr2Poz6PVmJ\'>quilgo.com/t/XqObbvr2Poz6PVmJ</a></p></div>'
       },
       {
         type: 'END',
@@ -2097,6 +2122,7 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
+    mirrorLink: undefined,
     notionId: '4ea9b2c3e52246269a0573bd051e3b4d',
     slug: 'financial-literacy-101',
     imageLinks: [
@@ -2231,6 +2257,257 @@ const LESSONS: LessonType[] = [
           ],
           id: 'financial-literacy-101-3'
         }
+      },
+      {
+        type: 'END',
+        title: 'End of lesson'
+      }
+    ]
+  },
+  {
+    kudosImageLink: null,
+    lessonImageLink: '/humanDAO/lesson/web3-security/lesson-bf68a43a.png',
+    socialImageLink: '/humanDAO/lesson/web3-security/social-3a5d3cdd.png',
+    learningActions: '',
+    marketingDescription: 'Learn how to stay safe from the most common scams in web3.',
+    kudosId: null,
+    duration: 10,
+    learnings: '',
+    difficulty: undefined,
+    description: 'Learn how to stay safe from the most common scams in web3.',
+    name: 'Web3 Security',
+    moduleId: '63846c1387434ee3bdaf7de766be8f21',
+    quest: 'humanDAOWeb3Security',
+    publicationStatus: 'publish',
+    isFeaturedOnHomepage: false,
+    isCommentsEnabled: true,
+    endOfLessonRedirect: null,
+    endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
+    mirrorLink: undefined,
+    notionId: '7ffcb6fa2a8548f8aecaff7820db4395',
+    slug: 'web3-security',
+    imageLinks: [
+      '/humanDAO/lesson/web3-security/money-in-web2-190f87c1.svg',
+      '/humanDAO/lesson/web3-security/money-in-web3-7f60128d.svg',
+      '/humanDAO/lesson/web3-security/two-factor-authentication-2fa-c92d43f1.svg',
+      '/humanDAO/lesson/web3-security/social-engineering-scams-a0aac42d.svg',
+      '/humanDAO/lesson/web3-security/social-media-red-flags-d76d77e4.svg',
+      '/humanDAO/lesson/web3-security/social-media-practices-for-staying-safe-650243ce.svg',
+      '/humanDAO/lesson/web3-security/scam-tokens-3f8ceef4.svg',
+      '/humanDAO/lesson/web3-security/hardware-wallets-7ee34f67.svg',
+      '/humanDAO/lesson/web3-security/wallet-strategies-b78918e6.svg',
+      '/humanDAO/lesson/web3-security/acknowledgment-48935d4a.jpg'
+    ],
+    slides: [
+      {
+        type: 'LEARN',
+        notionId: '99dd8d1bcc2b4185b1f019f646de7f88',
+        title: '<strong>Introduction</strong>',
+        content: '<div class="bloc1"><p>Digital ownership is the new feature of web3. Using blockchains, cryptocurrencies, and NFTs, web3 gives ownership and power back to users. Like many new industries, it opens doors to scammers. These scams work so well because most people aren’t aware of how they work.</p><p>But, it\'s not just web3 that suffers from scams, web2 services like email and social media are full of scams as well. In addition, many web3 tools are still tied to web2 services like bank accounts or centralized exchanges so protecting those are important too.</p><p>This lesson will cover:</p><ul><li>Web2 & web3 security.</li><li>Common scams and how to protect yourself</li><li>General wallet security strategy.</li><li>Recovering after being scammed</li></ul></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '7a832026438a4829b81970e96bc7964f',
+        title: 'Money in Web2',
+        content: '<div class="bloc1"><p>In web2, the institutions (e.g banks or CEX’s like Binance) hold money on behalf of people. A user must provide a login ID and a password to access their identity to an institution in order to access and use their money.</p><p>For a scammer to gain access to your money, they need this ID + password combination. Because the institutions are charged with protecting your money, fraudulent transactions can be reversed - like a credit card transaction dispute.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/money-in-web2-190f87c1.svg\'></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '06346a5846eb4bcc9258a6c440f22174',
+        title: '<strong>Money in Web3</strong>',
+        content: '<div class="bloc1"><p>In web3, money works differently. It’s more like a locked cash wallet; once money is spent, it’s gone. Private keys control access to the wallet, so if a scammer is successful in stealing these they can steal from your wallet.</p><p>It’s very important to protect seed phrases; people should never give their seed phrase to anyone. Nor, should they enter seed phrases digitally as files on your computer can all get compromised.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/money-in-web3-7f60128d.svg\'></div>'
+      },
+      {
+        type: 'QUIZ',
+        notionId: '79ac7b5291d34c249ca3ee062afec920',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'Unlike in web2, in web3, scammers only need the seed phrase to steal everything in a wallet, including tokens and NFTs.',
+          rightAnswerNumber: 1,
+          answers: [
+            'True',
+            'False'
+          ],
+          id: 'web3-security-1'
+        }
+      },
+      {
+        type: 'LEARN',
+        notionId: '52a3355d20b649e8b2e8f74fa4aae8a1',
+        title: 'Secure Seed Storage',
+        content: '<div class="bloc1"><p>It’s a good idea to save your seed phrase on laminated paper in a safe at home. Do not store a seed phrase as a photo or other digital methods - even in a password manager.</p><p>Bad places to store seed phrases include:</p><ul><li>In a filing cabinet</li><li>Digital notes application</li><li>At your workplace</li><li>Digital photo</li></ul><p>Wherever you store your seed phrase, you should ensure that only you have access to it and that it is protected from loss and destruction. You never know what might happen in the future!</p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '86ec764c8c7e41c799fda325e0f7e132',
+        title: 'Protect Your Passwords',
+        content: '<div class="bloc1"><p>Healthy password usage and management is an important piece of everyday internet exploration.</p><p>Using different passwords across web2 services is recommended, as it can be problematic if a password is compromised and can access all your accounts!</p><p>Password manager applications like 1password, LastPass, and BitWarden securely store and encrypt multiple passwords; they can even generate new high-security passwords and store them automatically. The user just has to remember a single master password.</p><p>Do not store a web3 seed phrase in a password manager; it takes just one password breach to obtain all of your web3 assets and there is no one to recover your assets for you.</p></div>'
+      },
+      {
+        type: 'QUIZ',
+        notionId: '3604024a9d6d496286dfd05b5e912b13',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'Why are password managers helpful?',
+          rightAnswerNumber: 4,
+          answers: [
+            'People only have to remember their master password to use them.',
+            'They generate and store strong, unique passwords.',
+            'They encrypt passwords to keep them secure.',
+            'All of the above'
+          ],
+          id: 'web3-security-2'
+        }
+      },
+      {
+        type: 'LEARN',
+        notionId: '211bc1a2abf24e5c9ef0c26bed67638a',
+        title: 'Two-Factor Authentication (2FA)',
+        content: '<div class="bloc1"><p>Two Factor Authentication, also known as 2FA, is a secondary layer of web2 security.</p><p>Many people have had their web2 accounts hacked, or have had their money and credentials stolen despite having strong passwords. Web2 websites (and even password managers) often use a second layer of security 2FA as well. 2FA generates single-use codes sent to another device (usually mobile), in addition to the normal password, to enable website log-in.</p><p>Authentication applications like Authy very secure 2FA solutions.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/two-factor-authentication-2fa-c92d43f1.svg\'></div>'
+      },
+      {
+        type: 'QUIZ',
+        notionId: '32b326097c174855ad3b209340a41814',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'Why is two-factor authentication strongly recommended?',
+          rightAnswerNumber: 2,
+          answers: [
+            'It’s impossible to hack the account when the user has 2FA enabled.',
+            'It adds another layer of security to web2 accounts.',
+            'It makes passwords stronger.',
+            'All of the above.'
+          ],
+          id: 'web3-security-3'
+        }
+      },
+      {
+        type: 'LEARN',
+        notionId: 'eceb3a4403024bdda9172d628d2ca9d8',
+        title: '<strong>Social Engineering Scams</strong>',
+        content: '<div class="bloc1"><p>In both web2 and web3, scammers use phishing tactics to trick people into giving up their passwords and seed phrases. Often they’ll pretend to be product support staff offering help, “Hello this is Metamask support”, or pretend to be an admin of a community, “New NFT mint, exclusive for our community”.</p><p>They use social engineering to pressure people. Examples include:</p><ul><li>“Time is running out!” - making you feel rushed.</li><li>“Congratulations you won our giveaway!” - making things feel exclusive.</li><li>”Get early access to our pre-mint!” - generating FOMO in the person being scammed.</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/social-engineering-scams-a0aac42d.svg\'></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '0441ed8540ee4693b9f81520e574ab6f',
+        title: 'Fear of Missing Out (FOMO)',
+        content: '<div class="bloc1"><p>FOMO stands for the ‘Fear Of Missing Out’, it’s the stressful feeling that you’re not going to get a great benefit or opportunity unless you do something right now.</p><p>The best defense against FOMO is to simply take a step back from your computer and take a break. People don’t think clearly when they’re stressed, that’s why FOMO is such an effective scamming tool. By stepping away from the situation, it becomes much easier to spot the scams for what they are.</p></div>'
+      },
+      {
+        type: 'QUIZ',
+        notionId: 'ebdccabd1a4545959318c84baeb56f35',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'How do scammers use social engineering?',
+          rightAnswerNumber: 4,
+          answers: [
+            'Pretending to be an authority in a community.',
+            'Pressuring people with short amounts of time.',
+            'Offering giveaways of free NFTs to generate FOMO.',
+            'All of the above'
+          ],
+          id: 'web3-security-4'
+        }
+      },
+      {
+        type: 'LEARN',
+        notionId: '494110ae7afd4eeaa449c50319ae7cea',
+        title: 'Social Media Safety',
+        content: '<div class="bloc1"><p>Scammers love to engage with users in social media environments like Twitter and the Discord servers of cryptocurrency projects. They will typically try to move to or even start conversations via direct messaging to avoid being spotted by experienced community members. It’s generally safer to talk in public areas, until you’ve gained more experience in crypto-culture.</p><p>However, no matter where you are talking to others, you should never give your seed phrase to anyone for any reason. <strong>If anyone asks for your seed phrase or private key, they are a scammer. It’s that simple.</strong></p></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '11456c472677443dab1732633d78a844',
+        title: 'Social media red flags',
+        content: '<div class="bloc1"><p>🚩 Language and grammar errors: They’re/their/there, etc.<br>🚩 FOMO: “Don’t miss out!”<br>🚩 Impersonation: an admin, support desk, Vitalik Buterin, Elon Musk, etc.<br>🚩 Guaranteed returns: Nothing is guaranteed in crypto.<br>🚩 Unrequested links and offers, especially in direct messages.<br>Media Safety</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/social-media-red-flags-d76d77e4.svg\'></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'bf9b23b4c57d428daac2fface0ff3b02',
+        title: '<strong>Social Media Practices for staying safe:</strong>',
+        content: '<div class="bloc1"><p>✅ If they have to direct message you to sell their product, you probably don’t want it.<br>✅ Check the project follower and member count - though these do not guarantee project legitimacy, quality, or stability.<br>✅ Verify everything with an outside source, like another official project account.<br>✅ If you’re ever uncertain, check with reputable members from a community you trust - and ask in public.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/social-media-practices-for-staying-safe-650243ce.svg\'></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: '75750623a6a545b8b221d751412edbbb',
+        title: 'Scam tokens',
+        content: '<div class="bloc1"><p>Besides social engineering, the second most common web3 attack is having scam-tokens sent to your web3 wallet. Scam-tokens are crypto tokens that scammers transfer to many wallets at once, in the hopes that someone will try to move or sell the tokens and trigger the malicious code hiding in the token’s smart contract.</p><p>Malicious contracts often require people to spend far more on a transaction than is necessary in order to sell these scam-tokens, and others can completely drain wallets; these scam-tokens could even be NFTs! If the problem isn’t with the smart contract itself, scam-tokens will often lure victims back to phishing websites where scammers try to trick victims into entering their seed phrase or other credentials.</p><p>The best thing to do when you receive random tokens is to not interact with them at all; leave them in your wallet and never transfer/sell them.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/scam-tokens-3f8ceef4.svg\'></div>'
+      },
+      {
+        type: 'QUIZ',
+        notionId: '63221bd1bdd94d35a0685f2f65cd9ebf',
+        title: 'Knowledge Check',
+        quiz: {
+          question: '',
+          rightAnswerNumber: 4,
+          answers: [
+            'They could steal all of your ETH.',
+            'They could steal other tokens in your wallet.',
+            'They could lead to a phishing website where a scammer will try to get your seed phrase.',
+            'All of the above'
+          ],
+          id: 'web3-security-5'
+        }
+      },
+      {
+        type: 'LEARN',
+        notionId: '26d60fa1b6184aa59d989dfbe7756080',
+        title: 'Hardware Wallets',
+        content: '<div class="bloc1"><p>If you remember from our <a href=\'https://app.banklessacademy.com/lessons/wallet-basics\'>Wallet Basics</a> lesson, a hardware wallet is only connected to the internet when you physically connect it to a computer or device that is connected to the internet. This makes your funds much safer as someone would have to physically steal your device and hack into it in order to find your seed phrase.</p><p>It is even possible to use your hardware wallet through many browser extension wallets, like MetaMask. By using this setup, you receive the convenience of a single wallet interface with the security of using a hardware wallet.</p><p>Ledger has <a href=\'https://www.ledger.com/academy/security/the-safest-way-to-use-metamask\'>written their own guide</a> on how to setup MetaMask for use with their hardware wallet device.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/hardware-wallets-7ee34f67.svg\'></div>'
+      },
+      {
+        type: 'QUIZ',
+        notionId: '96621894eead446692213d374b37d2af',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'Is a hardware wallet more secure than a hot wallet?',
+          rightAnswerNumber: 1,
+          answers: [
+            'Yes',
+            'No'
+          ],
+          id: 'web3-security-6'
+        }
+      },
+      {
+        type: 'LEARN',
+        notionId: 'af7a07e4d5974d3fb3af071a79cb6acc',
+        title: 'Wallet Strategies',
+        content: '<div class="bloc1"><p>After adding a hardware wallet to your setup, one of the best ways to secure your funds is to keep them spread between multiple wallets. Here is a strategy using three separate wallets:</p><ol><li>Social Wallet: A wallet that serves as your web3 identity for logins — like for the <a href=\'https://app.banklessacademy.com/lessons/academy-community\'>Bankless Academy community</a> or web3 social media — use a hardware wallet for extra security.</li><li>Trading Wallet: A hot wallet for trading and other activities involving funds that may need to be moved on short notice.</li><li>HODL Wallet: A hardware wallet for the long-term HODL — these are funds intended to hold for a long time. It’s recommended to not use this wallet for interacting with smart contracts.</li></ol><p>👍 PROs: Separation ensures that scams only threaten funds in that particular wallet rather than everything.</p><p>👎 CONs: It’s more complicated to keep track of, but many wallet applications allow you to name your wallets.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/wallet-strategies-b78918e6.svg\'></div>'
+      },
+      {
+        type: 'QUIZ',
+        notionId: '77d7def3e736419b8eb7993b5449ce92',
+        title: 'Knowledge Check',
+        quiz: {
+          question: 'We recommend keeping your funds ______________________ for higher security.',
+          rightAnswerNumber: 3,
+          answers: [
+            'stored in multiple airdrops',
+            'locked in multiple NFTs',
+            'separated in multiple wallets',
+            'liquid in multiple addresses'
+          ],
+          id: 'web3-security-7'
+        }
+      },
+      {
+        type: 'LEARN',
+        notionId: '7ab10f2ed4d04a3d814ed47df6b9191e',
+        title: 'Recovering from Web2 Scams',
+        content: '<div class="bloc1"><p>Hopefully you have not already fallen victim to a scammer. If you have, there are some steps you should take to secure your accounts once more.</p><p>For a scam involving a web2 service, like Gmail or Discord, you should:</p><ul><li>Change your password on the affected account.</li><li>Where it’s available, use the “sign out everywhere else” button to kick the scammers off your account.</li><li>Enable 2FA with an authenticator app.</li><li>Report the scam to the service involved.</li><li>Ensure your email account is also secure.</li><li>Discuss the scam with friends or trusted community members.</li></ul></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'b314d3a3d75f4d00aca68bd767c33991',
+        title: 'Recovering from Web3 scams',
+        content: '<div class="bloc1"><p>Contracts must be given explicit permission to spend tokens on Ethereum. The token allowance is how much of that token you’ve given permission to be spent by a specific contract. Keeping allowances low reduces the risk to your assets by a potentially malicious application or hacker.</p><p>Web3 doesn’t have anyone in charge of protocols to report scammers to, but you can still take action:</p><ul><li>Immediately move any funds still in the compromised wallet to a different wallet address, make sure the new address has a different seed phrase.</li><li>Review and revoke the token allowances you have given on your wallet with tools like <a href=\'https://etherscan.io/tokenapprovalchecker\'>etherscan.io/tokenapprovalchecker</a>. Note that revoking allowances will cost gas. OpenSea has a <a href=\'https://support.opensea.io/hc/en-us/articles/4416083190291-How-can-I-revoke-token-allowance-permissions-\'>support article</a> walkthrough.</li><li>Use a hardware wallet in the future.</li><li>Warn others by reporting the scam to the affected community.</li><li>Discuss the scam process with friends or trusted community members to see how you can protect yourself and others in the future.</li></ul></div>'
+      },
+      {
+        type: 'LEARN',
+        notionId: 'e81d1a53fe894fccba09d3b9ba4881a6',
+        title: 'Acknowledgment',
+        content: '<div class="bloc1"><p>Module Courtesy: <a href=\'https://app.banklessacademy.com\'>Bankless Academy</a></p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/acknowledgment-48935d4a.jpg\'></div>'
       },
       {
         type: 'END',
