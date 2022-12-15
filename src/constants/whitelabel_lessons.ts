@@ -21,7 +21,6 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
-    mirrorLink: undefined,
     notionId: '32348c8a437f414881d42ca28b84c1d1',
     slug: 'what-are-blockchains',
     imageLinks: [
@@ -34,7 +33,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '70d664a8b0e143ec8a83fff88cba9e24',
         title: 'What is a blockchain?',
-        content: '<div class="bloc1"><p>A blockchain is a public ledger that contains records of transactions.</p><p>Previously, to verify every transaction, we needed a third party.</p><p>With <span class="tooltip" definition="A shared, unchangeable database, or ledger, of recorded transactions.">blockchain</span>, a third party (like a bank or the government) is not required.</p><p>The transactional history that is stored on a blockchain can be viewed with block explorers such as Etherscan or Polygonscan</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-are-blockchains/what-is-a-blockchain-533d931e.png\'></div>'
+        content: '<div class="bloc1"><p>A blockchain is a public ledger that contains records of transactions.</p><p>Previously, to verify every transaction, we needed a third party.</p><p>With <code>blockchain</code>, a third party (like a bank or the government) is not required.</p><p>The transactional history that is stored on a blockchain can be viewed with block explorers such as Etherscan or Polygonscan</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-are-blockchains/what-is-a-blockchain-533d931e.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -54,7 +53,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'ef0c6240bcaa4a65a2da546bd8e8749e',
         title: 'What makes blockchain different?',
-        content: '<div class="bloc1"><p>In a <span class="tooltip" definition="A shared, unchangeable database, or ledger, of recorded transactions.">blockchain</span>, everyone has access to the same data, so no singular party can change or tamper with the data without others knowing about it.</p><p>Data contained in a blockchain is therefore secure, transparent, and trustworthy.</p><p>Once a transaction is recorded on a blockchain, it can never be removed. This, in part, is what makes blockchain tech so desirable. This allows items of value, such as land records, patents, copyrights, and intellectual properties, to be stored on the blockchain forever.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-are-blockchains/what-makes-blockchain-different-822795b3.png\'></div>'
+        content: '<div class="bloc1"><p>In a <code>blockchain</code>, everyone has access to the same data, so no singular party can change or tamper with the data without others knowing about it.</p><p>Data contained in a blockchain is therefore secure, transparent, and trustworthy.</p><p>Once a transaction is recorded on a blockchain, it can never be removed. This, in part, is what makes blockchain tech so desirable. This allows items of value, such as land records, patents, copyrights, and intellectual properties, to be stored on the blockchain forever.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-are-blockchains/what-makes-blockchain-different-822795b3.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -76,7 +75,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '29174e68973b434abaf6acc931745dfa',
         title: 'How is a Blockchain structured?',
-        content: '<div class="bloc1"><p>In a blockchain, every recorded transaction is stored in a block. A block tells us when the data was recorded.</p><p>Each block is linked to another block, forming a chain.</p><p>This is why, the complete set is called a “Blockchain” - a chain, made up of blocks of information.</p><p>Some popular blockchain applications are cryptocurrencies like Bitcoin and Ether, which are considered fungible assets. This means, that like a dollar bill, if you swapped one for another, you will still own something of the same value. This is in contrast to non-fungible tokens (NFTs).</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-are-blockchains/how-is-a-blockchain-structured-79be4ff4.png\'></div>'
+        content: '<div class="bloc1"><p>In a blockchain, every recorded <code>transaction</code> is stored in a block. A block tells us when the data was recorded.</p><p>Each block is linked to another block, forming a chain.</p><p>This is why, the complete set is called a “Blockchain” - a chain, made up of blocks of information.</p><p>Some popular blockchain applications are cryptocurrencies like Bitcoin and Ether, which are considered fungible assets. This means, that like a dollar bill, if you swapped one for another, you will still own something of the same value. This is in contrast to non-fungible tokens (NFTs).</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-are-blockchains/how-is-a-blockchain-structured-79be4ff4.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -119,7 +118,6 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
-    mirrorLink: undefined,
     notionId: '89f42b105087450ebe151faaf2bb4f8a',
     slug: 'what-is-bitcoin',
     imageLinks: [
@@ -218,7 +216,6 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
-    mirrorLink: undefined,
     notionId: 'ad2ca6dd8a7948b6af4234c75ffa1a76',
     slug: 'what-is-ethereum',
     imageLinks: [
@@ -339,7 +336,6 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
-    mirrorLink: undefined,
     notionId: 'a1ed1698f55a43b6aae19e72362deebc',
     slug: 'what-is-a-smart-contract',
     imageLinks: [
@@ -439,7 +435,6 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
-    mirrorLink: undefined,
     notionId: '8e47339a233c4be3bcc3fef8e3410a6d',
     slug: 'what-is-web3',
     imageLinks: [
@@ -545,7 +540,6 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
-    mirrorLink: undefined,
     notionId: 'c55b77e9f16c48dfbee36861f1002e62',
     slug: 'what-is-defi',
     imageLinks: [
@@ -652,7 +646,6 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
-    mirrorLink: undefined,
     notionId: 'cedfb1cc1ceb4f2091b3a1d7196d9b54',
     slug: 'what-are-nfts',
     imageLinks: [
@@ -750,7 +743,6 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
-    mirrorLink: undefined,
     notionId: '9621d67b42744b96bc03e839aa7904cf',
     slug: 'what-is-a-dao',
     imageLinks: [
@@ -896,7 +888,6 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
-    mirrorLink: undefined,
     notionId: '74052fbd16e7404ab20531dc7a3b1c9a',
     slug: 'what-is-the-metaverse',
     imageLinks: [
@@ -1007,7 +998,6 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
-    mirrorLink: undefined,
     notionId: '8e45589f9cb54504bcf0a8327b796cc3',
     slug: 'what-is-a-crypto-wallet',
     imageLinks: [
@@ -1029,13 +1019,13 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '0ece00d82d244fbaa554b10c3e1c1600',
         title: 'Wallet Intro',
-        content: '<div class="bloc1"><p><strong>Greetings!</strong></p><p>Welcome to humanDAO Academy. We’re excited to guide you on your journey into <span class="tooltip" definition="Refers to applications that run on the blockchain and allow anyone to participate without monetizing their personal data.">Web3</span>. To get started, you will need some essential equipment: a digital wallet.</p><p>A digital wallet is your passport to exploring the various worlds of Web3. This tool grants you access to incredible new possibilities while safeguarding your assets and identity.</p><p>In this lesson, we’ll introduce you to digital wallets, how they work, and how to set yours up to safely embark on your Web3 journey.</p><p>Let’s get started!</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/wallet-intro-79293004.png\'></div>'
+        content: '<div class="bloc1"><p><strong>Greetings!</strong></p><p>Welcome to humanDAO Academy. We’re excited to guide you on your journey into <code>Web3</code>. To get started, you will need some essential equipment: a digital wallet.</p><p>A digital wallet is your passport to exploring the various worlds of Web3. This tool grants you access to incredible new possibilities while safeguarding your assets and identity.</p><p>In this lesson, we’ll introduce you to digital wallets, how they work, and how to set yours up to safely embark on your Web3 journey.</p><p>Let’s get started!</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/wallet-intro-79293004.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: '72c3e439698a403aa73ca6c3db182146',
         title: 'Wallet Definition',
-        content: '<div class="bloc1"><p>In the world of cryptocurrency, a wallet refers to an application or device you can use to interact with a <span class="tooltip" definition="A shared, unchangeable database, or ledger, of recorded transactions.">blockchain</span>.</p><p>Your <span class="tooltip" definition="A wallet is an application or device used to send and receive crypto assets on the blockchain.">wallet</span> functions as a lock-box that secures your access to the blockchain.</p><p>When your wallet is connected to a blockchain, you can make purchases, transfer digital assets, interact with applications, and more!</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/wallet-definition-1abf2095.png\'></div>'
+        content: '<div class="bloc1"><p>In the world of cryptocurrency, a wallet refers to an application or device you can use to interact with a <code>blockchain</code>.</p><p>Your <code>wallet</code> functions as a lock-box that secures your access to the blockchain.</p><p>When your wallet is connected to a blockchain, you can make purchases, transfer digital assets, interact with applications, and more!</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/wallet-definition-1abf2095.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -1057,7 +1047,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'ec1bba6be18d4d31a80bbd35cbd71742',
         title: 'Recovery Phrase',
-        content: '<div class="bloc1"><p>When you set up a new <span class="tooltip" definition="A wallet is an application or device used to send and receive crypto assets on the blockchain.">wallet</span>, the software generates a unique <span class="tooltip" definition="A recovery phrase is a list of 12 to 24 words which is used to generate your wallet\'s public key and private key.">recovery phrase</span> that is specific to that wallet account.</p><p>Also sometimes called a <em>seed phrase</em> or <em>secret recovery phrase</em>, your recovery phrase can be used to access your wallet and crypto assets if:</p><ul><li>Your wallet app or hardware fails unexpectedly or gets damaged.</li><li>You are unable to access it due to misplacement or theft.</li><li>You want to access your wallet account through the wallet app on a different computer or device.</li></ul><p>Most recovery phrases are a list of 12 to 24 words that represent a unique piece of data. That data is used to generate the <span class="tooltip" definition="A public key is your address. It gives others a point of reference to send crypto assets to you.">public key</span> and <span class="tooltip" definition="A private key allows access to your wallet in order for you to send crypto assets to other address.">private key</span> for your wallet.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/recovery-phrase-6e90e4a1.png\'></div>'
+        content: '<div class="bloc1"><p>When you set up a new <code>wallet</code>, the software generates a unique <code>recovery phrase</code> that is specific to that wallet account.</p><p>Also sometimes called a <em>seed phrase</em> or <em>secret recovery phrase</em>, your recovery phrase can be used to access your wallet and crypto assets if:</p><ul><li>Your wallet app or hardware fails unexpectedly or gets damaged.</li><li>You are unable to access it due to misplacement or theft.</li><li>You want to access your wallet account through the wallet app on a different computer or device.</li></ul><p>Most recovery phrases are a list of 12 to 24 words that represent a unique piece of data. That data is used to generate the <code>public key</code> and <code>private key</code> for your wallet.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/recovery-phrase-6e90e4a1.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -1079,13 +1069,13 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '33f6e11ad7e642d9b8dbe4ccae690972',
         title: 'Public Key',
-        content: '<div class="bloc1"><p>You just learned how your <span class="tooltip" definition="A recovery phrase is a list of 12 to 24 words which is used to generate your wallet\'s public key and private key.">recovery phrase</span> relates to a <span class="tooltip" definition="A public key is your address. It gives others a point of reference to send crypto assets to you.">public key</span> and <span class="tooltip" definition="A private key allows access to your wallet in order for you to send crypto assets to other address.">private key</span>.</p><p>Note that a wallet can contain multiple accounts, and <em>each account</em> has a unique pair of public and private keys.</p><p>Think of a public key like your home address. It is public, anyone can see it, and it identifies the location to use to send crypto assets to you.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/public-key-b80f9290.png\'></div>'
+        content: '<div class="bloc1"><p>You just learned how your <code>recovery phrase</code> relates to a <code>public key</code> and <code>private key</code>.</p><p>Note that a wallet can contain multiple accounts, and <em>each account</em> has a unique pair of public and private keys.</p><p>Think of a public key like your home address. It is public, anyone can see it, and it identifies the location to use to send crypto assets to you.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/public-key-b80f9290.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: 'ce266730dded4a12aa06744b08d604ea',
         title: 'Private Key',
-        content: '<div class="bloc1"><p>If your <span class="tooltip" definition="A public key is your address. It gives others a point of reference to send crypto assets to you.">public key</span> is like your home address, then your <span class="tooltip" definition="A private key allows access to your wallet in order for you to send crypto assets to other address.">private key</span> is like your house key.</p><p>It\'s called private because <em>only you</em> should have access to it.</p><p>The private key unlocks access to your wallet and your crypto assets, allowing you to send them to other wallet addresses.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/private-key-ea18e30e.png\'></div>'
+        content: '<div class="bloc1"><p>If your <code>public key</code> is like your home address, then your <code>private key</code> is like your house key.</p><p>It\'s called private because <em>only you</em> should have access to it.</p><p>The private key unlocks access to your wallet and your crypto assets, allowing you to send them to other wallet addresses.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/private-key-ea18e30e.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -1107,7 +1097,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '19d5c88153564a729854cabf870173fc',
         title: 'Custodial Wallet',
-        content: '<div class="bloc1"><p>Since your <span class="tooltip" definition="A private key allows access to your wallet in order for you to send crypto assets to other address.">private key</span> unlocks access to your <span class="tooltip" definition="A wallet is an application or device used to send and receive crypto assets on the blockchain.">wallet</span>, keeping it private and secure is very important!</p><p>Not all wallets let you control your private key. With a <span class="tooltip" definition="With a custodial wallet, another party controls the private keys, thus controlling access to your crypto assets.">custodial wallet</span>, another party controls it. Accounts on Coinbase and Kraken are examples of custodial wallets that hold your private key.</p><p>This may be all some people need, but it requires you to trust these third parties to secure your crypto assets and give you access when you want to trade them or send them somewhere. Plus, your access to the world of <span class="tooltip" definition="An abbreviation for decentralized finance.">DeFi</span> applications will be limited. </p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/custodial-wallet-ebb957bc.png\'></div>'
+        content: '<div class="bloc1"><p>Since your <code>private key</code> unlocks access to your <code>wallet</code>, keeping it private and secure is very important!</p><p>Not all wallets let you control your private key. With a <code>custodial wallet</code>, another party controls it. Accounts on Coinbase and Kraken are examples of custodial wallets that hold your private key.</p><p>This may be all some people need, but it requires you to trust these third parties to secure your crypto assets and give you access when you want to trade them or send them somewhere. Plus, your access to the world of <code>DeFi</code> applications will be limited. </p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/custodial-wallet-ebb957bc.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -1127,7 +1117,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '6f7ad720c09e4b3c894955db87eb27cd',
         title: 'Non-custodial Wallet',
-        content: '<div class="bloc1"><p>Your passport to the exciting worlds of <span class="tooltip" definition="An abbreviation for decentralized finance.">DeFi</span> and <span class="tooltip" definition="Refers to applications that run on the blockchain and allow anyone to participate without monetizing their personal data.">Web3</span>—and the best way to safeguard your <span class="tooltip" definition="A private key allows access to your wallet in order for you to send crypto assets to other address.">private key</span> is a <span class="tooltip" definition="With a non-custodial wallet, you have sole control of your private keys, which in turn control your crypto assets.">non-custodial wallet</span>. </p><p>Remember: if you lose your private key, you will not be able to access your wallet to spend, withdraw, or transfer your crypto assets.</p><p>Fortunately, you <em>can</em> still recover your wallet with your <span class="tooltip" definition="A recovery phrase is a list of 12 to 24 words which is used to generate your wallet\'s public key and private key.">recovery phrase</span>. But if you lose that too, you will lose access to your wallet FOREVER!!!</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/non-custodial-wallet-97ed645e.png\'></div>'
+        content: '<div class="bloc1"><p>Your passport to the exciting worlds of <code>DeFi</code> and <code>Web3</code>—and the best way to safeguard your <code>private key</code> is a <code>non-custodial wallet</code>. </p><p>Remember: if you lose your private key, you will not be able to access your wallet to spend, withdraw, or transfer your crypto assets.</p><p>Fortunately, you <em>can</em> still recover your wallet with your <code>recovery phrase</code>. But if you lose that too, you will lose access to your wallet FOREVER!!!</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/non-custodial-wallet-97ed645e.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -1169,13 +1159,13 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'f8523bb3d7df45609c1b93514af689a7',
         title: 'Hot Wallet',
-        content: '<div class="bloc1"><p>There are two major types of <span class="tooltip" definition="With a non-custodial wallet, you have sole control of your private keys, which in turn control your crypto assets.">non-custodial wallets</span>: software wallets (also called <span class="tooltip" definition="A type of non-custodial wallet that is perpetually connected to the internet.">hot wallets</span>) and hardware wallets (also called <span class="tooltip" definition="A type of non-custodial wallet that is stored offline and does not require a perpetual internet connection.">cold wallets</span>)</p><p>A software wallet is an app or browser extension that remains connected to the internet.</p><ul><li>PROS 👍: It is usually free, simple to set up, and easy to use.</li><li>CONS 👎: Because it is software connected to the internet, it\'s potentially a target for hackers.</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/hot-wallet-ead529cd.png\'></div>'
+        content: '<div class="bloc1"><p>There are two major types of <code>non-custodial wallets</code>: software wallets (also called <code>hot wallets</code>) and hardware wallets (also called <code>cold wallets</code>)</p><p>A software wallet is an app or browser extension that remains connected to the internet.</p><ul><li>PROS 👍: It is usually free, simple to set up, and easy to use.</li><li>CONS 👎: Because it is software connected to the internet, it\'s potentially a target for hackers.</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/hot-wallet-ead529cd.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: 'cd8734d3ff474e5d98558f8f8d4b13df',
         title: 'Cold Wallet',
-        content: '<div class="bloc1"><p>A <span class="tooltip" definition="A type of non-custodial wallet that is stored offline and does not require a perpetual internet connection.">cold wallet</span>, or hardware wallet, is only connected to the internet when you physically connect it to a computer or device.</p><ul><li>PROS 👍: It is more secure from threats like hacking.</li><li>CONS 👎: It is not free, not ideal for quick transactions, and can be cumbersome to use.</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/cold-wallet-03c28814.png\'></div>'
+        content: '<div class="bloc1"><p>A <code>cold wallet</code>, or hardware wallet, is only connected to the internet when you physically connect it to a computer or device.</p><ul><li>PROS 👍: It is more secure from threats like hacking.</li><li>CONS 👎: It is not free, not ideal for quick transactions, and can be cumbersome to use.</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/cold-wallet-03c28814.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -1195,7 +1185,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '54f6a256d26b478cadcf14e29dc8c266',
         title: 'MetaMask Wallet',
-        content: '<div class="bloc1"><p>There are several non-custodial <span class="tooltip" definition="A type of non-custodial wallet that is perpetually connected to the internet.">hot wallets</span> available today. We will explore the popular MetaMask Wallet for the remainder of this lesson since:</p><ul><li>It is likely to be compatible with most <span class="tooltip" definition="An abbreviation for decentralized finance.">DeFi</span> apps.</li><li>It has a browser extension for Chrome, Brave, Edge, and Firefox internet browsers.</li><li>It is also available as a mobile app for Android and iOS users.</li></ul><p>Make sure to download your wallet from Metamask <a href=\'https://metamask.io/\'>HERE</a></p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/metamask-wallet-f25a861f.png\'></div>'
+        content: '<div class="bloc1"><p>There are several <code>non-custodial</code> <code>hot wallets</code> available today. We will explore the popular MetaMask Wallet for the remainder of this lesson since:</p><ul><li>It is likely to be compatible with most <code>DeFi</code> apps.</li><li>It has a browser extension for Chrome, Brave, Edge, and Firefox internet browsers.</li><li>It is also available as a mobile app for Android and iOS users.</li></ul><p>Make sure to download your wallet from Metamask <a href=\'https://metamask.io/\'>HERE</a></p></div><div class="bloc2"><img src=\'/humanDAO/lesson/what-is-a-crypto-wallet/metamask-wallet-f25a861f.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -1248,7 +1238,6 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
-    mirrorLink: undefined,
     notionId: '7bac5a1ae55e46b6a9258da0664a1241',
     slug: 'humandao-an-introduction',
     imageLinks: [
@@ -1451,7 +1440,6 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
-    mirrorLink: undefined,
     notionId: 'ecdabc1c4c464c11b5f57c9fff40abeb',
     slug: 'community-support-role',
     imageLinks: [
@@ -1557,7 +1545,6 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
-    mirrorLink: undefined,
     notionId: 'fc4db377982a4aa084e973c26279f0a6',
     slug: 'steps-to-resolution',
     imageLinks: [
@@ -1675,7 +1662,6 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
-    mirrorLink: undefined,
     notionId: 'a9b50baaa3384d6092fc89ed69604f15',
     slug: 'tools-for-moderation-and-collaboration',
     imageLinks: [
@@ -1953,7 +1939,6 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
-    mirrorLink: undefined,
     notionId: '6edd2bdfdac34f1692892d51bb9c6b37',
     slug: 'best-practices',
     imageLinks: [
@@ -2066,7 +2051,6 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
-    mirrorLink: undefined,
     notionId: 'e9cb40d162e746ec9b949166d8fd8178',
     slug: 'final-assessment',
     imageLinks: [
@@ -2122,7 +2106,6 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
-    mirrorLink: undefined,
     notionId: '4ea9b2c3e52246269a0573bd051e3b4d',
     slug: 'financial-literacy-101',
     imageLinks: [
@@ -2283,19 +2266,18 @@ const LESSONS: LessonType[] = [
     isCommentsEnabled: true,
     endOfLessonRedirect: null,
     endOfLessonText: 'IMPORTANT NOTE TO LEARNERS: You will soon be able to claim NON-transferable NFT badges and trophies for completing modules in the humanDAO Academy. These NFTs will represent your knowledge and experience in humanDAO and web3. We will use this in the future to help you find work and opportunities. So make sure you use a wallet address that will house your hDAO resume/CV awards AND don\'t lose it because they are NON-transferable.',
-    mirrorLink: undefined,
     notionId: '7ffcb6fa2a8548f8aecaff7820db4395',
     slug: 'web3-security',
     imageLinks: [
-      '/humanDAO/lesson/web3-security/money-in-web2-190f87c1.svg',
-      '/humanDAO/lesson/web3-security/money-in-web3-7f60128d.svg',
-      '/humanDAO/lesson/web3-security/two-factor-authentication-2fa-c92d43f1.svg',
-      '/humanDAO/lesson/web3-security/social-engineering-scams-a0aac42d.svg',
-      '/humanDAO/lesson/web3-security/social-media-red-flags-d76d77e4.svg',
-      '/humanDAO/lesson/web3-security/social-media-practices-for-staying-safe-650243ce.svg',
-      '/humanDAO/lesson/web3-security/scam-tokens-3f8ceef4.svg',
-      '/humanDAO/lesson/web3-security/hardware-wallets-7ee34f67.svg',
-      '/humanDAO/lesson/web3-security/wallet-strategies-b78918e6.svg',
+      '/humanDAO/lesson/web3-security/money-in-web2-a6434d51.png',
+      '/humanDAO/lesson/web3-security/money-in-web3-cbd715d6.png',
+      '/humanDAO/lesson/web3-security/two-factor-authentication-2fa-0b6ab6df.png',
+      '/humanDAO/lesson/web3-security/social-engineering-scams-af1182b3.png',
+      '/humanDAO/lesson/web3-security/social-media-red-flags-68446b46.png',
+      '/humanDAO/lesson/web3-security/social-media-practices-for-staying-safe-d2801f32.png',
+      '/humanDAO/lesson/web3-security/scam-tokens-9cec6b84.png',
+      '/humanDAO/lesson/web3-security/hardware-wallets-a3364e5b.png',
+      '/humanDAO/lesson/web3-security/wallet-strategies-4f8048de.png',
       '/humanDAO/lesson/web3-security/acknowledgment-48935d4a.jpg'
     ],
     slides: [
@@ -2309,13 +2291,13 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '7a832026438a4829b81970e96bc7964f',
         title: 'Money in Web2',
-        content: '<div class="bloc1"><p>In web2, the institutions (e.g banks or CEX’s like Binance) hold money on behalf of people. A user must provide a login ID and a password to access their identity to an institution in order to access and use their money.</p><p>For a scammer to gain access to your money, they need this ID + password combination. Because the institutions are charged with protecting your money, fraudulent transactions can be reversed - like a credit card transaction dispute.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/money-in-web2-190f87c1.svg\'></div>'
+        content: '<div class="bloc1"><p>In web2, the institutions (e.g banks or CEX’s like Binance) hold money on behalf of people. A user must provide a login ID and a password to access their identity to an institution in order to access and use their money.</p><p>For a scammer to gain access to your money, they need this ID + password combination. Because the institutions are charged with protecting your money, fraudulent transactions can be reversed - like a credit card transaction dispute.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/money-in-web2-a6434d51.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: '06346a5846eb4bcc9258a6c440f22174',
         title: '<strong>Money in Web3</strong>',
-        content: '<div class="bloc1"><p>In web3, money works differently. It’s more like a locked cash wallet; once money is spent, it’s gone. Private keys control access to the wallet, so if a scammer is successful in stealing these they can steal from your wallet.</p><p>It’s very important to protect seed phrases; people should never give their seed phrase to anyone. Nor, should they enter seed phrases digitally as files on your computer can all get compromised.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/money-in-web3-7f60128d.svg\'></div>'
+        content: '<div class="bloc1"><p>In web3, money works differently. It’s more like a locked cash wallet; once money is spent, it’s gone. Private keys control access to the wallet, so if a scammer is successful in stealing these they can steal from your wallet.</p><p>It’s very important to protect seed phrases; people should never give their seed phrase to anyone. Nor, should they enter seed phrases digitally as files on your computer can all get compromised.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/money-in-web3-cbd715d6.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -2363,7 +2345,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '211bc1a2abf24e5c9ef0c26bed67638a',
         title: 'Two-Factor Authentication (2FA)',
-        content: '<div class="bloc1"><p>Two Factor Authentication, also known as 2FA, is a secondary layer of web2 security.</p><p>Many people have had their web2 accounts hacked, or have had their money and credentials stolen despite having strong passwords. Web2 websites (and even password managers) often use a second layer of security 2FA as well. 2FA generates single-use codes sent to another device (usually mobile), in addition to the normal password, to enable website log-in.</p><p>Authentication applications like Authy very secure 2FA solutions.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/two-factor-authentication-2fa-c92d43f1.svg\'></div>'
+        content: '<div class="bloc1"><p>Two Factor Authentication, also known as 2FA, is a secondary layer of web2 security.</p><p>Many people have had their web2 accounts hacked, or have had their money and credentials stolen despite having strong passwords. Web2 websites (and even password managers) often use a second layer of security 2FA as well. 2FA generates single-use codes sent to another device (usually mobile), in addition to the normal password, to enable website log-in.</p><p>Authentication applications like Authy very secure 2FA solutions.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/two-factor-authentication-2fa-0b6ab6df.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -2385,7 +2367,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'eceb3a4403024bdda9172d628d2ca9d8',
         title: '<strong>Social Engineering Scams</strong>',
-        content: '<div class="bloc1"><p>In both web2 and web3, scammers use phishing tactics to trick people into giving up their passwords and seed phrases. Often they’ll pretend to be product support staff offering help, “Hello this is Metamask support”, or pretend to be an admin of a community, “New NFT mint, exclusive for our community”.</p><p>They use social engineering to pressure people. Examples include:</p><ul><li>“Time is running out!” - making you feel rushed.</li><li>“Congratulations you won our giveaway!” - making things feel exclusive.</li><li>”Get early access to our pre-mint!” - generating FOMO in the person being scammed.</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/social-engineering-scams-a0aac42d.svg\'></div>'
+        content: '<div class="bloc1"><p>In both web2 and web3, scammers use phishing tactics to trick people into giving up their passwords and seed phrases. Often they’ll pretend to be product support staff offering help, “Hello this is Metamask support”, or pretend to be an admin of a community, “New NFT mint, exclusive for our community”.</p><p>They use social engineering to pressure people. Examples include:</p><ul><li>“Time is running out!” - making you feel rushed.</li><li>“Congratulations you won our giveaway!” - making things feel exclusive.</li><li>”Get early access to our pre-mint!” - generating FOMO in the person being scammed.</li></ul></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/social-engineering-scams-af1182b3.png\'></div>'
       },
       {
         type: 'LEARN',
@@ -2419,19 +2401,19 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '11456c472677443dab1732633d78a844',
         title: 'Social media red flags',
-        content: '<div class="bloc1"><p>🚩 Language and grammar errors: They’re/their/there, etc.<br>🚩 FOMO: “Don’t miss out!”<br>🚩 Impersonation: an admin, support desk, Vitalik Buterin, Elon Musk, etc.<br>🚩 Guaranteed returns: Nothing is guaranteed in crypto.<br>🚩 Unrequested links and offers, especially in direct messages.<br>Media Safety</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/social-media-red-flags-d76d77e4.svg\'></div>'
+        content: '<div class="bloc1"><p>🚩 Language and grammar errors: They’re/their/there, etc.<br>🚩 FOMO: “Don’t miss out!”<br>🚩 Impersonation: an admin, support desk, Vitalik Buterin, Elon Musk, etc.<br>🚩 Guaranteed returns: Nothing is guaranteed in crypto.<br>🚩 Unrequested links and offers, especially in direct messages.<br>Media Safety</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/social-media-red-flags-68446b46.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: 'bf9b23b4c57d428daac2fface0ff3b02',
         title: '<strong>Social Media Practices for staying safe:</strong>',
-        content: '<div class="bloc1"><p>✅ If they have to direct message you to sell their product, you probably don’t want it.<br>✅ Check the project follower and member count - though these do not guarantee project legitimacy, quality, or stability.<br>✅ Verify everything with an outside source, like another official project account.<br>✅ If you’re ever uncertain, check with reputable members from a community you trust - and ask in public.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/social-media-practices-for-staying-safe-650243ce.svg\'></div>'
+        content: '<div class="bloc1"><p>✅ If they have to direct message you to sell their product, you probably don’t want it.<br>✅ Check the project follower and member count - though these do not guarantee project legitimacy, quality, or stability.<br>✅ Verify everything with an outside source, like another official project account.<br>✅ If you’re ever uncertain, check with reputable members from a community you trust - and ask in public.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/social-media-practices-for-staying-safe-d2801f32.png\'></div>'
       },
       {
         type: 'LEARN',
         notionId: '75750623a6a545b8b221d751412edbbb',
         title: 'Scam tokens',
-        content: '<div class="bloc1"><p>Besides social engineering, the second most common web3 attack is having scam-tokens sent to your web3 wallet. Scam-tokens are crypto tokens that scammers transfer to many wallets at once, in the hopes that someone will try to move or sell the tokens and trigger the malicious code hiding in the token’s smart contract.</p><p>Malicious contracts often require people to spend far more on a transaction than is necessary in order to sell these scam-tokens, and others can completely drain wallets; these scam-tokens could even be NFTs! If the problem isn’t with the smart contract itself, scam-tokens will often lure victims back to phishing websites where scammers try to trick victims into entering their seed phrase or other credentials.</p><p>The best thing to do when you receive random tokens is to not interact with them at all; leave them in your wallet and never transfer/sell them.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/scam-tokens-3f8ceef4.svg\'></div>'
+        content: '<div class="bloc1"><p>Besides social engineering, the second most common web3 attack is having scam-tokens sent to your web3 wallet. Scam-tokens are crypto tokens that scammers transfer to many wallets at once, in the hopes that someone will try to move or sell the tokens and trigger the malicious code hiding in the token’s smart contract.</p><p>Malicious contracts often require people to spend far more on a transaction than is necessary in order to sell these scam-tokens, and others can completely drain wallets; these scam-tokens could even be NFTs! If the problem isn’t with the smart contract itself, scam-tokens will often lure victims back to phishing websites where scammers try to trick victims into entering their seed phrase or other credentials.</p><p>The best thing to do when you receive random tokens is to not interact with them at all; leave them in your wallet and never transfer/sell them.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/scam-tokens-9cec6b84.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -2453,7 +2435,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: '26d60fa1b6184aa59d989dfbe7756080',
         title: 'Hardware Wallets',
-        content: '<div class="bloc1"><p>If you remember from our <a href=\'https://app.banklessacademy.com/lessons/wallet-basics\'>Wallet Basics</a> lesson, a hardware wallet is only connected to the internet when you physically connect it to a computer or device that is connected to the internet. This makes your funds much safer as someone would have to physically steal your device and hack into it in order to find your seed phrase.</p><p>It is even possible to use your hardware wallet through many browser extension wallets, like MetaMask. By using this setup, you receive the convenience of a single wallet interface with the security of using a hardware wallet.</p><p>Ledger has <a href=\'https://www.ledger.com/academy/security/the-safest-way-to-use-metamask\'>written their own guide</a> on how to setup MetaMask for use with their hardware wallet device.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/hardware-wallets-7ee34f67.svg\'></div>'
+        content: '<div class="bloc1"><p>If you remember from our <a href=\'https://app.banklessacademy.com/lessons/wallet-basics\'>Wallet Basics</a> lesson, a hardware wallet is only connected to the internet when you physically connect it to a computer or device that is connected to the internet. This makes your funds much safer as someone would have to physically steal your device and hack into it in order to find your seed phrase.</p><p>It is even possible to use your hardware wallet through many browser extension wallets, like MetaMask. By using this setup, you receive the convenience of a single wallet interface with the security of using a hardware wallet.</p><p>Ledger has <a href=\'https://www.ledger.com/academy/security/the-safest-way-to-use-metamask\'>written their own guide</a> on how to setup MetaMask for use with their hardware wallet device.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/hardware-wallets-a3364e5b.png\'></div>'
       },
       {
         type: 'QUIZ',
@@ -2473,7 +2455,7 @@ const LESSONS: LessonType[] = [
         type: 'LEARN',
         notionId: 'af7a07e4d5974d3fb3af071a79cb6acc',
         title: 'Wallet Strategies',
-        content: '<div class="bloc1"><p>After adding a hardware wallet to your setup, one of the best ways to secure your funds is to keep them spread between multiple wallets. Here is a strategy using three separate wallets:</p><ol><li>Social Wallet: A wallet that serves as your web3 identity for logins — like for the <a href=\'https://app.banklessacademy.com/lessons/academy-community\'>Bankless Academy community</a> or web3 social media — use a hardware wallet for extra security.</li><li>Trading Wallet: A hot wallet for trading and other activities involving funds that may need to be moved on short notice.</li><li>HODL Wallet: A hardware wallet for the long-term HODL — these are funds intended to hold for a long time. It’s recommended to not use this wallet for interacting with smart contracts.</li></ol><p>👍 PROs: Separation ensures that scams only threaten funds in that particular wallet rather than everything.</p><p>👎 CONs: It’s more complicated to keep track of, but many wallet applications allow you to name your wallets.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/wallet-strategies-b78918e6.svg\'></div>'
+        content: '<div class="bloc1"><p>After adding a hardware wallet to your setup, one of the best ways to secure your funds is to keep them spread between multiple wallets. Here is a strategy using three separate wallets:</p><ol><li>Social Wallet: A wallet that serves as your web3 identity for logins — like for the <a href=\'https://app.banklessacademy.com/lessons/academy-community\'>Bankless Academy community</a> or web3 social media — use a hardware wallet for extra security.</li><li>Trading Wallet: A hot wallet for trading and other activities involving funds that may need to be moved on short notice.</li><li>HODL Wallet: A hardware wallet for the long-term HODL — these are funds intended to hold for a long time. It’s recommended to not use this wallet for interacting with smart contracts.</li></ol><p>👍 PROs: Separation ensures that scams only threaten funds in that particular wallet rather than everything.</p><p>👎 CONs: It’s more complicated to keep track of, but many wallet applications allow you to name your wallets.</p></div><div class="bloc2"><img src=\'/humanDAO/lesson/web3-security/wallet-strategies-4f8048de.png\'></div>'
       },
       {
         type: 'QUIZ',
